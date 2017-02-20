@@ -27,7 +27,7 @@
 							<div class="push20"><a href="info/info.php"><img src="images/demo/gallery.gif" alt="Praktisk information"></a></div>
 						</li>
 						<li class="one_third">
-							<div class="push20"><a href="="../program/program.php"><img src="images/demo/gallery.gif" alt="Program"></a></div>
+							<div class="push20"><a href="program/program.php"><img src="images/demo/gallery.gif" alt="Program"></a></div>
 						</li>
 						<li class="one_third">
 							<div class="push20"><a href="delta/delta.php#bli_sponsor"><img src="images/demo/gallery.gif" alt="Bli sponsor"></a></div>
