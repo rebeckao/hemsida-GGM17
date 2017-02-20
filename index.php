@@ -20,7 +20,7 @@
 			</section>
 			<!-- #### -->
 			<section>
-				<ul class="nospace clear">
+				<ul class="nospace">
 					<li class="one_third first">
 						<div class="push20"><a href="info/info.php"><img src="images/demo/192x192.gif" alt="Praktisk information"></a></div>
 					</li>
