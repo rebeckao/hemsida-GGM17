@@ -10,14 +10,14 @@
 <div class="wrapper row3">
   <div id="container">
     <section class="clear" id="var_och_nar">
-			<div class="three_quarter first">
+			<div class="two_third first">
 				<h1>Var och när</h1>
 				<p>Aliquatjusto quisque nam consequat doloreet vest orna partur scetur portortis nam. Metadipiscing eget facilis elit sagittis felisi eger id justo maurisus convallicitur.</p>
-				<h2>Hitta hit</h2>
+				<h2 class="font-medium">Hitta hit</h2>
 				<p>Aliquatjusto quisque nam consequat doloreet vest orna partur scetur portortis nam. Metadipiscing eget facilis elit sagittis felisi eger id justo maurisus convallicitur.</p>
 			</div>
-			<div class="one_quarter">
-				<figure class="imgr boxholder"><img src="../images/demo/120x120.gif" alt=""></figure>
+			<div class="one_third">
+				<figure class="imgr boxholder"><img src="../images/demo/192x192.gif" alt="Karta"></figure>
 			</div>
     </section>
     <!-- ################################################################################################ -->
