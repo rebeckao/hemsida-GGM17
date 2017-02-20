@@ -11,7 +11,7 @@
   <div id="container">
     <!-- ################################################################################################ -->
     <div id="homepage" class="clear">
-      <div class="three_quarter first" id="intro">
+      <div class="four_fifth first" id="intro">
         <!-- #### -->
         <section class="">
 					<h1>Geek Evolution</h1>
@@ -36,39 +36,37 @@
 				</section>
         <!-- #### -->
       </div>
-      <div class="one_quarter" id="sponsorer">
+      <div class="one_fifth">
+		<section id="sponsorer">
+			<figure>
 				<h2 class="font-medium"><a href="#">Sponsorer</a></h2>
 				<ul class="nospace spacing clear">
-						<li>
-							<a href="http://www.acando.se/" target="_blank">
-								<figure>
-									<img width="1241" height="403" src="images/sponsorer/Acando_Tagline_Blue_RGB_Office.png" alt="Acando"/>
-								</figure>
-							</a>
-						</li>
-						<li>
-							<a href="https://www.academicwork.se/" target="_blank">
-								<figure>
-									<img width="1241" height="403" src="images/sponsorer/akademicwork_logo.png" alt="Academic Work"/>
-								</figure>
-							</a>
-						</li>
-						<li>
-							<a href="http://www.mirado.com/" target="_blank">
-								<figure>
-									<img width="1241" height="403" src="images/sponsorer/Mirado.jpg" alt="Mirado"/>
-								</figure>
-							</a>
-						</li>
-						<li>
-							<a href="https://www.spotify.com/se/" target="_blank">
-								<figure>
-									<img width="1241" height="403" src="images/sponsorer/spotify_logo.png" alt="Spotify"/>
-								</figure>
-							</a>
-						</li>
-						<li><a href="delta/delta.php#bli_sponsor">Bli sponsor</a></li>
+					<li>
+						<a href="http://www.acando.se/" target="_blank">
+							<img src="images/sponsorer/Acando_Tagline_Blue_RGB_Office.png" alt="Acando"/>
+						</a>
+					</li>
+					<li>
+						<a href="https://www.academicwork.se/" target="_blank">
+							<img src="images/sponsorer/akademicwork_logo.png" alt="Academic Work"/>
+						</a>
+					</li>
+					<li>
+						<a href="http://www.mirado.com/" target="_blank">
+							<img src="images/sponsorer/Mirado.jpg" alt="Mirado"/>
+						</a>
+					</li>
+					<li>
+						<a href="https://www.spotify.com/se/" target="_blank">
+							<img src="images/sponsorer/spotify_logo.png" alt="Spotify"/>
+						</a>
+					</li>
 				</ul>
+				<figcaption>
+					<p align="right"><a href="delta/delta.php#bli_sponsor">Bli sponsor</a></p>
+				</figcaption>
+			</figure>
+		</section>
       </div>
     </div>
   </div>
