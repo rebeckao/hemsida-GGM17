@@ -19,7 +19,7 @@
 						<p>En beskrivning av årets tema och hur awesome det är! Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam blandit justo eget felis condimentum pretium. Suspendisse eget est aliquam, porta libero fermentum, elementum ipsum.</p>
 						<p>Morbi congue vel tortor non condimentum.</p>
 					</div>
-					<div class="one_third"><a href="https://simplesignup.se/event/74734-geek-girl-meetup-riksevent-ggm16-better-together" class="button large gradient orange">Anmäl dig nu</a></div>
+					<div class="one_third"><?php include("includes/ticket_button.html"); ?></div>
 				</section>
 				<!-- #### -->
 				<section>
