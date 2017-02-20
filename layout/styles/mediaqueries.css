@@ -102,20 +102,22 @@ Licence: <a href="http://www.os-templates.com/template-terms">Website Template L
 
 /* 960px */
 
-@media screen and (min-width:960px) {
+@media screen and (min-width:801px) {
+	body.boxed .wrapper{max-width:768px;}
 	#header, #topnav, #intro, #container, #footer, #copyright{max-width:95%; margin:0 auto;}
 }
 
 /* 1028px */
 
 @media screen and (min-width:1028px) {
+	body.boxed .wrapper{max-width:768px;}
 	#header, #topnav, #intro, #container, #footer, #copyright{max-width:95%; margin:0 auto;}
 }
 
 /* 1200px */
 
 @media screen and (min-width:1200px) {
-	body.boxed .wrapper{max-width:1140px;}
+	body.boxed .wrapper{max-width:768px;}
 	#header, #topnav, #intro, #container, #footer, #copyright, .stretched{max-width:1200px; margin:0 auto;}
 }
 

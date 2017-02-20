@@ -13,7 +13,7 @@
 		<div id="homepage" class="clear">
 			<div class="four_fifth first" id="intro">
 				<!-- #### -->
-				<section class="">
+				<section class="clear">
 					<h1>Geek Evolution</h1>
 					<div class="two_third first">
 						<p>En beskrivning av årets tema och hur awesome det är! Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam blandit justo eget felis condimentum pretium. Suspendisse eget est aliquam, porta libero fermentum, elementum ipsum.</p>
@@ -22,16 +22,16 @@
 					<div class="one_third"><a href="https://simplesignup.se/event/74734-geek-girl-meetup-riksevent-ggm16-better-together" class="button large gradient orange">Anmäl dig nu</a></div>
 				</section>
 				<!-- #### -->
-				<section id="notiser">
+				<section>
 					<ul class="nospace push50 clear">
 						<li class="one_third first">
-							<div class="push20"><a href="info/info.php"><img src="images/demo/gallery.gif" alt="Praktisk information"></a></div>
+							<div class="push20"><a href="info/info.php"><img src="images/demo/192x192.gif" alt="Praktisk information"></a></div>
 						</li>
 						<li class="one_third">
-							<div class="push20"><a href="program/program.php"><img src="images/demo/gallery.gif" alt="Program"></a></div>
+							<div class="push20"><a href="program/program.php"><img src="images/demo/192x192.gif" alt="Program"></a></div>
 						</li>
 						<li class="one_third">
-							<div class="push20"><a href="delta/delta.php#bli_sponsor"><img src="images/demo/gallery.gif" alt="Bli sponsor"></a></div>
+							<div class="push20"><a href="delta/delta.php#bli_sponsor"><img src="images/demo/192x192.gif" alt="Bli sponsor"></a></div>
 						</li>
 					</ul>
 				</section>
