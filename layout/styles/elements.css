@@ -273,7 +273,7 @@ Licence: <a href="http://www.os-templates.com/template-terms">Website Template L
 .pricingtable-wrapper .pricingtable .pricingtable-signup{padding:10px;}
 .pricingtable-wrapper .pricingtable .pricingtable-signup a{display:block;}
 .pricingtable-wrapper .pricingtable .pricingtable-title, 
-.pricingtable-wrapper .pricingtable .pricingtable-price{color:#333333; background-color:#EEEEEE;}
+.pricingtable-wrapper .pricingtable .pricingtable-price{color:#333333; background-color:#EEEEEE; margin-bottom:10px}
 .pricingtable-wrapper.opt2{padding:10px 10px 0 10px; border:5px solid #E5E4E3;}
 
 /* Pricing Tables + Rounded Corners */
