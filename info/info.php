@@ -13,7 +13,7 @@
 			<div class="three_quarter first">
 				<h1>Var och när</h1>
 				<p>Aliquatjusto quisque nam consequat doloreet vest orna partur scetur portortis nam. Metadipiscing eget facilis elit sagittis felisi eger id justo maurisus convallicitur.</p>
-				<h2>Hitta hit</h2>
+				<h2 class="font-medium">Hitta hit</h2>
 				<p>Aliquatjusto quisque nam consequat doloreet vest orna partur scetur portortis nam. Metadipiscing eget facilis elit sagittis felisi eger id justo maurisus convallicitur.</p>
 			</div>
 			<div class="one_quarter">
