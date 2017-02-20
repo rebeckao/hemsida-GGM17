@@ -11,7 +11,7 @@
   <div id="container">
 		<p>Program kommer</p>
 		<p><a href="../delta/delta.php#delta_i_programmet">Håll i en programpunkt</a></p>
-		<p>Se <a href="http://bettertogether.se/program/">förra</a> och <a href="http://bigsister.se/program/">förrförra</a> årets program</p>
+		<p>Se <a href="http://bettertogether.se/program/" target="_blank">förra</a> och <a href="http://bigsister.se/program/" target="_blank">förrförra</a> årets program</p>
   </div>
 </div>
 
