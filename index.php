@@ -23,33 +23,14 @@
         <!-- #### -->
         <section id="notiser">
 					<ul class="nospace push50 clear">
-						<li class="one_quarter first">
-							<article class="boxholder">
-								<div class="push20"><img src="images/demo/gallery.gif" alt=""></div>
-								<h2 class="font-medium nospace"><a href="#">Praktisk information</a></h2>
-								<p class="nospace">Var? När? Hur mycket kostar det?</p>
-							</article>
+						<li class="one_third first">
+							<div class="push20"><a href="info/info.php"><img src="images/demo/gallery.gif" alt="Praktisk information"></a></div>
 						</li>
-						<li class="one_quarter">
-							<article class="boxholder">
-								<div class="push20"><img src="images/demo/gallery.gif" alt=""></div>
-								<h2 class="font-medium nospace"><a href="#">Program</a></h2>
-								<p class="nospace">Årets program är >9000! Eller kommer att bli, när det finns.</p>
-							</article>
+						<li class="one_third">
+							<div class="push20"><a href="="../program/program.php"><img src="images/demo/gallery.gif" alt="Program"></a></div>
 						</li>
-						<li class="one_quarter">
-							<article class="boxholder">
-								<div class="push20"><img src="images/demo/gallery.gif" alt=""></div>
-								<h2 class="font-medium nospace"><a href="#">Programpunkt</a></h2>
-								<p class="nospace">Kolla vem som kommer att hålla en spännande workshop!</p>
-							</article>
-						</li>
-						<li class="one_quarter">
-							<article class="boxholder">
-								<div class="push20"><img src="images/demo/gallery.gif" alt=""></div>
-								<h2 class="font-medium nospace"><a href="#">Bli sponsor</a></h2>
-								<p class="nospace">Vill du att alla geek girls ska vilja jobba för dig? Ge oss pengar!</p>
-							</article>
+						<li class="one_third">
+							<div class="push20"><a href="delta/delta.php#bli_sponsor"><img src="images/demo/gallery.gif" alt="Bli sponsor"></a></div>
 						</li>
 					</ul>
 				</section>
