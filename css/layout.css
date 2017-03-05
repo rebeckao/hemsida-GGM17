@@ -165,38 +165,39 @@ ul#nav li.current a { color: #fff; }
 
 #hero {
    padding-top: 66px;
-   background: #23292f url(img/hero-bg.png);
+   background: #000 url(img/GGM17_1x3.jpg);
+	 background-size: 1500px;
+   background-position: center; 
+   background-repeat: no-repeat;
    overflow: hidden;
-}
-
-/* For high-res devices */
-@media
-(-webkit-min-device-pixel-ratio: 2),
-(min-resolution: 192dpi) {
-
-	#hero { 
-		background: #23292f url(img/hero-bg_@2X.png); 
-		background-size: 200px 200px;
-	}
-  
 }
 
 #hero .row { max-width: 1040px; }
 
 /* Hero Text */
 .hero-text {
-	color: #676e73;
+	 background: none repeat scroll 0 0 rgba(0, 0, 0, 0.8);
+	 border-radius: 25px;
+	 color: #f2f2f2;
    width: 83%;
    text-align: center;
-   margin: 54px auto 24px auto;
+   margin: 24px auto 24px auto;
 }
 .hero-text h1 {
-   font: 40px/1.2em 'vag-rounded-bold', sans-serif; 
+   font: 60px/2.5em 'vag-rounded-bold', sans-serif; 
    color: #fff;
    padding: 0;
    margin: 0;
-	 letter-spacing: 2px;
+	 letter-spacing: 3px;
    text-shadow: 0px 1px 4px rgba(0, 0, 0, .2);
+}
+.hero-text h2 { 
+   font: 23px/1.2em 'opensans-regular', sans-serif;
+   color: #fab76b;
+}
+.hero-text h3 { 
+   font: 20px/1.2em 'opensans-regular', sans-serif;
+   color: #fab76b;
 }
 .hero-text h1 span,
 .hero-text a { color: #11ABB0; }

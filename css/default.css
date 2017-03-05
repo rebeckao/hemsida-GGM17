@@ -491,10 +491,11 @@ input[type="submit"],
 input[type="reset"],
 input[type="button"] {
    font: 14px/24px 'vag-rounded-bold', sans-serif;
-   background: #11ABB0;
+   background: #00c0f3;
    color: #fff;
    display: inline-block;   
 	text-decoration: none;
+   text-shadow: 1px 1px 1px rgba(0, 0, 0, .25);
    letter-spacing: 0;   
 	padding: 12px 20px;
 	margin-bottom: 18px;
@@ -518,7 +519,7 @@ button:hover,
 input[type="submit"]:hover,
 input[type="reset"]:hover,
 input[type="button"]:hover {
-   background: #14D0D6;
+   background: #0acaff;
    color: #fff;
 }
 
