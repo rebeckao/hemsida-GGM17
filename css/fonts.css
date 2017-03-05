@@ -158,5 +158,14 @@
    font-family: 'montserrat-bold';
    src: url('fonts/montserrat/montserrat-bold-webfont.svg#montserratbold') format('svg');
    }   
+}
 
+/*
+ * VAG Rounded
+================================================================================ */
+@font-face {
+   font-family: 'vag-rounded-bold';
+   src: url('fonts/VAG Rounded Bold.ttf') format('truetype');
+   font-weight: normal;
+   font-style: normal;
 }

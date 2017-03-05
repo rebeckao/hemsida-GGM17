@@ -184,7 +184,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
    color: #313131;
-	font-family: 'montserrat-bold', sans-serif;
+	 font-family: 'vag-rounded-bold', sans-serif;
    font-weight: normal;
 }
 h1 a, h2 a, h3 a, h4 a, h5 a, h6 a { font-weight: inherit; }
@@ -299,7 +299,7 @@ abbr:hover { cursor: help; }
 	margin: 0;
 	padding: 14px 6px 0 0;
 	font-size: 84px;
-	font-family: /* Copperplate */ 'montserrat-bold', sans-serif;
+	font-family: /* Copperplate */ 'vag-rounded-bold', sans-serif;
    line-height: 60px;
 	text-indent: 0;
 	background: transparent;
@@ -490,7 +490,7 @@ button,
 input[type="submit"],
 input[type="reset"],
 input[type="button"] {
-   font: 14px/24px 'montserrat-bold', sans-serif;
+   font: 14px/24px 'vag-rounded-bold', sans-serif;
    background: #11ABB0;
    color: #fff;
    display: inline-block;   
