@@ -248,13 +248,9 @@ ul#nav li.current a { color: #fff; }
 
 #tickets {
    background: #fff;
-   padding-top: 96px;
-   padding-bottom: 78px;
+   padding-top: 50px;
+   padding-bottom: 50px;
    overflow: hidden;
-}
-#tickets .feature {
-   margin-top: 30px;
-   margin-bottom: 54px;
 }
 #tickets .right {
    padding-left: 32px;
@@ -264,11 +260,8 @@ ul#nav li.current a { color: #fff; }
    padding-right: 32px;
    float: left;   
 }
-#tickets h3 {
-   font: 16px/24px 'vag-rounded-bold', sans-serif;
-   text-transform: uppercase;
-   letter-spacing: 1px;
-   color: #222;
+#tickets .buttons {
+   text-align: right;
 }
 .fluid-video-wrapper { margin-top: 18px; }
 
