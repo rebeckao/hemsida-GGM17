@@ -8,8 +8,12 @@
    TOC:
       General and Common Styles
       Header Styles
-      Intro Section
-      Info Section
+      Intro
+      Tickets
+	  Sponsors
+	  Program
+	  Talare
+	  Moderatorer
 	  ...
       Footer
       lightbox
@@ -290,28 +294,28 @@ ul#nav li.current a { color: #fff; }
 
 }
 /* ------------------------------------------------------------------ */
-/* d. Features Section
+/* Talare
 /* ------------------------------------------------------------------ */
 
-#features {
+#talare {
    background: #fff;
    padding-top: 96px;
    padding-bottom: 78px;
    overflow: hidden;
 }
-#features .feature {
+#talare .feature {
    margin-top: 30px;
    margin-bottom: 54px;
 }
-#features .right {
+#talare .right {
    padding-left: 32px;
    float: right;   
 }
-#features .left {
+#talare .left {
    padding-right: 32px;
    float: left;   
 }
-#features h3 {
+#talare h3 {
    font: 16px/24px 'vag-rounded-bold', sans-serif;
    text-transform: uppercase;
    letter-spacing: 1px;
