@@ -223,9 +223,8 @@
        </div>
       <div class="row feature design">
          <div class="six columns right">
-            <h3>Talare 1</h3>
-            <p>Lorem ipsum dolor sit amet, ea eum labitur scripserit, illum complectitur deterruisset at pro. Odio quaeque reformidans est eu, expetendis intellegebat has ut, viderer invenire ut his. Has molestie percipit an. Falli volumus efficiantur sed id, ad vel noster propriae. Ius ut etiam vivendo, graeci iudicabit constituto at mea. No soleat fabulas prodesset vel, ut quo solum dicunt.
-            Nec et amet vidisse mentitum. Cibo mutat nulla ei eam.
+            <h3>Sara Riggare (KI)</h3>
+            <p> Håll utkik efter fler detaljer!
             </p>
          </div>
          <div class="six columns feature-media left">
@@ -234,11 +233,8 @@
       </div>
       <div class="row feature responsive">
          <div class="six columns left">
-            <h3>Talare 2</h3>
-            <p>Aenean condimentum, lacus sit amet luctus lobortis, dolores et quas molestias excepturi
-            enim tellus ultrices elit, amet consequat enim elit noneas sit amet luctu.
-            Quis nostrum exercitationem ullam corporis suscipit laboriosam.Our library is continually refreshed with the latest on web technology
-            so you'll never fall behind. Quis nostrum exercitationem ullam corporis suscipit laboriosam.
+            <h3>Maria Kareliusson, biohacker</h3>
+            <p> Håll utkik efter fler detaljer!
             </p>
          </div>
          <div class="six columns feature-media right">
@@ -247,9 +243,8 @@
       </div>
       <div class="row feature cross-browser">
          <div class="six columns right">
-            <h3>Talare 3</h3>
-            <p>Lorem ipsum dolor sit amet, ea eum labitur scripserit, illum complectitur deterruisset at pro. Odio quaeque reformidans est eu, expetendis intellegebat has ut, viderer invenire ut his. Has molestie percipit an. Falli volumus efficiantur sed id, ad vel noster propriae. Ius ut etiam vivendo, graeci iudicabit constituto at mea. No soleat fabulas prodesset vel, ut quo solum dicunt.
-            Nec et amet vidisse mentitum. Cibo mutat nulla ei eam.
+            <h3>Annelie Demred, Commercial Director på Bambuser</h3>
+            <p>Håll utkik efter fler detaljer!
             </p>
          </div>
          <div class="six columns feature-media left">
@@ -259,9 +254,7 @@
       <div class="row feature video">
          <div class="six columns left">
             <h3>Lajvströmming</h3>
-            <p>Aenean condimentum, lacus sit amet luctus lobortis, dolores et quas molestias excepturi
-            enim tellus ultrices elit, amet consequat enim elit noneas sit amet luctu.
-            Quis nostrum exercitationem ullam corporis suscipit laboriosam. No soleat fabulas prodesset vel, ut quo solum dicunt. Nec et amet vidisse mentitum. Cibo mutat nulla ei eam.
+            <p>
             </p>
          </div>
          <div class="six columns feature-media right">
@@ -447,113 +440,10 @@
       <div class="row section-head">
 
          <h1>Bli sponsor</h1>
-
+	      
+	 <p>Vill du bli sponsor? Kontakta oss på <a href="#">GGMIF-adress</a>
+         </p>
       </div>
-
-      <div class="row">
-
-         <div class="pricing-tables bgrid-quarters s-bgrid-halves">
-
-            <div class="column">
-
-               <div class="price-block">
-
-                  <h3 class="plan-title"><i class="fa fa-cog"></i>Big sister</h3>
-                  <p class="plan-price">FREE <span>per month</span></p>
-
-                  <ul class="features">
-                     <li>1GB Storage</li>
-                     <li>5GB Bandwidth</li>
-                     <li>2 Domains</li>
-                     <li>3 Databases</li>
-                     <li>1 FTP Account</li>
-                     <li>25 Email Accounts</li>
-                  </ul>
-
-                  <footer class="plan-sign-up">
-                     <a class="button" href="">Sign Up</a>
-                  </footer>
-
-               </div> <!-- End Price Block -->
-
-			   </div> <!-- End Column -->
-
-            <div class="column">
-
-               <div class="price-block">
-
-                  <h3 class="plan-title"><i class="fa fa-thumbs-up"></i>Middle Sister</h3>
-                  <p class="plan-price">$9.99 <span>per month</span></p>
-
-                  <ul class="features">
-                     <li>3GB Storage</li>
-                     <li>10GB Bandwidth</li>
-                     <li>3 Domains</li>
-                     <li>5 Databases</li>
-                     <li>3 FTP Account</li>
-                     <li>30 Email Accounts</li>
-                  </ul>
-
-                  <footer class="plan-sign-up">
-                     <a class="button" href="">Sign Up</a>
-                  </footer>
-
-               </div> <!-- End Price Block -->
-
-			   </div> <!-- End Column -->
-
-           <div class="column">
-
-               <div class="price-block">
-
-                  <h3 class="plan-title"><i class="fa fa-star"></i>Little sister</h3>
-                  <p class="plan-price">$19.99 <span>per month</span></p>
-
-                  <ul class="features">
-                     <li>10GB Storage</li>
-                     <li>25GB Bandwidth</li>
-                     <li>5 Domains</li>
-                     <li>10 Databases</li>
-                     <li>10 FTP Account</li>
-                     <li>50 Email Accounts</li>
-                  </ul>
-
-                  <footer class="plan-sign-up">
-                     <a class="button" href="">Sign Up</a>
-                  </footer>
-
-               </div> <!-- End Price block -->
-
-			   </div> <!-- End Column -->
-
-            <div class="column">
-
-               <div class="price-block">
-
-                  <h3 class="plan-title"><i class="fa fa-trophy"></i>Ultimate</h3>
-                  <p class="plan-price">$29.99 <span>per month</span></p>
-
-                  <ul class="features">
-                     <li>30 Storage</li>
-                     <li>Unlimited Bandwidth</li>
-                     <li>10 Domains</li>
-                     <li>15 Databases</li>
-                     <li>10 FTP Account</li>
-                     <li>50 Email Accounts</li>
-                  </ul>
-
-                  <footer class="plan-sign-up">
-                     <a class="button" href="">Sign Up</a>
-                  </footer>
-
-               </div> <!-- End Price Block -->
-
-			   </div> <!-- End Column -->
-
-         </div>
-
-      </div>
-
    </section> <!-- Pricing End -->
         
    <!-- GGMIF tidigare Features Section
