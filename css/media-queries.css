@@ -10,10 +10,10 @@
 --------------------------------------------------------------------- */
 @media only screen and (max-width: 1024px) {
 
-   /* Hero Section
+   /* Intro Section
    ------------------------------------------------------------------ */
-   .hero-text { width: 82%; }
-   .hero-text h1 { font: 38px/1.2em 'vag-rounded-bold', sans-serif; } 
+   .intro-text { width: 82%; }
+   .intro-text h1 { font: 38px/1.2em 'vag-rounded-bold', sans-serif; } 
 	
 	/* Testimonials Section
    ------------------------------------------------------------------- */
@@ -38,12 +38,12 @@
    header .header-social { font-size: 18px; }
    header .header-social li { margin-right: 15px; }
 
-    /* Hero Section
+    /* Intro Section
    ------------------------------------------------------------------ */
-   #hero { padding-top: 60px; }
-   .hero-text { width: 88%; }
-   .hero-text h1 { font: 35px/1.2em 'vag-rounded-bold', sans-serif; }
-   .hero-text p { font: 15px/30px 'opensans-regular', sans-serif; } 
+   #intro { padding-top: 60px; }
+   .intro-text { width: 88%; }
+   .intro-text h1 { font: 35px/1.2em 'vag-rounded-bold', sans-serif; }
+   .intro-text p { font: 15px/30px 'opensans-regular', sans-serif; } 
   
    /* nav-wrap */
    #nav-wrap { font: 10px 'montserrat-regular', sans-serif; }
@@ -192,16 +192,16 @@
    -------------------------------------------------------------------- */
    header .logo { margin-right: 36px; }
 
-   /* Hero Section
+   /* Intro Section
    -------------------------------------------------------------------- */
-   #hero { padding-top: 48px; }
-   .hero-text { width: 92%; }
-   .hero-text h1 { font: 31px/1.2em 'vag-rounded-bold', sans-serif; }
-   .hero-text p { font: 14px/24px 'opensans-regular', sans-serif; } 
+   #intro { padding-top: 48px; }
+   .intro-text { width: 92%; }
+   .intro-text h1 { font: 31px/1.2em 'vag-rounded-bold', sans-serif; }
+   .intro-text p { font: 14px/24px 'opensans-regular', sans-serif; } 
 
-   /* Hero CTA Buttons */
-   #hero .buttons { margin-bottom: 30px; }
-   #hero .buttons .button {
+   /* Intro CTA Buttons */
+   #intro .buttons { margin-bottom: 30px; }
+   #intro .buttons .button {
       display: block;
       width: 70%;
       margin: 0 auto 18px auto;
@@ -320,12 +320,12 @@
       right: 0;             
    }
 
-   /* Hero Section
+   /* Intro Section
    -------------------------------------------------------------------- */
-   #hero { padding-top: 42px; }
-   .hero-text { width: 96%; }
-   .hero-text h1 { font: 25px/1.2em 'vag-rounded-bold', sans-serif; }
-   .hero-text p { font: 13px/24px 'opensans-regular', sans-serif; } 
+   #intro { padding-top: 42px; }
+   .intro-text { width: 96%; }
+   .intro-text h1 { font: 25px/1.2em 'vag-rounded-bold', sans-serif; }
+   .intro-text p { font: 13px/24px 'opensans-regular', sans-serif; } 
 
    /* Testimonials Section
    ------------------------------------------------------------------- */
@@ -343,9 +343,9 @@
   -------------------------------------------------------------------------- */
 @media only screen and (max-width: 420px) { 
 
-    /* Hero Section
+    /* Intro Section
    -------------------------------------------------------------------- */
-   .hero-text { width: 100%; }
+   .intro-text { width: 100%; }
 
    /* Pricing Section
    ------------------------------------------------------------------- */

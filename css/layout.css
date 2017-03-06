@@ -6,17 +6,13 @@
 =====================================================================
 
    TOC:
-   a. General and Common Styles
-   b. Header Styles
-   c. Hero Section
-   d. Features Section
-   e. Pricing Section
-   f. Screenshots Section
-   g. Call To Action Section
-   h. Testimonials Section
-   i. Subscribe Section
-   j. Footer
-   k. lightbox
+      General and Common Styles
+      Header Styles
+      Intro Section
+      Info Section
+	  ...
+      Footer
+      lightbox
 
    todo: check bug in mobile z-index
 
@@ -160,10 +156,10 @@ ul#nav li.current a { color: #fff; }
 
 
 /* ------------------------------------------------------------------ */
-/* c. Hero Section
+/* Intro Section
 /* ------------------------------------------------------------------ */
 
-#hero {
+#intro {
    padding-top: 66px;
    background: #000 url(img/GGM17_1x3.jpg);
 	 background-size: 1500px;
@@ -172,10 +168,10 @@ ul#nav li.current a { color: #fff; }
    overflow: hidden;
 }
 
-#hero .row { max-width: 1040px; }
+#intro .row { max-width: 1040px; }
 
-/* Hero Text */
-.hero-text {
+/* Intro Text */
+.intro-text {
 	 background: none repeat scroll 0 0 rgba(0, 0, 0, 0.8);
 	 border-radius: 25px;
 	 color: #f2f2f2;
@@ -183,7 +179,7 @@ ul#nav li.current a { color: #fff; }
    text-align: center;
    margin: 24px auto 24px auto;
 }
-.hero-text h1 {
+.intro-text h1 {
    font: 60px/2.5em 'vag-rounded-bold', sans-serif; 
    color: #fff;
    padding: 0;
@@ -191,56 +187,43 @@ ul#nav li.current a { color: #fff; }
 	 letter-spacing: 3px;
    text-shadow: 0px 1px 4px rgba(0, 0, 0, .2);
 }
-.hero-text h2 { 
+.intro-text h2 { 
    font: 23px/1.2em 'opensans-regular', sans-serif;
    color: #fab76b;
 }
-.hero-text h3 { 
+.intro-text h3 { 
    font: 20px/1.2em 'opensans-regular', sans-serif;
    color: #fab76b;
 }
-.hero-text h1 span,
-.hero-text a { color: #11ABB0; }
-.hero-text p {
+.intro-text h1 span,
+.intro-text a { color: #11ABB0; }
+.intro-text p {
    font: 16px/30px 'opensans-regular', sans-serif;
    padding: 0;
    margin: 12px 8% 0;
    text-shadow: 0px 1px 2px rgba(0, 0, 0, .2);
 }
 
-/* Hero Image */
-.hero-image {
+/* intro Image */
+.intro-image {
    width: 100%;
    margin: 0 auto;
 }
-.hero-image img {
+.intro-image img {
    vertical-align: bottom;
    display: block;
 }
 
-/* Hero CTA Buttons */
-#hero .buttons {
+/* intro CTA Buttons */
+#intro .buttons {
    text-align: center;
    margin: 0 0 18px 0;
 }
-#hero .buttons .button {
+#intro .buttons .button {
    font: 14px/24px 'vag-rounded-bold', sans-serif;
    text-transform : uppercase;
    letter-spacing: 2px;
 }
-#hero .buttons .trial {
-   background: #f64b39;
-   margin-right: 30px;
-
-   -webkit-animation-delay: 10s;
-      -moz-animation-delay: 10s;
-       -ms-animation-delay: 10s;
-        -o-animation-delay: 10s;
-   -webkit-animation-iteration-count: 3;
-      -moz-animation-iteration-count: 3;  
-}
-#hero .buttons .trial:hover { background: #F86A5A; }
-#hero .buttons .learn-more {}
 
 /* ------------------------------------------------------------------ */
 /* Tickets
