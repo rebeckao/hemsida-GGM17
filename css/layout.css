@@ -319,6 +319,34 @@ ul#nav li.current a { color: #fff; }
 }
 .fluid-video-wrapper { margin-top: 18px; }
 
+/* ------------------------------------------------------------------ */
+/* Moderatorer
+/* ------------------------------------------------------------------ */
+
+#moderatorer {
+   background: #23292f url(img/hero-bg.png);
+   padding-top: 50px;
+   padding-bottom: 66px;
+   overflow: hidden;
+   text-align: center;
+}
+
+/* For high-res devices */
+@media
+(-webkit-min-device-pixel-ratio: 2),
+(min-resolution: 192dpi) {
+   #moderatorer {
+		background: #23292f url(img/hero-bg_@2X.png); 
+		background-size: 200px 200px;
+   }
+}
+
+#moderatorer h1 { color: #fff; }
+#moderatorer p {
+   color: #7A7A7A;
+   text-align: center;
+   padding: 0;
+}
 
 /*----------------------------------------------*/
 /*	e. Pricing Section
