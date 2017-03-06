@@ -243,7 +243,7 @@ ul#nav li.current a { color: #fff; }
 #hero .buttons .learn-more {}
 
 /* ------------------------------------------------------------------ */
-/* d. Tickets Section
+/* Tickets
 /* ------------------------------------------------------------------ */
 
 #tickets {
@@ -266,7 +266,46 @@ ul#nav li.current a { color: #fff; }
 .fluid-video-wrapper { margin-top: 18px; }
 
 
+/* ------------------------------------------------------------------ */
+/* Sponsors
+/* ------------------------------------------------------------------ */
 
+#sponsors {
+   background: #23292F;
+   padding-top: 50px;
+   padding-bottom: 66px;
+   overflow: hidden;
+   text-align: center;
+}
+
+#sponsors h1 { color: #fff; }
+#sponsors p {
+   color: #7A7A7A;
+   text-align: center;
+   padding: 0;
+}
+
+/* ------------------------------------------------------------------ */
+/* Program
+/* ------------------------------------------------------------------ */
+
+#program {
+   background: #fff url(img/grey.png);
+   padding-top: 20px;
+   padding-bottom: 10px;
+}
+
+/* For high-res devices */
+@media
+(-webkit-min-device-pixel-ratio: 2),
+(min-resolution: 192dpi) {
+
+   #program {
+      background: #fff url(img/grey_@2X.png);
+      background-size: 397px 322px;
+   }
+
+}
 /* ------------------------------------------------------------------ */
 /* d. Features Section
 /* ------------------------------------------------------------------ */
