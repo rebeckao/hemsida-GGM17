@@ -819,6 +819,7 @@ footer a, footer a:visited { color: #0A6567; }
 footer a:hover, footer a:focus { color: #fff; }
 
 footer .info { padding-right: 90px; }
+footer  textarea { width: 100%; }
 
 footer .footer-logo a {
    display: block;
@@ -828,7 +829,6 @@ footer .footer-logo a {
 }
 footer .footer-logo a img {
    height: 24px;
-   width: 92px;
 }
 
 footer .right-cols .columns {

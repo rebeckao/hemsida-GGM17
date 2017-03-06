@@ -696,7 +696,35 @@
          </div>
          <div id="contact" class="six columns">
             <div class="row">
-				<!-- Todo: lägg till kontaktformulär-->
+						<?php
+							$action=$_REQUEST['action'];
+							if ($action=="")    /* display the contact form */
+									{
+									?>
+									<form  action="" method="POST" enctype="multipart/form-data">
+									<input type="hidden" name="action" value="submit">
+									<input name="email" type="text" value="" size="30" placeholder="epost"/><br>
+									<textarea name="message" rows="5" cols="30" placeholder="meddelande"></textarea><br>
+									<input type="submit" value="Kontakta oss"/>
+									</form>
+									<?php
+									} 
+							else                /* send the submitted data */
+									{
+									$email=$_REQUEST['email'];
+									$message=$_REQUEST['message'];
+									if (($email=="")||($message==""))
+											{
+											echo "Alla fält är obligatoriska, fill i <a href=\"#contact\">formuläret</a> igen.";
+											}
+									else{        
+											$from="From: $email\r\nReturn-path: $email";
+											$subject="Meddelande från kontaktformulär på Geek Evolution-hemsidan";
+											mail("rebecka.oefverholm@gmail.com", $subject, $message, $from);
+											echo "Meddelande skickat!";
+											}
+									}  
+							?>
             </div>
          </div>
          <p class="copyright">&copy; 2014 Woo | Design by <a title="Styleshout" href="http://www.styleshout.com/">Styleshout</a></p>
