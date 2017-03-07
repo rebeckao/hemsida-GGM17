@@ -232,7 +232,7 @@
          <div id="ggmif" class="six columns info">
             <div class="footer-logo">
                <a href="#">
-                  <img src="images/GGM_logo.png" alt="" />
+                  <img src="images/ggm_logo.png" alt="" />
                </a>
             </div>
             <p>Geek Girl Meetup är ett nätverk för alla som identifierar sig som nördiga tjejer. Läs mer om Geek Girl Meetup Ideella Förening och tidigare års event på <a href="http://www.ggmif.com">ggmif.com</a>
