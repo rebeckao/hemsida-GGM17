@@ -59,7 +59,7 @@
              <li><a class="smoothscroll" href="#tickets">Biljetter</a></li>
              <li><a class="smoothscroll" href="#talare">Talare</a></li>
              <li><a class="smoothscroll" href="#program">Program</a></li>
-             <!--li><a class="smoothscroll" href="#moderatorer">Moderatorer</a></li-->
+             <li><a class="smoothscroll" href="#moderatorer">Moderatorer</a></li>
              <li><a class="smoothscroll" href="#sponsors">Sponsorer</a></li>
              <li><a class="smoothscroll" href="#ggmif">GGMIF</a></li>
              <li><a class="smoothscroll" href="#contact">Kontakt</a></li>
@@ -154,7 +154,7 @@
       <div class="row feature video">
          <div class="seven columns left">
             <h3>Du!</h3>
-            <p>Geek Girl Meetup är en unconference, och det innebär att du är med och skapar programmet! Har du något intressant du vill berätta om i en lightning talk, en skill du kan lära ut i en workshop, eller något annat du tycker att andra geek girls borde ta del av? Skriv det när du anmäler dig, eller maila oss på info snabel-a ggmif.se! Du behöver inte ha någon scenvana, Geek Girl Meetup är en trygg miljö och det är många som gör sin tala-inför-folk-debut på meetupen. Det gäller bara att våga - du kommer inte att ångra dig!</p>
+            <p>Geek Girl Meetup är en unconference, och det innebär att du är med och skapar programmet! Har du något intressant du vill berätta om i en lightning talk, en skill du kan lära ut i en workshop, eller något annat du tycker att andra geek girls borde ta del av? Skriv det när du anmäler dig, eller <a href="#contact">kontakta oss!</a> Du behöver inte ha någon scenvana, Geek Girl Meetup är en trygg miljö och det är många som gör sin tala-inför-folk-debut på meetupen. Det gäller bara att våga - du kommer inte att ångra dig!</p>
          </div>
          <div class="five columns feature-media right">
              <img width="256" alt="We Can Do It!" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/We_Can_Do_It%21.jpg/256px-We_Can_Do_It%21.jpg" alt="We Can Do It, via Wikimedia Commons"/>
@@ -179,16 +179,14 @@
    
       <!-- Moderatorer
    ================================================== -->
-   <!--section id="moderatorer">
+   <section id="moderatorer">
       <div class="row section-head">
          <h1>Moderatorer</h1>
       </div>
       <div class="row">
-        <p>Kommer snart!</p>
-         <p>Bilder på årets moderatorer, får upp text och kan läsa mer om dem när man trycker på bilden
-         </p>
+        <p>Här kommer du kunna läsa moderatorerna för Geek Evolution. Vill du moderera eller tipsa om någon du känner? <a href="#contact">Kontakta oss!</a></p>
       </div>
-   </section-->
+   </section>
    
    <!-- Sponsors
    ================================================== -->
@@ -219,7 +217,7 @@
               </div>
              </div>
              <div class="row">
-              <p>Vill du bli sponsor för Geek Evolution? Kontakta oss på info snabel-a ggmif.com</p>
+              <p>Vill du bli sponsor för Geek Evolution? <a href="#contact">Kontakta oss!</a>
             </div>
          </div>
       </div>
@@ -238,6 +236,9 @@
             <p>Geek Girl Meetup Ideella Förening arbetar aktivt med att skapa och lyfta kvinnliga förebilder inom IT-branschen. Vårt mål är att skapa ett brett nätverk inom bland annat IT, spel och startup-världen. Och att ha kul såklart!</p>
             <p>Vi gör detta genom att låta våra medlemmar dela med sig av kunskap till andra. På så sätt vill vi skapa rätt förutsättningar för kunskapsutbyte och förhoppningsvis fler kontakter eller vänner inom sitt yrke eller hobby. Läs mer om Geek Girl Meetup Ideella Förening och tidigare års event på <a href="http://www.ggmif.com">ggmif.com</a>
             </p>
+            <div id="contact">
+              <p>Kontakta oss på <a href="mailto:info@ggmif.se">info@ggmif.se</a></p>
+            </div>
          </div>
          <!--div id="contact" class="six columns">
             <div class="row"-->
