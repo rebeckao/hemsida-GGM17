@@ -47,7 +47,7 @@
    <header>
 
       <div class="logo">
-         <a class="smoothscroll" href="#intro"><img src="images/GGM_logo.png" alt="GGM"></a>
+         <a class="smoothscroll" href="#intro"><img src="images/ggm_logo.png" alt="GGM"></a>
       </div>
 
       <nav id="nav-wrap">         
