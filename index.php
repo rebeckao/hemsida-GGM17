@@ -154,6 +154,7 @@
       <div class="row feature video">
          <div class="seven columns left">
             <h3>Du!</h3>
+            <p>Geek Girl Meetup är en unconference, och det innebär att du är med och skapar programmet! Har du något intressant du vill berätta om i en lightning talk, en skill du kan lära ut i en workshop, eller något annat du tycker att andra geek girls borde ta del av? Skriv det när du anmäler dig, eller maila oss på info snabel-a ggmif.se! Du behöver inte ha någon scenvana, Geek Girl Meetup är en trygg miljö och det är många som gör sin tala-inför-folk-debut på meetupen. Det gäller bara att våga - du kommer inte att ångra dig!</p>
          </div>
          <div class="five columns feature-media right">
              <a title="By J. Howard Miller, artist employed by Westinghouse, poster used by the War Production Co-ordinating Committee [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AWe_Can_Do_It!.jpg"><img width="256" alt="We Can Do It!" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/We_Can_Do_It%21.jpg/256px-We_Can_Do_It%21.jpg"/></a>
