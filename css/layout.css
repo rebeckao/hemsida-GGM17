@@ -144,9 +144,9 @@ ul#nav li a {
    display: inline-block;
    padding: 8px 8px;
    line-height: 38px;
-	text-decoration: none;
+   text-decoration: none;
    text-align: left;
-   color: #58687A;
+   color: #fff;
 
 	-webkit-transition: color .2s ease-in-out;
 	-moz-transition: color .2s ease-in-out;
@@ -154,9 +154,9 @@ ul#nav li a {
 	-ms-transition: color .2s ease-in-out;
 	transition: color .2s ease-in-out;
 }
-ul#nav li a:hover { color: #fff; }
+ul#nav li a:hover { color: #00c0f3; }
 ul#nav li a:active { background-color: transparent !important; }
-ul#nav li.current a { color: #fff; }
+ul#nav li.current a { color: #00c0f3; }
 
 
 /* ------------------------------------------------------------------ */
