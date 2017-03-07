@@ -57,8 +57,8 @@
 
          <ul id="nav" class="nav">
              <li><a class="smoothscroll" href="#tickets">Biljetter</a></li>
-             <li><a class="smoothscroll" href="#program">Program</a></li>
              <li><a class="smoothscroll" href="#talare">Talare</a></li>
+             <li><a class="smoothscroll" href="#program">Program</a></li>
              <li><a class="smoothscroll" href="#moderatorer">Moderatorer</a></li>
               <li><a class="smoothscroll" href="#sponsors">Sponsorer</a></li>
              <li><a class="smoothscroll" href="#ggmif">GGMIF</a></li>
@@ -112,22 +112,10 @@
         </div>
       </div>
   </section>
-  
-    <!-- Program
-   ================================================== -->
-   <section id="program">
-      <div class="row section-head">
-         <h1>Program</h1>
-         <p>Kommer senare</p>
-         <!--p>Schemapunkter med plats och tid liknande schemat i  
-             <a href="http://bigsister.se/program/">rikseventet 2014</a>
-         </p-->
-      </div>  
-   </section>
 
    <!-- Talare
    ================================================== -->
-   <section id='talare'>
+   <section id='talare' class="darkgrayish">
        <div class="row">
            <div class="responsive-headline">
                 <h1>Talare</h1>
@@ -177,7 +165,19 @@
       </div>
 
    </section> <!-- Features end -->
-
+  
+    <!-- Program
+   ================================================== -->
+   <section id="program" class="whiteish">
+      <div class="row section-head">
+         <h1>Program</h1>
+         <p>Kommer snart!</p>
+         <!--p>Schemapunkter med plats och tid liknande schemat i  
+             <a href="http://bigsister.se/program/">rikseventet 2014</a>
+         </p-->
+      </div>  
+   </section>
+   
       <!-- Moderatorer
    ================================================== -->
    <section id="moderatorer">
