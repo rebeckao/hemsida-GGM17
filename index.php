@@ -122,32 +122,51 @@
        </div>
       <div class="row feature design">
          <div class="six columns right">
-            <h3>Sara Riggare (KI)</h3>
+            <h3>Cecilia Beck-Friis</h3>
             <p> Håll utkik efter fler detaljer!
             </p>
          </div>
          <div class="six columns feature-media left">
-             <img src="images/feature-image-1.png" alt="" />
+             <img src="images/Cecilia-Beck-Friis.jpg" alt="" />
          </div>
       </div>
       <div class="row feature responsive">
          <div class="six columns left">
-            <h3>Maria Kareliusson, biohacker</h3>
+            <h3>Maria Kareliusson</h3>
             <p> Håll utkik efter fler detaljer!
             </p>
          </div>
          <div class="six columns feature-media right">
-             <img src="images/feature-image-2.png" alt="" />
+             <img src="images/Maria-Kareliusson.jpg" alt="" />
          </div>
       </div>
-      <div class="row feature cross-browser">
+      <div class="row feature responsive">
          <div class="six columns right">
-            <h3>Annelie Demred, Commercial Director på Bambuser</h3>
+            <h3>Sara Riggare</h3>
             <p>Håll utkik efter fler detaljer!
             </p>
          </div>
          <div class="six columns feature-media left">
-             <img src="images/feature-image-3.png" alt="" />
+             <img src="images/Sara-Riggare.png" alt="" />
+         </div>
+      </div>
+      <div class="row feature responsive">
+         <div class="six columns left">
+            <h3>Annelie Demred</h3>
+            <p>Håll utkik efter fler detaljer!</p>
+         </div>
+         <div class="six columns feature-media right">
+             <img src="images/Annelie-Demred_skalad.jpg" alt="" />
+         </div>
+      </div>
+      <div class="row feature responsive">
+         <div class="six columns right">
+            <h3>Siduri Poli</h3>
+            <p>Siduri Poli har en bakgrund som journalist och är teknikexpert för några av Sveriges största medier. Hon är medgrundare till demokratiseringsinitiativet Changers Hub som hjälper unga vuxna i Stockholms ytterstad att förverkliga sina idéer, och brinner för digitalisering, entreprenörskap och mångfald. Utsedd till en av Sveriges Supertalanger 2017 av Veckans Affärer.
+            </p>
+         </div>
+         <div class="six columns feature-media left">
+             <img src="images/Siduri-Poli.jpg" alt="" />
          </div>
       </div>
       <div class="row feature video">
