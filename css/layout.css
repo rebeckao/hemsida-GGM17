@@ -10,6 +10,7 @@
       Header Styles
       Intro
       Tickets
+      Description
 	  Sponsors
 	  Program
 	  Talare
@@ -176,12 +177,10 @@ ul#nav li.current a { color: #00c0f3; }
 
 /* Intro Text */
 .intro-text {
-	 background: none repeat scroll 0 0 rgba(0, 0, 0, 0.8);
-	 border-radius: 25px;
 	 color: #f2f2f2;
    width: 83%;
    text-align: center;
-   margin: 24px auto 24px auto;
+   margin: 100px auto 100px auto;
 }
 .intro-text h1 {
    font: 60px/2.5em 'vag-rounded-bold', sans-serif; 
@@ -218,37 +217,43 @@ ul#nav li.current a { color: #00c0f3; }
    display: block;
 }
 
-/* intro CTA Buttons */
-#intro .buttons {
-   text-align: center;
-   margin: 0 0 18px 0;
-}
-#intro .buttons .button {
-   font: 14px/24px 'vag-rounded-bold', sans-serif;
-   text-transform : uppercase;
-   letter-spacing: 2px;
-}
-
 /* ------------------------------------------------------------------ */
 /* Tickets
 /* ------------------------------------------------------------------ */
 
-#tickets {
+#tickets{
+   text-align: center;
+   padding-top: 30px;
    background: #fff;
+   overflow: hidden;
+}
+#tickets .buttons .button {
+   font: 14px/24px 'vag-rounded-bold', sans-serif;
+   text-transform : uppercase;
+   letter-spacing: 2px;
+   margin: 0 0 0 0;
+}
+
+/* ------------------------------------------------------------------ */
+/* Description
+/* ------------------------------------------------------------------ */
+
+#description .row { max-width: 800px; }
+#description {
+   background: #fff;
+	 color: #545454;
    padding-top: 50px;
    padding-bottom: 50px;
    overflow: hidden;
 }
-#tickets .right {
+#description h1 { color: #000; }
+#description .right {
    padding-left: 32px;
    float: right;   
 }
-#tickets .left {
+#description .left {
    padding-right: 32px;
    float: left;   
-}
-#tickets .buttons {
-   text-align: right;
 }
 .fluid-video-wrapper { margin-top: 18px; }
 

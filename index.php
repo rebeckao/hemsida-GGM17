@@ -85,23 +85,31 @@
 		   <div class="twelve columns">
 			   <div class="intro-text">
 				   <h1 class="responsive-headline">Geek Evolution</h1>
-				   <h2 class="responsive-headline">Geek Girl Meetup 2017</h2>
-				   <h3 class="responsive-headline">13 maj, Stockholm</h3>
-						<p>Teknik förändrar vår värld. Den förändrar oss. Och det som en gång var science fiction är idag vår vardag. Med temat Geek Evolution vill vi tillsammans utforska ny teknik som artificiell intelligens (AI), virtuell verklighet (VR) och förstärkt verklighet (AR) och robotics. Och vi träffar förstås kvinnorna som skapar förutsättningarna för vår tids geek evolution.</p>
 				</div>
-        <div class="buttons">
-          <a class="button" href="https://www.picatic.com/geekevolution?utm_source=promotion&utm_medium=button&utm_campaign=105221" target="_blank">Köp biljett</a>
-        </div>
 		   </div>
 	   </div>
    </section> <!-- Homepage intro end -->
 
    <!-- Tickets
    ================================================== -->
-   <section id='tickets'>
-      <div class="row design">
-        <p>Geek Girl Meetup är ett årligt event som riktar sig till alla som identifierar sig som kvinnor och är intresserade av IT eller teknik. Nytt för 2017 är att det bara kommer att vara en heldag (lördag 13 maj), vilket innebär ett lägre biljettpris, och att vi har flyttat till nya fräscha lokaler mitt i city (<a href="#">hitta hit</a>).
-        </p>
+ <section id="tickets">
+      <div id="tickets" class="buttons">
+        <a class="button" href="https://www.picatic.com/geekevolution?utm_source=promotion&utm_medium=button&utm_campaign=105221" target="_blank">Köp biljett</a>
+      </div>
+  </section>
+
+   <!-- Description
+   ================================================== -->
+ <section id="description">
+      <div class="row section-head">
+         <!--h2 class="responsive-headline">Geek Girl Meetup 2017</h2>
+         <h3 class="responsive-headline">13 maj, Stockholm</h3-->
+         <h1>Geek Girl Meetup &bull; 13 maj 2017 &bull; Stockholm</h1>
+        <div class="row design">
+          <p>Teknik förändrar vår värld. Den förändrar oss. Och det som en gång var science fiction är idag vår vardag. Med temat Geek Evolution vill vi tillsammans utforska ny teknik som artificiell intelligens (AI), virtuell verklighet (VR) och förstärkt verklighet (AR) och robotics. Och vi träffar förstås kvinnorna som skapar förutsättningarna för vår tids geek evolution.</p>
+          <p>Lördagen 13 maj 2017 är det äntligen dags för årets Geek Girl Meetup på A house i Stockholm. Temat är Geek Evolution. Välkommen!
+          </p>
+        </div>
       </div>
   </section>
   
