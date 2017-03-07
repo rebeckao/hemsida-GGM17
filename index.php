@@ -59,7 +59,7 @@
              <li><a class="smoothscroll" href="#tickets">Biljetter</a></li>
              <li><a class="smoothscroll" href="#talare">Talare</a></li>
              <li><a class="smoothscroll" href="#program">Program</a></li>
-             <li><a class="smoothscroll" href="#moderatorer">Moderatorer</a></li>
+             <!--li><a class="smoothscroll" href="#moderatorer">Moderatorer</a></li-->
              <li><a class="smoothscroll" href="#sponsors">Sponsorer</a></li>
              <li><a class="smoothscroll" href="#ggmif">GGMIF</a></li>
              <li><a class="smoothscroll" href="#contact">Kontakt</a></li>
@@ -107,9 +107,8 @@
          <h3 class="responsive-headline">13 maj, Stockholm</h3-->
          <h1>Geek Girl Meetup &bull; 13 maj 2017 &bull; Stockholm</h1>
         <div class="row design">
-          <p>Teknik förändrar vår värld. Den förändrar oss. Och det som en gång var science fiction är idag vår vardag. Med temat Geek Evolution vill vi tillsammans utforska ny teknik som artificiell intelligens (AI), virtuell verklighet (VR) och förstärkt verklighet (AR) och robotics. Och vi träffar förstås kvinnorna som skapar förutsättningarna för vår tids geek evolution.</p>
-          <p>Lördagen 13 maj 2017 är det äntligen dags för årets Geek Girl Meetup på A house i Stockholm. Temat är Geek Evolution. Välkommen!
-          </p>
+          <p>Välkomna till årets Riksevent! Den 13 maj träffas vi på A-house i Stockholm för att tillsammans att undersöka temat Geek Evolution. Vi fokuserar på framtiden och ny teknik som artificiell intelligens (AI), virtuell verklighet (VR), förstärkt verklighet (AR), och robotics, och träffar kvinnorna som skapar förutsättningarna för vår tids geek evolution.</p>
+          <p>Vi kommer att uppdatera programmet löpande fram tills startdatum och ser fram emot en heldag fylld av intressanta föreläsningar, spaningar och chansen att få nätverka tillsammans med andra geeks. </p>
         </div>
       </div>
   </section>
@@ -123,42 +122,23 @@
            </div>
        </div>
       <div class="row feature design">
-         <div class="six columns right">
+         <div class="six columns feature-media left">
             <h3>Cecilia Beck-Friis</h3>
-            <p> Håll utkik efter fler detaljer!
-            </p>
+            <img src="images/Cecilia-Beck-Friis.jpg" alt="" />
          </div>
-         <div class="six columns feature-media left">
-             <img src="images/Cecilia-Beck-Friis.jpg" alt="" />
-         </div>
-      </div>
-      <div class="row feature responsive">
-         <div class="six columns left">
-            <h3>Maria Kareliusson</h3>
-            <p> Håll utkik efter fler detaljer!
-            </p>
-         </div>
-         <div class="six columns feature-media right">
-             <img src="images/Maria-Kareliusson.jpg" alt="" />
-         </div>
-      </div>
-      <div class="row feature responsive">
          <div class="six columns right">
-            <h3>Sara Riggare</h3>
-            <p>Håll utkik efter fler detaljer!
-            </p>
-         </div>
-         <div class="six columns feature-media left">
-             <img src="images/Sara-Riggare.png" alt="" />
+            <h3>Maria Kareliusson</h3>
+            <img src="images/Maria-Kareliusson.jpg" alt="" />
          </div>
       </div>
       <div class="row feature responsive">
          <div class="six columns left">
-            <h3>Annelie Demred</h3>
-            <p>Håll utkik efter fler detaljer!</p>
+            <h3>Sara Riggare</h3>
+           <img src="images/Sara-Riggare.png" alt="" />
          </div>
          <div class="six columns feature-media right">
-             <img src="images/Annelie-Demred_skalad.jpg" alt="" />
+            <h3>Annelie Demred</h3>
+            <img src="images/Annelie-Demred_skalad.jpg" alt="" />
          </div>
       </div>
       <div class="row feature responsive">
@@ -199,16 +179,16 @@
    
       <!-- Moderatorer
    ================================================== -->
-   <section id="moderatorer">
+   <!--section id="moderatorer">
       <div class="row section-head">
          <h1>Moderatorer</h1>
       </div>
       <div class="row">
         <p>Kommer snart!</p>
-         <!--p>Bilder på årets moderatorer, får upp text och kan läsa mer om dem när man trycker på bilden
-         </p-->
+         <p>Bilder på årets moderatorer, får upp text och kan läsa mer om dem när man trycker på bilden
+         </p>
       </div>
-   </section>
+   </section-->
    
    <!-- Sponsors
    ================================================== -->
