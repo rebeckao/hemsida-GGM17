@@ -256,9 +256,9 @@
             <p>Geek Girl Meetup är ett nätverk för alla som identifierar sig som nördiga tjejer. Läs mer om Geek Girl Meetup Ideella Förening och tidigare års event på <a href="http://www.ggmif.com">ggmif.com</a>
             </p>
          </div>
-         <div id="contact" class="six columns">
-            <div class="row">
-						<?php
+         <!--div id="contact" class="six columns">
+            <div class="row"-->
+						<!--?php
 							$action=$_REQUEST['action'];
 							if ($action=="")    /* display the contact form */
 									{
@@ -268,8 +268,8 @@
 									<input name="email" type="text" value="" size="30" placeholder="epost"/><br>
 									<textarea name="message" rows="5" cols="30" placeholder="meddelande"></textarea><br>
 									<input type="submit" value="Kontakta oss"/>
-									</form>
-									<?php
+									</form-->
+									<!--?php
 									} 
 							else                /* send the submitted data */
 									{
@@ -286,7 +286,7 @@
 											echo "Meddelande skickat!";
 											}
 									}  
-							?>
+							?-->
             </div>
          </div>
          <p class="copyright">&copy; 2014 Woo | Design by <a title="Styleshout" href="http://www.styleshout.com/">Styleshout</a></p>
