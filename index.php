@@ -60,7 +60,7 @@
              <li><a class="smoothscroll" href="#talare">Talare</a></li>
              <li><a class="smoothscroll" href="#program">Program</a></li>
              <li><a class="smoothscroll" href="#moderatorer">Moderatorer</a></li>
-              <li><a class="smoothscroll" href="#sponsors">Sponsorer</a></li>
+             <li><a class="smoothscroll" href="#sponsors">Sponsorer</a></li>
              <li><a class="smoothscroll" href="#ggmif">GGMIF</a></li>
              <li><a class="smoothscroll" href="#contact">Kontakt</a></li>
             
@@ -69,9 +69,11 @@
       </nav> <!-- end #nav-wrap -->
 
       <ul class="header-social">
-         <li><a href="https://www.facebook.com/groups/ggmsweden/"><i class="fa fa-facebook"></i></a></li>
-         <li><a href="https://twitter.com/geekgirlmeetup"><i class="fa fa-twitter"></i></a></li>
-         <!--<li><a href="#"><i class="fa fa-google-plus"></i></a></li>-->
+         <li><a href="https://www.facebook.com/groups/ggmsweden/" target="_blank"><i class="fa fa-facebook"></i></a></li>
+         <li><a href="https://twitter.com/geekgirlmeetup" target="_blank"><i class="fa fa-twitter"></i></a></li>
+         <li><a href="https://www.linkedin.com/company/geek-girl-meetup" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+         <li><a href="https://www.instagram.com/geekgirlmeetup" target="_blank"><i class="fa fa-instagram"></i></a></li>
+         <li><a href="https://www.snapchat.com/add/geekgirlmeetup" target="_blank"><i class="fa fa-snapchat"></i></a></li>
       </ul>
 
    </header> <!-- Header End -->
