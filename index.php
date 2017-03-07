@@ -57,11 +57,10 @@
 
          <ul id="nav" class="nav">
              <li><a class="smoothscroll" href="#tickets">Biljetter</a></li>
-			 <li><a class="smoothscroll" href="#sponsors">Sponsorer</a></li>
              <li><a class="smoothscroll" href="#program">Program</a></li>
              <li><a class="smoothscroll" href="#talare">Talare</a></li>
              <li><a class="smoothscroll" href="#moderatorer">Moderatorer</a></li>
-			 <li><a class="smoothscroll" href="#pricing">Bli sponsor</a></li>
+              <li><a class="smoothscroll" href="#sponsors">Sponsorer</a></li>
              <li><a class="smoothscroll" href="#ggmif">GGMIF</a></li>
              <li><a class="smoothscroll" href="#contact">Kontakt</a></li>
             <!--<li><a class="smoothscroll" href="#testimonials">Testimonials</a></li>-->
@@ -106,94 +105,6 @@
       </div>
   </section>
   
-   <!-- Sponsors
-   ================================================== -->
-  <section id="sponsors">
-      <div class="row section-head">
-         <div class="twelve columns">
-            <h1>Våra sponsorer</h1>
-			<!-- Länka årets sponsorer p.s.s. tidigare (trevligt rutmönster) -->
-			<div class="twelve columns">
-				<div id="screenshots-wrapper" class="bgrid-quarters s-bgrid-thirds cf">
-				   <div class="columns item">
-					  <div class="item-wrap">
-						 <a href="images/screenshots/big/b-line-icons.jpg" data-imagelightbox="a" >
-							<img src="images/screenshots/line-icons.jpg" alt="Line Icons">
-							<div class="overlay"></div> 
-							<div class="link-icon"><i class="icon-plus"></i></div>
-						 </a>
-					  </div>
-					</div>
-				   <div class="columns item">
-					  <div class="item-wrap">
-						 <a href="images/screenshots/big/b-hipster.jpg" data-imagelightbox="a" >
-							<img src="images/screenshots/hipster.jpg" alt="Hipster">
-							<div class="overlay"></div>
-							<div class="link-icon"><i class="icon-plus"></i></div>
-						 </a>
-					  </div>
-					</div>
-				   <div class="columns item">
-					  <div class="item-wrap">
-						 <a href="images/screenshots/big/b-authentic-vintage.jpg" data-imagelightbox="a" >
-							<img src="images/screenshots/authentic-vintage.jpg" alt="Authentic Vintage">                        
-							<div class="overlay"></div>
-							<div class="link-icon"><i class="icon-plus"></i></div>
-						 </a>
-					  </div>
-					</div>
-				   <div class="columns item">
-					  <div class="item-wrap">
-						 <a href="images/screenshots/big/b-spot-uv-logo.jpg" data-imagelightbox="a" >
-							<img src="images/screenshots/spot-uv-logo.jpg" alt="Spot UV Logo">
-							<div class="overlay"></div>
-							<div class="link-icon"><i class="icon-plus"></i></div>
-						 </a>
-					  </div>
-					</div>
-				   <div class="columns item">
-					  <div class="item-wrap">
-						 <a href="images/screenshots/big/b-tshirt-mockup.jpg" data-imagelightbox="a" >
-							<img src="images/screenshots/tshirt-mockup.jpg" alt="TShirt Mockup">
-							<div class="overlay"></div>
-							<div class="link-icon"><i class="icon-plus"></i></div>
-						 </a>
-					  </div>
-					</div>
-				   <div class="columns item">
-					  <div class="item-wrap">
-						 <a href="images/screenshots/big/b-abstract-vector.jpg" data-imagelightbox="a" >
-							<img src="images/screenshots/abstract-vector.jpg" alt="Abstract Vector">
-							<div class="overlay"></div>
-							<div class="link-icon"><i class="icon-plus"></i></div>
-						 </a>
-					  </div>
-					</div>
-				   <div class="columns item">
-					  <div class="item-wrap">
-						 <a href="images/screenshots/big/b-embossed-paper.jpg" data-imagelightbox="a" >
-							<img src="images/screenshots/embossed-paper.jpg" alt="Embossed Paper">                        
-							<div class="overlay"></div>
-							<div class="link-icon"><i class="icon-plus"></i></div>
-						 </a>
-					  </div>
-					</div>
-				   <div class="columns item">
-					  <div class="item-wrap">
-						 <a href="images/screenshots/big/b-judah.jpg" data-imagelightbox="a" >
-							<img src="images/screenshots/judah.jpg" alt="Judah">
-							<div class="overlay"></div>
-							<div class="link-icon"><i class="icon-plus"></i></div>
-						 </a>
-					  </div>
-					</div>
-				</div>
-			 </div>
-            <p><a href="#pricing">Bli sponsor</a></p>
-         </div>
-      </div>
-   </section>
-    
     <!-- Program
    ================================================== -->
    <section id="program">
@@ -383,18 +294,93 @@
 
    </section> <!-- Moderatorer End -->
    
-    <!-- Pricing Section
+   <!-- Sponsors
    ================================================== -->
-   <section id="pricing">
-
+  <section id="sponsors">
       <div class="row section-head">
-
-         <h1>Bli sponsor</h1>
-	      
-	 <p>Vill du bli sponsor? Kontakta oss på <a href="#">GGMIF-adress</a>
-         </p>
+         <div class="twelve columns">
+            <h1>Våra sponsorer</h1>
+			<!-- Länka årets sponsorer p.s.s. tidigare (trevligt rutmönster) -->
+			<div class="twelve columns">
+				<div id="screenshots-wrapper" class="bgrid-quarters s-bgrid-thirds cf">
+				   <div class="columns item">
+					  <div class="item-wrap">
+						 <a href="images/screenshots/big/b-line-icons.jpg" data-imagelightbox="a" >
+							<img src="images/screenshots/line-icons.jpg" alt="Line Icons">
+							<div class="overlay"></div> 
+							<div class="link-icon"><i class="icon-plus"></i></div>
+						 </a>
+					  </div>
+					</div>
+				   <div class="columns item">
+					  <div class="item-wrap">
+						 <a href="images/screenshots/big/b-hipster.jpg" data-imagelightbox="a" >
+							<img src="images/screenshots/hipster.jpg" alt="Hipster">
+							<div class="overlay"></div>
+							<div class="link-icon"><i class="icon-plus"></i></div>
+						 </a>
+					  </div>
+					</div>
+				   <div class="columns item">
+					  <div class="item-wrap">
+						 <a href="images/screenshots/big/b-authentic-vintage.jpg" data-imagelightbox="a" >
+							<img src="images/screenshots/authentic-vintage.jpg" alt="Authentic Vintage">                        
+							<div class="overlay"></div>
+							<div class="link-icon"><i class="icon-plus"></i></div>
+						 </a>
+					  </div>
+					</div>
+				   <div class="columns item">
+					  <div class="item-wrap">
+						 <a href="images/screenshots/big/b-spot-uv-logo.jpg" data-imagelightbox="a" >
+							<img src="images/screenshots/spot-uv-logo.jpg" alt="Spot UV Logo">
+							<div class="overlay"></div>
+							<div class="link-icon"><i class="icon-plus"></i></div>
+						 </a>
+					  </div>
+					</div>
+				   <div class="columns item">
+					  <div class="item-wrap">
+						 <a href="images/screenshots/big/b-tshirt-mockup.jpg" data-imagelightbox="a" >
+							<img src="images/screenshots/tshirt-mockup.jpg" alt="TShirt Mockup">
+							<div class="overlay"></div>
+							<div class="link-icon"><i class="icon-plus"></i></div>
+						 </a>
+					  </div>
+					</div>
+				   <div class="columns item">
+					  <div class="item-wrap">
+						 <a href="images/screenshots/big/b-abstract-vector.jpg" data-imagelightbox="a" >
+							<img src="images/screenshots/abstract-vector.jpg" alt="Abstract Vector">
+							<div class="overlay"></div>
+							<div class="link-icon"><i class="icon-plus"></i></div>
+						 </a>
+					  </div>
+					</div>
+				   <div class="columns item">
+					  <div class="item-wrap">
+						 <a href="images/screenshots/big/b-embossed-paper.jpg" data-imagelightbox="a" >
+							<img src="images/screenshots/embossed-paper.jpg" alt="Embossed Paper">                        
+							<div class="overlay"></div>
+							<div class="link-icon"><i class="icon-plus"></i></div>
+						 </a>
+					  </div>
+					</div>
+				   <div class="columns item">
+					  <div class="item-wrap">
+						 <a href="images/screenshots/big/b-judah.jpg" data-imagelightbox="a" >
+							<img src="images/screenshots/judah.jpg" alt="Judah">
+							<div class="overlay"></div>
+							<div class="link-icon"><i class="icon-plus"></i></div>
+						 </a>
+					  </div>
+					</div>
+				</div>
+			 </div>
+            <p>Vill du bli sponsor? Kontakta oss på <a href="#">GGMIF-adress</a></p>
+         </div>
       </div>
-   </section> <!-- Pricing End -->
+   </section>
         
    <!-- GGMIF tidigare Features Section
    ================================================== -->

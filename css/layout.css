@@ -254,45 +254,34 @@ ul#nav li.current a { color: #00c0f3; }
 
 
 /* ------------------------------------------------------------------ */
-/* Sponsors
+/* Program
 /* ------------------------------------------------------------------ */
 
-#sponsors {
-   background: #23292F;
+#program {
+   background: #23292f url(img/hero-bg.png);
    padding-top: 50px;
    padding-bottom: 66px;
    overflow: hidden;
    text-align: center;
 }
 
-#sponsors h1 { color: #fff; }
-#sponsors p {
+/* For high-res devices */
+@media
+(-webkit-min-device-pixel-ratio: 2),
+(min-resolution: 192dpi) {
+   #program {
+		background: #23292f url(img/hero-bg_@2X.png); 
+		background-size: 200px 200px;
+   }
+}
+
+#program h1 { color: #fff; }
+#program p {
    color: #7A7A7A;
    text-align: center;
    padding: 0;
 }
 
-/* ------------------------------------------------------------------ */
-/* Program
-/* ------------------------------------------------------------------ */
-
-#program {
-   background: #fff url(img/grey.png);
-   padding-top: 20px;
-   padding-bottom: 10px;
-}
-
-/* For high-res devices */
-@media
-(-webkit-min-device-pixel-ratio: 2),
-(min-resolution: 192dpi) {
-
-   #program {
-      background: #fff url(img/grey_@2X.png);
-      background-size: 397px 322px;
-   }
-
-}
 /* ------------------------------------------------------------------ */
 /* Talare
 /* ------------------------------------------------------------------ */
@@ -328,21 +317,11 @@ ul#nav li.current a { color: #00c0f3; }
 /* ------------------------------------------------------------------ */
 
 #moderatorer {
-   background: #23292f url(img/hero-bg.png);
+   background: #23292F;
    padding-top: 50px;
    padding-bottom: 66px;
    overflow: hidden;
    text-align: center;
-}
-
-/* For high-res devices */
-@media
-(-webkit-min-device-pixel-ratio: 2),
-(min-resolution: 192dpi) {
-   #moderatorer {
-		background: #23292f url(img/hero-bg_@2X.png); 
-		background-size: 200px 200px;
-   }
 }
 
 #moderatorer h1 { color: #fff; }
@@ -350,6 +329,28 @@ ul#nav li.current a { color: #00c0f3; }
    color: #7A7A7A;
    text-align: center;
    padding: 0;
+}
+
+/* ------------------------------------------------------------------ */
+/* Sponsors
+/* ------------------------------------------------------------------ */
+
+#sponsors {
+   background: #fff url(img/grey.png);
+   padding-top: 50px;
+   padding-bottom: 10px;
+}
+
+/* For high-res devices */
+@media
+(-webkit-min-device-pixel-ratio: 2),
+(min-resolution: 192dpi) {
+
+   #sponsors {
+      background: #fff url(img/grey_@2X.png);
+      background-size: 397px 322px;
+   }
+
 }
 
 /*----------------------------------------------*/
