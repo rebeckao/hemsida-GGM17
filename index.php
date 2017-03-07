@@ -69,9 +69,9 @@
       </nav> <!-- end #nav-wrap -->
 
       <ul class="header-social">
-         <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-         <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-         <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+         <li><a href="https://www.facebook.com/groups/ggmsweden/"><i class="fa fa-facebook"></i></a></li>
+         <li><a href="https://twitter.com/geekgirlmeetup"><i class="fa fa-twitter"></i></a></li>
+         <!--<li><a href="#"><i class="fa fa-google-plus"></i></a></li>-->
       </ul>
 
    </header> <!-- Header End -->
