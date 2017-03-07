@@ -319,10 +319,23 @@ ul#nav li.current a { color: #00c0f3; }
 /* Sponsors
 /* ------------------------------------------------------------------ */
 
+#sponsors .row { max-width: 800px; }
 #sponsors {
-   background: #fff url(img/grey.png);
+   background: #10999E url(img/escheresque.png);
+   color: #fff;
    padding-top: 50px;
    padding-bottom: 10px;
+   position: relative;
+   width: 100%;
+   overflow: hidden;
+   text-align: center;
+}
+#sponsors h1{ color: #dfe3e7; }
+#sponsors h3{
+   font-size: 17px;
+   text-transform: uppercase;
+   letter-spacing: 1px;
+   color: #333;
 }
 
 /* For high-res devices */
@@ -330,11 +343,10 @@ ul#nav li.current a { color: #00c0f3; }
 (-webkit-min-device-pixel-ratio: 2),
 (min-resolution: 192dpi) {
 
-   #sponsors {
-      background: #fff url(img/grey_@2X.png);
-      background-size: 397px 322px;
-   }
-
+	#sponsors {
+		background: #10999E url(img/escheresque_@2X.png);
+		background-size: 46px 29px;
+	}
 }
 
 /*----------------------------------------------*/
@@ -433,7 +445,6 @@ ul.features li:nth-child(even) { }
 /* Portfolio Content */
 .screenshots-wrapper .columns { padding: 0; }
 .item .item-wrap {
-   background: #fff;
    overflow: hidden;
    position: relative;
 

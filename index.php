@@ -214,84 +214,31 @@
       <div class="row section-head">
          <div class="twelve columns">
             <h1>Våra sponsorer</h1>
-			<!-- Länka årets sponsorer p.s.s. tidigare (trevligt rutmönster) -->
-			<div class="twelve columns">
-				<div class="bgrid-quarters s-bgrid-thirds cf screenshots-wrapper">
-				   <div class="columns item">
-					  <div class="item-wrap">
-						 <a href="images/screenshots/big/b-line-icons.jpg" data-imagelightbox="a" >
-							<img src="images/screenshots/line-icons.jpg" alt="Line Icons">
-							<div class="overlay"></div> 
-							<div class="link-icon"><i class="icon-plus"></i></div>
-						 </a>
-					  </div>
-					</div>
-				   <div class="columns item">
-					  <div class="item-wrap">
-						 <a href="images/screenshots/big/b-hipster.jpg" data-imagelightbox="a" >
-							<img src="images/screenshots/hipster.jpg" alt="Hipster">
-							<div class="overlay"></div>
-							<div class="link-icon"><i class="icon-plus"></i></div>
-						 </a>
-					  </div>
-					</div>
-				   <div class="columns item">
-					  <div class="item-wrap">
-						 <a href="images/screenshots/big/b-authentic-vintage.jpg" data-imagelightbox="a" >
-							<img src="images/screenshots/authentic-vintage.jpg" alt="Authentic Vintage">                        
-							<div class="overlay"></div>
-							<div class="link-icon"><i class="icon-plus"></i></div>
-						 </a>
-					  </div>
-					</div>
-				   <div class="columns item">
-					  <div class="item-wrap">
-						 <a href="images/screenshots/big/b-spot-uv-logo.jpg" data-imagelightbox="a" >
-							<img src="images/screenshots/spot-uv-logo.jpg" alt="Spot UV Logo">
-							<div class="overlay"></div>
-							<div class="link-icon"><i class="icon-plus"></i></div>
-						 </a>
-					  </div>
-					</div>
-				   <div class="columns item">
-					  <div class="item-wrap">
-						 <a href="images/screenshots/big/b-tshirt-mockup.jpg" data-imagelightbox="a" >
-							<img src="images/screenshots/tshirt-mockup.jpg" alt="TShirt Mockup">
-							<div class="overlay"></div>
-							<div class="link-icon"><i class="icon-plus"></i></div>
-						 </a>
-					  </div>
-					</div>
-				   <div class="columns item">
-					  <div class="item-wrap">
-						 <a href="images/screenshots/big/b-abstract-vector.jpg" data-imagelightbox="a" >
-							<img src="images/screenshots/abstract-vector.jpg" alt="Abstract Vector">
-							<div class="overlay"></div>
-							<div class="link-icon"><i class="icon-plus"></i></div>
-						 </a>
-					  </div>
-					</div>
-				   <div class="columns item">
-					  <div class="item-wrap">
-						 <a href="images/screenshots/big/b-embossed-paper.jpg" data-imagelightbox="a" >
-							<img src="images/screenshots/embossed-paper.jpg" alt="Embossed Paper">                        
-							<div class="overlay"></div>
-							<div class="link-icon"><i class="icon-plus"></i></div>
-						 </a>
-					  </div>
-					</div>
-				   <div class="columns item">
-					  <div class="item-wrap">
-						 <a href="images/screenshots/big/b-judah.jpg" data-imagelightbox="a" >
-							<img src="images/screenshots/judah.jpg" alt="Judah">
-							<div class="overlay"></div>
-							<div class="link-icon"><i class="icon-plus"></i></div>
-						 </a>
-					  </div>
-					</div>
-				</div>
-			 </div>
-            <p>Vill du bli sponsor? Kontakta oss på <a href="#">GGMIF-adress</a></p>
+            <!-- Länka årets sponsorer p.s.s. tidigare (trevligt rutmönster) -->
+            <div class="twelve columns">
+              <div class="row">
+                 <div class="four columns item">
+                  <h3>Middle Sisters:</h3>
+                </div>
+                 <div class="four columns item">
+                  <div>
+                   <a href="https://iteam.se/" data-imagelightbox="a" target="_blank" >
+                    <img src="images/sponsorer/iteam_white.png" alt="Iteam">
+                   </a>
+                  </div>
+                </div>
+                 <div class="four columns item">
+                  <div>
+                   <a href="https://www.academicwork.se/" data-imagelightbox="a" target="_blank" >
+                    <img src="images/sponsorer/academic work.svg" alt="Academic Work">
+                   </a>
+                  </div>
+                </div>
+              </div>
+             </div>
+             <div class="row">
+              <p>Vill du bli sponsor? Kontakta oss på info snabel-a ggmif.com</p>
+            </div>
          </div>
       </div>
    </section>
