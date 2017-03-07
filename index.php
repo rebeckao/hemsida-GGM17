@@ -90,6 +90,9 @@
 				   <h3 class="responsive-headline">13 maj, Stockholm</h3>
 						<p>Teknik förändrar vår värld. Den förändrar oss. Och det som en gång var science fiction är idag vår vardag. Med temat Geek Evolution vill vi tillsammans utforska ny teknik som artificiell intelligens (AI), virtuell verklighet (VR) och förstärkt verklighet (AR) och robotics. Och vi träffar förstås kvinnorna som skapar förutsättningarna för vår tids geek evolution.</p>
 				</div>
+        <div class="buttons">
+          <a class="button" value="Köp biljett" href="https://www.picatic.com/geekevolution?utm_source=promotion&utm_medium=button&utm_campaign=105221" target="_blank">Köp biljett</a>
+        </div>
 		   </div>
 	   </div>
    </section> <!-- Homepage intro end -->
@@ -98,18 +101,8 @@
    ================================================== -->
    <section id='tickets'>
       <div class="row design">
-         <div class="six columns feature-media left">
-			<div class="ticket_window">
-				<iframe src="https://www.picatic.com/events/widget/105221?width=std&ticket_description=true" frameborder="0" style="display:block;height:313px;max-width:none;width:100%;"></iframe>
-			</div>
-			<div class="buttons">
-				<a class="button" value="Köp biljett" href="https://www.picatic.com/geekevolution?utm_source=promotion&utm_medium=button&utm_campaign=105221" target="_blank">Till anmälningssidan</a>
-			 </div>
-         </div>
-         <div class="six columns right">
-            <p>Geek Girl Meetup är ett årligt event som riktar sig till alla som identifierar sig som kvinnor och är intresserade av IT eller teknik. Nytt för 2017 är att det bara kommer att vara en heldag (lördag 13 maj), vilket innebär ett lägre biljettpris, och att vi har flyttat till nya fräscha lokaler mitt i city (<a href="#">hitta hit</a>).
-            </p>
-         </div>
+        <p>Geek Girl Meetup är ett årligt event som riktar sig till alla som identifierar sig som kvinnor och är intresserade av IT eller teknik. Nytt för 2017 är att det bara kommer att vara en heldag (lördag 13 maj), vilket innebär ett lägre biljettpris, och att vi har flyttat till nya fräscha lokaler mitt i city (<a href="#">hitta hit</a>).
+        </p>
       </div>
   </section>
   
