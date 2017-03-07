@@ -167,136 +167,27 @@
    <section id="program" class="whiteish">
       <div class="row section-head">
          <h1>Program</h1>
-         <p>Kommer snart!</p>
-         <!--p>Schemapunkter med plats och tid liknande schemat i  
-             <a href="http://bigsister.se/program/">rikseventet 2014</a>
-         </p-->
+        <div class="row">
+           <p>Detaljerat program kommer längre fram i vår. Tills dess, spana in <a href="#talare">våra bokningar!</a></p>
+           <!--p>Schemapunkter med plats och tid liknande schemat i  
+               <a href="http://bigsister.se/program/">rikseventet 2014</a>
+           </p-->
+        </div>
       </div>  
    </section>
    
       <!-- Moderatorer
    ================================================== -->
    <section id="moderatorer">
-
       <div class="row section-head">
-
          <h1>Moderatorer</h1>
-
-         <p>Bilder på årets moderatorer, får upp text och kan läsa mer om dem när man trycker på bilden
-         </p>
-
       </div>
-
       <div class="row">
-
-         <div class="twelve columns">
-
-            <!-- screenshots-wrapper -->
-            <div class="bgrid-quarters s-bgrid-thirds cf screenshots-wrapper">
-
-          	   <div class="columns item">
-                  <div class="item-wrap">
-
-                     <a href="images/screenshots/big/b-line-icons.jpg" data-imagelightbox="a" >
-                        <img src="images/screenshots/line-icons.jpg" alt="Line Icons">
-                        <div class="overlay"></div> 
-                        <div class="link-icon"><i class="icon-plus"></i></div>
-                     </a>
-
-                  </div>
-          		</div> <!-- item end -->
-
-               <div class="columns item">
-                  <div class="item-wrap">
-
-                     <a href="images/screenshots/big/b-hipster.jpg" data-imagelightbox="a" >
-                        <img src="images/screenshots/hipster.jpg" alt="Hipster">
-                        <div class="overlay"></div>
-                        <div class="link-icon"><i class="icon-plus"></i></div>
-                     </a>
-
-                  </div>
-          		</div> <!-- item end -->
-
-               <div class="columns item">
-                  <div class="item-wrap">
-
-                     <a href="images/screenshots/big/b-authentic-vintage.jpg" data-imagelightbox="a" >
-                        <img src="images/screenshots/authentic-vintage.jpg" alt="Authentic Vintage">                        
-                        <div class="overlay"></div>
-                        <div class="link-icon"><i class="icon-plus"></i></div>
-                     </a>
-
-                  </div>
-          		</div> <!-- item end -->
-
-               <div class="columns item">
-                  <div class="item-wrap">
-
-                     <a href="images/screenshots/big/b-spot-uv-logo.jpg" data-imagelightbox="a" >
-                        <img src="images/screenshots/spot-uv-logo.jpg" alt="Spot UV Logo">
-                        <div class="overlay"></div>
-                        <div class="link-icon"><i class="icon-plus"></i></div>
-                     </a>
-
-                  </div>
-          		</div> <!-- item end -->
-
-               <div class="columns item">
-                  <div class="item-wrap">
-
-                     <a href="images/screenshots/big/b-tshirt-mockup.jpg" data-imagelightbox="a" >
-                     	<img src="images/screenshots/tshirt-mockup.jpg" alt="TShirt Mockup">
-                       	<div class="overlay"></div>
-                        <div class="link-icon"><i class="icon-plus"></i></div>
-                     </a>
-
-                  </div>
-          		</div> <!-- item end -->
-
-               <div class="columns item">
-                  <div class="item-wrap">
-
-                     <a href="images/screenshots/big/b-abstract-vector.jpg" data-imagelightbox="a" >
-                        <img src="images/screenshots/abstract-vector.jpg" alt="Abstract Vector">
-                        <div class="overlay"></div>
-                        <div class="link-icon"><i class="icon-plus"></i></div>
-                     </a>
-
-                  </div>
-          		</div> <!-- item end -->
-
-               <div class="columns item">
-                  <div class="item-wrap">
-
-                     <a href="images/screenshots/big/b-embossed-paper.jpg" data-imagelightbox="a" >
-                        <img src="images/screenshots/embossed-paper.jpg" alt="Embossed Paper">                        
-                        <div class="overlay"></div>
-                        <div class="link-icon"><i class="icon-plus"></i></div>
-                     </a>
-
-                  </div>
-          		</div> <!-- item end -->
-
-               <div class="columns item">
-                  <div class="item-wrap">
-
-                     <a href="images/screenshots/big/b-judah.jpg" data-imagelightbox="a" >
-                        <img src="images/screenshots/judah.jpg" alt="Judah">
-                        <div class="overlay"></div>
-                        <div class="link-icon"><i class="icon-plus"></i></div>
-                     </a>
-
-                  </div>
-          		</div>  <!-- item end -->
-
-            </div> <!-- portfolio-wrapper end -->
-
-         </div> <!-- twelve columns end -->
-
-      </div>  <!-- end row -->
-
-   </section> <!-- Moderatorer End -->
+        <p>Kommer snart!</p>
+         <!--p>Bilder på årets moderatorer, får upp text och kan läsa mer om dem när man trycker på bilden
+         </p-->
+      </div>
+   </section>
    
    <!-- Sponsors
    ================================================== -->
