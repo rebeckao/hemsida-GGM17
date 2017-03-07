@@ -63,7 +63,6 @@
               <li><a class="smoothscroll" href="#sponsors">Sponsorer</a></li>
              <li><a class="smoothscroll" href="#ggmif">GGMIF</a></li>
              <li><a class="smoothscroll" href="#contact">Kontakt</a></li>
-            <!--<li><a class="smoothscroll" href="#testimonials">Testimonials</a></li>-->
             
          </ul> <!-- end #nav -->
 
@@ -386,58 +385,6 @@
          </div>
       </div>
    </section>
-
-   <!-- Testimonials Section
-   ================================================== -->
-   <section id="testimonials">
-
-      <div class="row content">
-
-         <span><i class="quote-left fa fa-quote-left"></i></span>
-
-         <div class="text-container">
-
-            <div class="twelve columns">
-
-               <h1>What People Are Saying.</h1>
-
-            </div>
-
-            <div class="twelve columns flex-container">
-
-               <div class="flexslider">
-
-                  <ul class="slides">
-
-                     <li>
-                        <blockquote>
-                           <p>She believed that she could so she did
-                           </p>
-                           <cite>GGMIF</cite>
-                        </blockquote>
-                     </li> <!-- slide ends -->
-
-                     <li>
-                        <blockquote>
-                           <p>She believed that she could so she did
-                           </p>
-                           <cite>GGMIF</cite>
-                        </blockquote>
-                     </li> <!-- slide ends -->
-
-                  </ul>
-
-               </div> <!-- div.flexslider ends -->
-
-            </div> <!-- div.flex-container ends -->
-
-         </div>  <!-- text-container ends -->
-
-         <span><i class="quote-right fa fa-quote-right"></i></span>
-
-      </div> <!-- row ends -->
-
-   </section> <!-- Testimonials Section End-->
 
    <!-- Footer
    ================================================== -->
