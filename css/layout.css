@@ -447,7 +447,7 @@ ul.features li:nth-child(even) { }
 }
 
 /* Portfolio Content */
-#screenshots-wrapper .columns { padding: 0; }
+.screenshots-wrapper .columns { padding: 0; }
 .item .item-wrap {
    background: #fff;
    overflow: hidden;

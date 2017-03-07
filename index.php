@@ -2,7 +2,7 @@
 <!--[if lt IE 8 ]><html class="no-js ie ie7" lang="en"> <![endif]-->
 <!--[if IE 8 ]><html class="no-js ie ie8" lang="en"> <![endif]-->
 <!--[if IE 9 ]><html class="no-js ie ie9" lang="en"> <![endif]-->
-<!--[if (gte IE 8)|!(IE)]><!--><html class="no-js" lang="en"> <!--<![endif]-->
+<!--[if (gte IE 8)|!(IE)]><!--><html class="no-js" lang="sv"> <!--<![endif]-->
 <head>
 
    <!--- Basic Page Needs
@@ -90,7 +90,7 @@
 						<p>Teknik förändrar vår värld. Den förändrar oss. Och det som en gång var science fiction är idag vår vardag. Med temat Geek Evolution vill vi tillsammans utforska ny teknik som artificiell intelligens (AI), virtuell verklighet (VR) och förstärkt verklighet (AR) och robotics. Och vi träffar förstås kvinnorna som skapar förutsättningarna för vår tids geek evolution.</p>
 				</div>
         <div class="buttons">
-          <a class="button" value="Köp biljett" href="https://www.picatic.com/geekevolution?utm_source=promotion&utm_medium=button&utm_campaign=105221" target="_blank">Köp biljett</a>
+          <a class="button" href="https://www.picatic.com/geekevolution?utm_source=promotion&utm_medium=button&utm_campaign=105221" target="_blank">Köp biljett</a>
         </div>
 		   </div>
 	   </div>
@@ -188,7 +188,7 @@
          <div class="twelve columns">
 
             <!-- screenshots-wrapper -->
-            <div id="screenshots-wrapper" class="bgrid-quarters s-bgrid-thirds cf">
+            <div class="bgrid-quarters s-bgrid-thirds cf screenshots-wrapper">
 
           	   <div class="columns item">
                   <div class="item-wrap">
@@ -302,7 +302,7 @@
             <h1>Våra sponsorer</h1>
 			<!-- Länka årets sponsorer p.s.s. tidigare (trevligt rutmönster) -->
 			<div class="twelve columns">
-				<div id="screenshots-wrapper" class="bgrid-quarters s-bgrid-thirds cf">
+				<div class="bgrid-quarters s-bgrid-thirds cf screenshots-wrapper">
 				   <div class="columns item">
 					  <div class="item-wrap">
 						 <a href="images/screenshots/big/b-line-icons.jpg" data-imagelightbox="a" >
