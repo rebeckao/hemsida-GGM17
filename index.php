@@ -219,7 +219,7 @@
               </div>
              </div>
              <div class="row">
-              <p>Vill du bli sponsor? Kontakta oss på info snabel-a ggmif.com</p>
+              <p>Vill du bli sponsor för Geek Evolution? Kontakta oss på info snabel-a ggmif.com</p>
             </div>
          </div>
       </div>
@@ -229,13 +229,14 @@
    ================================================== -->
    <footer>
       <div class="row">    
-         <div id="ggmif" class="six columns info">
+         <div id="ggmif" class="twelve columns info">
             <div class="footer-logo">
                <a href="#">
                   <img src="images/ggm_logo.png" alt="" />
                </a>
             </div>
-            <p>Geek Girl Meetup är ett nätverk för alla som identifierar sig som nördiga tjejer. Läs mer om Geek Girl Meetup Ideella Förening och tidigare års event på <a href="http://www.ggmif.com">ggmif.com</a>
+            <p>Geek Girl Meetup Ideella Förening arbetar aktivt med att skapa och lyfta kvinnliga förebilder inom IT-branschen. Vårt mål är att skapa ett brett nätverk inom bland annat IT, spel och startup-världen. Och att ha kul såklart!</p>
+            <p>Vi gör detta genom att låta våra medlemmar dela med sig av kunskap till andra. På så sätt vill vi skapa rätt förutsättningar för kunskapsutbyte och förhoppningsvis fler kontakter eller vänner inom sitt yrke eller hobby. Läs mer om Geek Girl Meetup Ideella Förening och tidigare års event på <a href="http://www.ggmif.com">ggmif.com</a>
             </p>
          </div>
          <!--div id="contact" class="six columns">
