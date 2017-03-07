@@ -152,15 +152,11 @@
          </div>
       </div>
       <div class="row feature video">
-         <div class="six columns left">
-            <h3>Lajvströmming</h3>
-            <p>
-            </p>
+         <div class="seven columns left">
+            <h3>Du!</h3>
          </div>
-         <div class="six columns feature-media right">
-             <div class="fluid-video-wrapper">
-                  <iframe src="http://player.vimeo.com/video/14592941?title=0&amp;byline=0&amp;portrait=0&amp;color=F64B39" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
-             </div>
+         <div class="five columns feature-media right">
+             <a title="By J. Howard Miller, artist employed by Westinghouse, poster used by the War Production Co-ordinating Committee [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AWe_Can_Do_It!.jpg"><img width="256" alt="We Can Do It!" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/We_Can_Do_It%21.jpg/256px-We_Can_Do_It%21.jpg"/></a>
          </div>
       </div>
 
