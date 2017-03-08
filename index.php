@@ -142,13 +142,13 @@
          </div>
       </div>
       <div class="row feature responsive">
+         <div class="six columns feature-media left">
+             <img src="images/Siduri-Poli.jpg" alt="" />
+         </div>
          <div class="six columns right">
             <h3>Siduri Poli</h3>
             <p>Siduri Poli har en bakgrund som journalist och är teknikexpert för några av Sveriges största medier. Hon är medgrundare till demokratiseringsinitiativet Changers Hub som hjälper unga vuxna i Stockholms ytterstad att förverkliga sina idéer, och brinner för digitalisering, entreprenörskap och mångfald. Utsedd till en av Sveriges Supertalanger 2017 av Veckans Affärer.
             </p>
-         </div>
-         <div class="six columns feature-media left">
-             <img src="images/Siduri-Poli.jpg" alt="" />
          </div>
       </div>
       <div class="row feature video">
