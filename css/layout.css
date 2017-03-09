@@ -259,7 +259,6 @@ ul#nav li.current a { color: #00c0f3; }
 
 #talare {
    padding-top: 50px;
-   padding-bottom: 78px;
    overflow: hidden;
 }
 #talare .feature {
@@ -824,8 +823,6 @@ ul.features li:nth-child(even) { }
 /* ------------------------------------------------------------------ */
 
 footer {
-   padding-top: 84px;
-   margin-bottom: 60px;
    color: #8091a3;
    font-size: 13px;
    line-height: 24px;

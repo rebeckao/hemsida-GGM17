@@ -58,39 +58,43 @@
                 <h1>Talare</h1>
            </div>
        </div>
-      <div class="row feature design">
-         <div class="six columns feature-media left">
+      <div class="row responsive">
+         <div class="six columns feature left">
             <h3>Cecilia Beck-Friis</h3>
             <img src="images/Cecilia-Beck-Friis.jpg" alt="" />
          </div>
-         <div class="six columns right">
-            <h3>Maria Kareliusson</h3>
-            <img src="images/Maria-Kareliusson.jpg" alt="" />
+         <div class="six columns feature right">
+            <a href="geeks/mariakareliusson.php">
+              <h3>Maria Kareliusson</h3>
+              <img src="images/Maria-Kareliusson.jpg" alt="Maria Kareliusson" />
+            </a>
          </div>
       </div>
-      <div class="row feature responsive">
-         <div class="six columns left">
+      <div class="row responsive">
+         <div class="six columns feature left">
             <h3>Sara Riggare</h3>
            <img src="images/Sara-Riggare.png" alt="" />
          </div>
-         <div class="six columns feature-media right">
+         <div class="six columns feature right">
             <h3>Annelie Demred</h3>
             <img src="images/Annelie-Demred_skalad.jpg" alt="" />
          </div>
       </div>
-      <div class="row feature responsive">
-         <div class="six columns feature-media left">
-            <h3>Siduri Poli</h3>
-             <a href="geeks/siduripoli.php"><img src="images/Siduri-Poli.jpg" alt="Siduri Poli" /></a>
+      <div class="row responsive">
+         <div class="six columns feature left">
+            <a href="geeks/siduripoli.php">
+              <h3>Siduri Poli</h3>
+              <img src="images/Siduri-Poli.jpg" alt="Siduri Poli" />
+            </a>
          </div>
       </div>
-      <div class="row feature video">
+      <div class="row feature responsive">
          <div class="seven columns left">
             <h3>Vill du hålla en programpunkt?</h3>
             <p>Geek Evolution är en unconference, vilket innebär att deltagarna är med och skapar programmet! Har du något intressant du vill berätta om i ett snabbt lightning talk, en skill du kan lära ut i en workshop eller något annat du vill dela med dig av till fellow geeks? <a href="#contact">Kontakta oss!</a></p>
             <p>Du behöver inte ha någon scenvana, vi strävar efter att skapa en så peppig och trygg miljö som möjligt för de som vill testa stå på scen för första gången!</p>
          </div>
-         <div class="five columns feature-media right">
+         <div class="five columns right">
              <img width="256" alt="We Can Do It!" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/We_Can_Do_It%21.jpg/256px-We_Can_Do_It%21.jpg" alt="We Can Do It, via Wikimedia Commons"/>
          </div>
       </div>
@@ -163,7 +167,7 @@
             <h1>Hitta hit</h1>
             <p>I år kommer vi att hålla till i gamla arkitektskolans lokaler - <a href="http://www.ahousestockholm.com/" target="_blank">A house Stockholm</a>, Östermalmsgatan 26A. Enklaste sättet att ta sig hit är tunnelbanans röda linje till <b>Tekniska Högskolan</b>, södra uppgången.</p>
          </div>
-         <div class="six columns feature-media left">
+         <div class="six columns feature left">
              <iframe
               width="600"
               height="450"
