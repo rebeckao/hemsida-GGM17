@@ -10,11 +10,14 @@
 
 <body>
   <?php include 'includes/preloader.html';?>
-  <?php include 'includes/nav.html';?>
+  <header>
+    <?php include 'includes/nav-main.html';?>
+    <?php include 'includes/header-social.html';?>
+   </header>
 
    <!-- Homepage intro
    ================================================== -->
-   <section id="intro">
+   <section id="intro" class="top-of-page">
 	   <div class="row">
 		   <div class="twelve columns">
 			   <div class="intro-text">
@@ -77,12 +80,8 @@
       </div>
       <div class="row feature responsive">
          <div class="six columns feature-media left">
-             <img src="images/Siduri-Poli.jpg" alt="" />
-         </div>
-         <div class="six columns right">
             <h3>Siduri Poli</h3>
-            <p>Siduri Poli har en bakgrund som journalist och är teknikexpert för några av Sveriges största medier. Hon är medgrundare till demokratiseringsinitiativet Changers Hub som hjälper unga vuxna i Stockholms ytterstad att förverkliga sina idéer, och brinner för digitalisering, entreprenörskap och mångfald. Utsedd till en av Sveriges Supertalanger 2017 av Veckans Affärer.
-            </p>
+             <a href="geeks/siduripoli.php"><img src="images/Siduri-Poli.jpg" alt="Siduri Poli" /></a>
          </div>
       </div>
       <div class="row feature video">

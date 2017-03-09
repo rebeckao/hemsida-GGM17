@@ -167,12 +167,12 @@ table {
 html { font-size: 62.5%; }
 
 body {
-   background: #fff;
+   background: #181d21;
    font-family: 'opensans-regular', sans-serif;
    font-weight: normal;
    font-size: 15px;
    line-height: 30px;
-	color: #838C95;
+	 color: #838C95;
 
    -webkit-font-smoothing: antialiased; /* Fix for webkit rendering */
 	-webkit-text-size-adjust: 100%;
@@ -183,9 +183,10 @@ body {
 --------------------------------------------------------------------- */
 
 h1, h2, h3, h4, h5, h6 {
-   color: #313131;
+   color: #cdd1d5;
 	 font-family: 'vag-rounded-bold', sans-serif;
    font-weight: normal;
+   text-transform: uppercase;
 }
 h1 a, h2 a, h3 a, h4 a, h5 a, h6 a { font-weight: inherit; }
 h1 { font-size: 38px; line-height: 42px; margin-bottom: 12px; letter-spacing: -1px; }
@@ -828,6 +829,9 @@ properly.
 	text-align: center !important;
 }
 
+.top-of-page {
+   padding-top: 66px;
+}
 
 /* ------------------------------------------------------------------ */
 /* Mörkt gråmelerad bakgrund
