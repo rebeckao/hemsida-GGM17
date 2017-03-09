@@ -4,81 +4,13 @@
 <!--[if IE 9 ]><html class="no-js ie ie9" lang="en"> <![endif]-->
 <!--[if (gte IE 8)|!(IE)]><!--><html class="no-js" lang="sv"> <!--<![endif]-->
 <head>
-
-   <!--- Basic Page Needs
-   ================================================== -->
-   <meta charset="utf-8">
 	<title>GGM17 - Geek Evolution</title>
-	<meta name="description" content="">  
-	<meta name="author" content="">
-
-   <!-- Mobile Specific Metas
-   ================================================== -->
-	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-
-	<!-- CSS
-    ================================================== -->
-   <link rel="stylesheet" href="css/default.css">
-	<link rel="stylesheet" href="css/layout.css">
-   <link rel="stylesheet" href="css/media-queries.css">
-   <link rel="stylesheet" href="css/animate.css">
-   <link rel="stylesheet" href="css/prettyPhoto.css">
-
-   <!-- Script
-   ================================================== -->
-	<script src="js/modernizr.js"></script>
-
-   <!-- Favicons
-	================================================== -->
-	<link rel="shortcut icon" href="images/G.png" >
-
+  <?php include 'includes/head.html';?>
 </head>
 
 <body>
-
-   <div id="preloader">      
-      <div id="status">
-         <img src="images/preloader.gif" height="64" width="64" alt="">
-      </div>
-   </div>
-
-   <!-- Header
-   ================================================== -->
-   <header>
-
-      <div class="logo">
-         <a class="smoothscroll" href="#intro"><img src="images/ggm_logo.png" alt="GGM"></a>
-      </div>
-
-      <nav id="nav-wrap">         
-         
-         <a class="mobile-btn" href="#nav-wrap" title="Show navigation">Show Menu</a>
-	      <a class="mobile-btn" href="#" title="Hide navigation">Hide Menu</a>         
-
-         <ul id="nav" class="nav">
-             <li><a class="smoothscroll" href="#tickets">Biljetter</a></li>
-             <li><a class="smoothscroll" href="#talare">Talare</a></li>
-             <li><a class="smoothscroll" href="#program">Program</a></li>
-             <li><a class="smoothscroll" href="#moderatorer">Moderatorer</a></li>
-             <li><a class="smoothscroll" href="#sponsors">Sponsorer</a></li>
-             <li><a class="smoothscroll" href="#lokal">Hitta hit</a></li>
-             <li><a class="smoothscroll" href="#ggmif">GGMIF</a></li>
-             <li><a class="smoothscroll" href="#contact">Kontakt</a></li>
-            
-         </ul> <!-- end #nav -->
-
-      </nav> <!-- end #nav-wrap -->
-
-      <ul class="header-social">
-         <li><a href="https://www.facebook.com/groups/ggmsweden/" target="_blank"><i class="fa fa-facebook"></i></a></li>
-         <li><a href="https://twitter.com/geekgirlmeetup" target="_blank"><i class="fa fa-twitter"></i></a></li>
-         <li><a href="https://www.linkedin.com/company/geek-girl-meetup" target="_blank"><i class="fa fa-linkedin"></i></a></li>
-         <li><a href="https://www.instagram.com/geekgirlmeetup" target="_blank"><i class="fa fa-instagram"></i></a></li>
-         <li><a href="https://www.snapchat.com/add/geekgirlmeetup" target="_blank"><i class="fa fa-snapchat"></i></a></li>
-      </ul>
-
-   </header> <!-- Header End -->
-
+  <?php include 'includes/preloader.html';?>
+  <?php include 'includes/nav.html';?>
 
    <!-- Homepage intro
    ================================================== -->
@@ -304,20 +236,7 @@
 
    </footer> <!-- Footer End-->
 
-
-   <!-- Java Script
-   ================================================== -->
-   <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-   <script>window.jQuery || document.write('<script src="js/jquery-1.10.2.min.js"><\/script>')</script>
-   <script type="text/javascript" src="js/jquery-migrate-1.2.1.min.js"></script>
-
-   <script src="js/jquery.flexslider.js"></script>
-   <script src="js/waypoints.js"></script>
-   <script src="js/jquery.fittext.js"></script>
-   <script src="js/jquery.fitvids.js"></script>
-   <script src="js/imagelightbox.js"></script>
-   <script src="js/jquery.prettyPhoto.js"></script>   
-   <script src="js/main.js"></script>
+  <?php include 'includes/scripts.html';?>
 
 </body>
 
