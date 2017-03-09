@@ -61,6 +61,7 @@
              <li><a class="smoothscroll" href="#program">Program</a></li>
              <li><a class="smoothscroll" href="#moderatorer">Moderatorer</a></li>
              <li><a class="smoothscroll" href="#sponsors">Sponsorer</a></li>
+             <li><a class="smoothscroll" href="#lokal">Hitta hit</a></li>
              <li><a class="smoothscroll" href="#ggmif">GGMIF</a></li>
              <li><a class="smoothscroll" href="#contact">Kontakt</a></li>
             
@@ -222,6 +223,25 @@
              <div class="row">
               <p>Vill du bli sponsor för Geek Evolution? <a href="#contact">Kontakta oss!</a>
             </div>
+         </div>
+      </div>
+   </section>
+   
+   <section id="lokal" class="whiteish">
+      <div class="row feature responsive">
+         <div class="six columns right">
+            <h1>Hitta hit</h1>
+            <p>I år kommer vi att hålla till i gamla arkitektskolans lokaler - <a href="http://www.ahousestockholm.com/" target="_blank">A house Stockholm</a>, Östermalmsgatan 26A. Enklaste sättet att ta sig hit är tunnelbanans röda linje till <b>Tekniska Högskolan</b>, södra uppgången.</p>
+         </div>
+         <div class="six columns feature-media left">
+             <iframe
+              width="600"
+              height="450"
+              frameborder="0" style="border:0"
+              src="https://www.google.com/maps/embed/v1/place?key=AIzaSyBRiXh_K4BuISkl9UQ-WMSag5spV1sysCo
+                &q=A+house+Stockholm" allowfullscreen
+              target="_blank">
+            </iframe>
          </div>
       </div>
    </section>

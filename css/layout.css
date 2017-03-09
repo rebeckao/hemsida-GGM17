@@ -349,6 +349,30 @@ ul#nav li.current a { color: #00c0f3; }
 	}
 }
 #sponsors a { color: #d6d6d6; }
+
+/* ------------------------------------------------------------------ */
+/* Lokal
+/* ------------------------------------------------------------------ */
+
+#lokal .feature {
+   padding-top: 50px;
+   padding-bottom: 10px;
+}
+#lokal .right {
+   padding-left: 32px;
+   float: right;   
+}
+#lokal .left {
+   padding-right: 32px;
+   float: left;   
+}
+#lokal h1 {
+   font-size: 20px;
+   text-transform: uppercase;
+   letter-spacing: 1.5px;
+   margin-bottom: 12px;
+}
+
 /*----------------------------------------------*/
 /*	e. Pricing Section
 /*----------------------------------------------*/
