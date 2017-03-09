@@ -155,8 +155,7 @@
       </div>
       <div class="row feature video">
          <div class="seven columns left">
-            <h3>Du!</h3>
-            <p>Vill du hålla en programpunkt?</p>
+            <h3>Vill du hålla en programpunkt?</h3>
             <p>Geek Evolution är en unconference, vilket innebär att deltagarna är med och skapar programmet! Har du något intressant du vill berätta om i ett snabbt lightning talk, en skill du kan lära ut i en workshop eller något annat du vill dela med dig av till fellow geeks? <a href="#contact">Kontakta oss!</a></p>
             <p>Du behöver inte ha någon scenvana, vi strävar efter att skapa en så peppig och trygg miljö som möjligt för de som vill testa stå på scen för första gången!</p>
          </div>
