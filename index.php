@@ -167,7 +167,7 @@
             <h1>Hitta hit</h1>
             <p>I år kommer vi att hålla till i gamla arkitektskolans lokaler - <a href="http://www.ahousestockholm.com/" target="_blank">A house Stockholm</a>, Östermalmsgatan 26A. Enklaste sättet att ta sig hit är tunnelbanans röda linje till <b>Tekniska Högskolan</b>, södra uppgången.</p>
          </div>
-         <div class="six columns feature left">
+         <div class="six columns left">
              <iframe
               width="600"
               height="450"
