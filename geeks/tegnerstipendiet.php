@@ -21,7 +21,7 @@
       </div>
       <div class="six columns right">
         <h3>Elisabeth Tegner-stipendiet</h3>
-        <p>Changemaker Educations stiftar i år Elisabeth Tegner Stipendiet – en utmärkelse som kommer att gå till en ung kvinna som gjort skillnad inom IT- eller spel-världen, och som inspirera andra att göra detsamma. Stipendiaten kommer tillkännages under Geek Girl Meetups riksevens och tilldelas en prissumma på 10 000 kr. <a href="https://www.cmeducations.se/elisabethtegner">Nominera din förebild här!</a></p>
+        <p>Changemaker Educations stiftar i år Elisabeth Tegner Stipendiet – en utmärkelse som kommer att gå till en ung kvinna som gjort skillnad inom IT- eller spel-världen, och som inspirera andra att göra detsamma. Stipendiaten kommer tillkännages under Geek Girl Meetups riksevens och tilldelas en prissumma på 10 000 kr. <a href="http://cmeducations.se/elisabethtegner" target="_blank">Nominera din förebild här!</a></p>
       </div>
     </div>
   </section>
