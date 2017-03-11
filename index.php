@@ -190,52 +190,46 @@
    ================================================== -->
    <footer>
       <div class="row">    
-         <div id="ggmif" class="twelve columns info">
+         <section id="ggmif" class="six columns">
             <div class="footer-logo">
-               <a href="#">
-                  <img src="images/ggm_logo.png" alt="" />
-               </a>
+               <a href="http://www.ggmif.com"><img src="images/ggm_logo.png" alt="GGMIF" /></a>
             </div>
             <p>Geek Girl Meetup Ideella Förening arbetar aktivt med att skapa och lyfta kvinnliga förebilder inom IT-branschen. Vårt mål är att skapa ett brett nätverk inom bland annat IT, spel och startup-världen. Och att ha kul såklart!</p>
             <p>Vi gör detta genom att låta våra medlemmar dela med sig av kunskap till andra. På så sätt vill vi skapa rätt förutsättningar för kunskapsutbyte och förhoppningsvis fler kontakter eller vänner inom sitt yrke eller hobby. Läs mer om Geek Girl Meetup Ideella Förening och tidigare års event på <a href="http://www.ggmif.com">ggmif.com</a>
             </p>
-            <div id="contact">
-              <p>Kontakta oss på <a href="mailto:info@ggmif.se">info@ggmif.se</a></p>
-            </div>
-         </div>
-         <!--div id="contact" class="six columns">
-            <div class="row"-->
-						<!--?php
-							$action=$_REQUEST['action'];
-							if ($action=="")    /* display the contact form */
-									{
-									?>
-									<form  action="" method="POST" enctype="multipart/form-data">
-									<input type="hidden" name="action" value="submit">
-									<input name="email" type="text" value="" size="30" placeholder="epost"/><br>
-									<textarea name="message" rows="5" cols="30" placeholder="meddelande"></textarea><br>
-									<input type="submit" value="Kontakta oss"/>
-									</form-->
-									<!--?php
-									} 
-							else                /* send the submitted data */
-									{
-									$email=$_REQUEST['email'];
-									$message=$_REQUEST['message'];
-									if (($email=="")||($message==""))
-											{
-											echo "Alla fält är obligatoriska, fill i <a href=\"#contact\">formuläret</a> igen.";
-											}
-									else{        
-											$from="From: $email\r\nReturn-path: $email";
-											$subject="Meddelande från kontaktformulär på Geek Evolution-hemsidan";
-											mail("rebecka.oefverholm@gmail.com", $subject, $message, $from);
-											echo "Meddelande skickat!";
-											}
-									}  
-							?-->
-            </div>
-         </div>
+            <p>Vill du nå oss? Skicka ett mail till <a href="mailto:info@ggmif.se">info@ggmif.se</a> eller använd kontaktformuläret.</p>
+         </section>
+         <section id="contact" class="six columns">
+            <?php
+            $action=$_REQUEST['action'];
+            if ($action=="")    /* display the contact form */
+                {
+                ?>
+                <form  action="" method="POST" enctype="multipart/form-data">
+                  <input type="hidden" name="action" value="submit">
+                  <input name="email" type="text" value="" size="30" placeholder="Din epost"/><br>
+                  <textarea name="message" placeholder="Ditt meddelande"></textarea><br>
+                  <input type="submit" value="Kontakta oss"/>
+                </form>
+                <?php
+                } 
+            else                /* send the submitted data */
+                {
+                $email=$_REQUEST['email'];
+                $message=$_REQUEST['message'];
+                if (($email=="")||($message==""))
+                    {
+                    echo "Alla fält är obligatoriska, fyll i <a href=\"#contact\">formuläret</a> igen.";
+                    }
+                else{        
+                    $from="From: $email\r\nReturn-path: $email";
+                    $subject="Meddelande från kontaktformulär på Geek Evolution-hemsidan";
+                    mail("info@ggmif.se", $subject, $message, $from);
+                    echo "Meddelande skickat!";
+                    }
+                }  
+            ?>
+         </section>
          <p class="copyright">&copy; 2014 Woo | Design by <a title="Styleshout" href="http://www.styleshout.com/">Styleshout</a></p>
          <div id="go-top">
             <a class="smoothscroll" title="Back to Top" href="#intro"><i class="icon-up-open"></i></a>
