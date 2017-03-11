@@ -87,6 +87,12 @@
               <img src="images/Siduri-Poli.jpg" alt="Siduri Poli" />
             </a>
          </div>
+         <div class="six columns feature right">
+            <a href="geeks/tegnerstipendiet.php">
+              <h3>Elisabeth Tegner-stipendiet</h3>
+              <img src="images/Elisabeth-Tegner.jpg" alt="Elisabeth Tegner-stipendiet" />
+            </a>
+         </div>
       </div>
       <div class="row feature responsive">
          <div class="seven columns left">
