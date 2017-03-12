@@ -33,7 +33,7 @@
          <h1>Geek Girl Meetup &bull; 13 maj 2017 &bull; Stockholm</h1>
         <div class="row design">
           <p><i>När världen verkar galen och naturen börjar strejka kopplar vi på våra superkrafter. Med artificiell intelligens och nanoteknik kan vi bekämpa de onda krafterna. Vi hittar nya sätt att leva, nya sätt att äta, nya sätt att uppleva världen. Årets tema är Geek Evolution, och på rikseventet för Geek Girl Meetup bryter vi ny mark på alla sätt och vis.</i></p>
-          <p>Välkomna! Den 13 maj träffas vi på A-house i Stockholm för att tillsammans undersöka temat Geek Evolution. Vi fokuserar på framtiden och ny teknik som artificiell intelligens (AI), virtuell verklighet (VR), förstärkt verklighet (AR), och robotics, och träffar kvinnorna som skapar förutsättningarna för vår tids geek evolution.</p>
+          <p>Välkomna! Den 13 maj träffas vi <a href="#lokal" class="smoothscroll">på A-house i Stockholm</a> för att tillsammans undersöka temat Geek Evolution. Vi fokuserar på framtiden och ny teknik som artificiell intelligens (AI), virtuell verklighet (VR), förstärkt verklighet (AR), och robotics, och träffar kvinnorna som skapar förutsättningarna för vår tids geek evolution.</p>
           <p>Vi kommer att uppdatera programmet löpande fram tills startdatum och ser fram emot en heldag fylld av intressanta föreläsningar, spaningar och chansen att få nätverka tillsammans med andra geeks. </p>
         </div>
       </div>
@@ -76,12 +76,6 @@
               <img src="images/geeks/Siduri-Poli.jpg" alt="Siduri Poli" />
             </a>
          </div>
-         <div class="six columns feature right">
-            <a href="geeks/tegnerstipendiet.php">
-              <h3>Elisabeth Tegner-stipendiet</h3>
-              <img src="images/geeks/Elisabeth-Tegner.jpg" alt="Elisabeth Tegner-stipendiet" />
-            </a>
-         </div>
       </div>
       <div class="row feature responsive">
          <div class="seven columns left">
@@ -89,7 +83,7 @@
             <p>Geek Evolution är en unconference, vilket innebär att deltagarna är med och skapar programmet! Har du något intressant du vill berätta om i ett snabbt lightning talk, en skill du kan lära ut i en workshop eller något annat du vill dela med dig av till fellow geeks? <a href="#contact">Kontakta oss!</a></p>
             <p>Du behöver inte ha någon scenvana, vi strävar efter att skapa en så peppig och trygg miljö som möjligt för de som vill testa stå på scen för första gången!</p>
          </div>
-         <div class="five columns right">
+         <div class="five columns right last-item">
              <img width="256" alt="We Can Do It!" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/We_Can_Do_It%21.jpg/256px-We_Can_Do_It%21.jpg" alt="We Can Do It, via Wikimedia Commons"/>
          </div>
       </div>
@@ -156,16 +150,32 @@
       </div>
    </section>
    
+   <!-- Elisabeth Tegner-stipendiet
+   ================================================== -->
+   <section id="stipendiet" class="darkgrayish">
+    <div class="row feature responsive section-head">
+      <div class="six columns right">
+        <img src="../images/geeks/Elisabeth-Tegner.jpg" alt="Elisabeth Tegner-stipendiet" />
+      </div>
+      <div class="six columns left">
+        <h1>Elisabeth Tegner-stipendiet</h1>
+        <p>Changemaker Educations stiftar i år Elisabeth Tegner Stipendiet – en utmärkelse som kommer att gå till en ung kvinna som gjort skillnad inom IT- eller spel-världen, och som inspirera andra att göra detsamma. Stipendiaten kommer tillkännages under Geek Girl Meetups riksevent och tilldelas en prissumma på 10 000 kr. <a href="http://cmeducations.se/elisabethtegner" target="_blank">Nominera din förebild här!</a></p>
+      </div>
+    </div>
+   </section>
+   
+   <!-- Lokal
+   ================================================== -->
    <section id="lokal" class="whiteish">
-      <div class="row feature responsive">
+      <div class="row feature responsive section-head">
          <div class="six columns right">
-            <h1>Hitta hit</h1>
-            <p>I år kommer vi att hålla till i gamla arkitektskolans lokaler - <a href="http://www.ahousestockholm.com/" target="_blank">A house Stockholm</a>, Östermalmsgatan 26A. Enklaste sättet att ta sig hit är tunnelbanans röda linje till <b>Tekniska Högskolan</b>, södra uppgången.</p>
+            <h1>Plats</h1>
+            <p>I år kommer vi att hålla till i arkitektskolans gamla lokaler - <a href="http://www.ahousestockholm.com/" target="_blank">A house Stockholm</a>, Östermalmsgatan 26A. Enklaste sättet att ta sig hit är tunnelbanans röda linje till <b>Tekniska Högskolan</b>, södra uppgången.</p>
          </div>
-         <div class="six columns left">
+         <div class="six columns left last-item">
              <iframe
-              width="600"
-              height="450"
+              width="100%"
+              height="auto"
               frameborder="0" style="border:0"
               src="https://www.google.com/maps/embed/v1/place?key=AIzaSyBRiXh_K4BuISkl9UQ-WMSag5spV1sysCo
                 &q=A+house+Stockholm" allowfullscreen

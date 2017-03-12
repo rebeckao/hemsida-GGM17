@@ -27,6 +27,7 @@
 /* a. General and Common Styles
 /* ------------------------------------------------------------------ */
 
+.section { padding-top: 50px}
 .section-head {
   	padding: 0 4%;
    text-align: center;
@@ -44,7 +45,21 @@
 .js #mc_embed_signup input[type="submit"] {
    opacity: 0;
 }
-
+.feature {
+   margin-top: 30px;
+   margin-bottom: 30px;
+}
+.right {
+   padding-left: 32px;
+   float: right;
+   text-align: left;   
+}
+.left {
+   padding-right: 32px;
+   float: left;   
+   text-align: right;   
+}
+.last-item{ margin-bottom: 30px; }
 
 /* ------------------------------------------------------------------ */
 /* b. Header Styles
@@ -186,18 +201,7 @@ ul#nav li.current a { color: #00c0f3; }
    padding-top: 50px;
    overflow: hidden;
 }
-#talare .feature {
-   margin-top: 30px;
-   margin-bottom: 54px;
-}
-#talare .right {
-   padding-left: 32px;
-   float: right;   
-}
-#talare .left {
-   padding-right: 32px;
-   float: left;   
-}
+
 #talare h3 {
    font: 16px/24px 'vag-rounded-bold', sans-serif;
    letter-spacing: 1px;
@@ -252,27 +256,14 @@ ul#nav li.current a { color: #00c0f3; }
 }
 
 /* ------------------------------------------------------------------ */
+/* Stipendiet
+/* ------------------------------------------------------------------ */
+#stipendiet { padding-top: 50px}
+
+/* ------------------------------------------------------------------ */
 /* Lokal
 /* ------------------------------------------------------------------ */
-
-#lokal .feature {
-   padding-top: 50px;
-   padding-bottom: 10px;
-}
-#lokal .right {
-   padding-left: 32px;
-   float: right;   
-}
-#lokal .left {
-   padding-right: 32px;
-   float: left;   
-}
-#lokal h1 {
-   font-size: 20px;
-   text-transform: uppercase;
-   letter-spacing: 1.5px;
-   margin-bottom: 12px;
-}
+#lokal { padding-top: 50px}
 
 .item .item-wrap {
    overflow: hidden;

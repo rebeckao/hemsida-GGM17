@@ -86,7 +86,15 @@
     margin: 12px 0; 
     line-height: 16px; /* reset line-height from 54px */
     border: none;
- }  
+ } 
+
+/* larger screens
+--------------------------------------------------------------- */
+@media screen and (min-width: 1200px) {
+
+   .wide .row { max-width: 1180px; }
+
+} 
 
 /* screenwidth less than or equal 1024px
 --------------------------------------------------------------------- */
@@ -102,6 +110,16 @@
 --------------------------------------------------------------------- */
 
 @media only screen and (max-width: 900px) {
+
+   /* block grids on small screens */
+   .s-bgrid-sixths [class*="column"]   { width: 16.66667%; }
+   .s-bgrid-quarters [class*="column"] { width: 25%; }
+   .s-bgrid-thirds [class*="column"]   { width: 33.33333%; }
+   .s-bgrid-halves [class*="column"]   { width: 50%; }
+
+   /* block grids left clearing */
+   .first { clear: none; }
+   .s-first { clear: left; }
 
 	/* General and Common Styles */
 	.section-head h1 { font: 18px/30px 'vag-rounded-bold', sans-serif; }
@@ -136,6 +154,39 @@
 ---------------------------------------------------------------------- */
 @media only screen and (max-width: 767px) {
 
+   .row {
+	   width: 480px;
+	   margin: 0 auto;
+      padding: 0;
+	}
+   .column, .columns {
+	   width: auto !important;      
+	   float: none;
+	   margin-left: 0;
+	   margin-right: 0;
+      padding: 0 30px;
+   }
+   .row .row { width: auto; max-width: none; margin: 0 -30px; }
+
+   [class*="column"] + [class*="column"]:last-child { float: none; }
+   [class*="bgrid"] [class*="column"] + [class*="column"]:last-child { float: none; }
+
+   /* Offsets */
+   .row .offset-1    { margin-left: 0%; }
+   .row .offset-2    { margin-left: 0%; }
+   .row .offset-3    { margin-left: 0%; }
+   .row .offset-4    { margin-left: 0%; }
+   .row .offset-5    { margin-left: 0%; }
+   .row .offset-6    { margin-left: 0%; }
+   .row .offset-7    { margin-left: 0%; }
+   .row .offset-8    { margin-left: 0%; }
+   .row .offset-9    { margin-left: 0%; }
+   .row .offset-10   { margin-left: 0%; }
+   .row .offset-11   { margin-left: 0%; }
+   
+   .right,
+   .left { text-align: center; }
+   
 	/* General and Common Styles */
 	.section-head { padding: 0 30px; }
 
@@ -205,7 +256,9 @@
 
 /* screenwidth less than or equal 480px - mobile wide
   -------------------------------------------------------------------------- */
-@media only screen and (max-width: 480px) {   
+@media only screen and (max-width: 480px) { 
+ 
+   .row { width: auto; } 
 
    /* Intro Section
    -------------------------------------------------------------------- */

@@ -15,7 +15,8 @@
       <li><a class="smoothscroll" href="#program">Program</a></li>
       <li><a class="smoothscroll" href="#moderatorer">Moderatorer</a></li>
       <li><a class="smoothscroll" href="#sponsors">Sponsorer</a></li>
-      <li><a class="smoothscroll" href="#lokal">Hitta hit</a></li>
+      <li><a class="smoothscroll" href="#stipendiet">Elisabeth Tegner-stipendiet</a></li>
+      <li><a class="smoothscroll" href="#lokal">Plats</a></li>
       <li><a class="smoothscroll" href="#ggmif">GGMIF</a></li>
       <li><a class="smoothscroll" href="#contact">Kontakt</a></li>
     </ul>
