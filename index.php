@@ -115,26 +115,28 @@
    <!-- Sponsors
    ================================================== -->
   <section id="sponsors" class="escheresque">
-    <div class="row section-head twelve columns">
-      <h1>Våra sponsorer</h1>
-      <!-- Länka årets sponsorer p.s.s. tidigare (trevligt rutmönster) -->
+    <div class="row section-head ">
       <div class="twelve columns">
-        <div class="row four columns item">
-          <h3>Middle Sisters:</h3>
-        </div>
-        <div class="four columns item">
-            <a href="https://iteam.se/" data-imagelightbox="a" target="_blank" >
-              <img src="images/sponsorer/iteam_white.png" alt="Iteam">
+        <h1>Våra sponsorer</h1>
+        <!-- Länka årets sponsorer p.s.s. tidigare (trevligt rutmönster) -->
+        <div class="twelve columns">
+          <div class="row four columns item">
+            <h3>Middle Sisters:</h3>
+          </div>
+          <div class="four columns item">
+              <a href="https://iteam.se/" data-imagelightbox="a" target="_blank" >
+                <img src="images/sponsorer/iteam_white.png" alt="Iteam">
+              </a>
+            </div>
+          <div class="four columns item">
+            <a href="https://www.academicwork.se/" data-imagelightbox="a" target="_blank" >
+              <img src="images/sponsorer/academic work.svg" alt="Academic Work">
             </a>
           </div>
-        <div class="four columns item">
-          <a href="https://www.academicwork.se/" data-imagelightbox="a" target="_blank" >
-            <img src="images/sponsorer/academic work.svg" alt="Academic Work">
-          </a>
         </div>
-      </div>
-      <div class="row">
-        <p>Vill du bli sponsor för Geek Evolution? <a href="#contact" class="smoothscroll">Kontakta oss!</a>
+        <div class="row">
+          <p>Vill du bli sponsor för Geek Evolution? <a href="#contact" class="smoothscroll">Kontakta oss!</a>
+        </div>
       </div>
     </div>
   </section>
