@@ -167,50 +167,7 @@ ul#nav li.current a { color: #00c0f3; }
    background-position: center; 
    background-repeat: no-repeat;
    overflow: hidden;
-}
-
-#intro .row { max-width: 1040px; }
-
-/* Intro Text */
-.intro-text {
-	 color: #f2f2f2;
-   width: 83%;
-   text-align: center;
-   margin: 100px auto 100px auto;
-}
-.intro-text h1 {
-   font: 60px/2.5em 'vag-rounded-bold', sans-serif; 
-   color: #fff;
-   padding: 0;
-   margin: 0;
-	 letter-spacing: 3px;
-   text-shadow: 0px 1px 4px rgba(0, 0, 0, .2);
-}
-.intro-text h2 { 
-   font: 23px/1.2em 'opensans-regular', sans-serif;
-   color: #fab76b;
-}
-.intro-text h3 { 
-   font: 20px/1.2em 'opensans-regular', sans-serif;
-   color: #fab76b;
-}
-.intro-text h1 span,
-.intro-text a { color: #11ABB0; }
-.intro-text p {
-   font: 16px/30px 'opensans-regular', sans-serif;
-   padding: 0;
-   margin: 12px 8% 0;
-   text-shadow: 0px 1px 2px rgba(0, 0, 0, .2);
-}
-
-/* intro Image */
-.intro-image {
-   width: 100%;
-   margin: 0 auto;
-}
-.intro-image img {
-   vertical-align: bottom;
-   display: block;
+   padding-bottom: 300px;
 }
 
 /* ------------------------------------------------------------------ */
@@ -219,15 +176,21 @@ ul#nav li.current a { color: #00c0f3; }
 
 #tickets{
    text-align: center;
-   padding-top: 30px;
+   padding-top: 20px;
    background: #fff;
    overflow: hidden;
 }
-#tickets .buttons .button {
+#tickets h1 {
+   margin: 0;
+   font-size: 45px;
+   letter-spacing: 2px;
+}
+#tickets .button {
    font: 14px/24px 'vag-rounded-bold', sans-serif;
    text-transform : uppercase;
    letter-spacing: 2px;
-   margin: 0 0 0 0;
+   margin-top: 20px;
+   margin-bottom: 15px;
 }
 
 /* ------------------------------------------------------------------ */
@@ -238,7 +201,6 @@ ul#nav li.current a { color: #00c0f3; }
 #description {
    background: #fff;
 	 color: #545454;
-   padding-top: 50px;
    padding-bottom: 50px;
    overflow: hidden;
 }

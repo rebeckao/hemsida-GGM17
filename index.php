@@ -18,29 +18,27 @@
    <!-- Homepage intro
    ================================================== -->
    <section id="intro" class="top-of-page">
-	   <div class="row">
+	   <!--div class="row">
 		   <div class="twelve columns">
 			   <div class="intro-text">
-				   <h1 class="responsive-headline">Geek Evolution</h1>
 				</div>
 		   </div>
-	   </div>
+	   </div-->
    </section> <!-- Homepage intro end -->
 
    <!-- Tickets
    ================================================== -->
- <section id="tickets">
-      <div id="tickets" class="buttons">
+ <section id="tickets" class="whiteish">
+      <h1 class="responsive-headline">Geek Evolution</h1>
+      <div id="ticket_button">
         <a class="button" href="https://www.picatic.com/geekevolution?utm_source=promotion&utm_medium=button&utm_campaign=105221" target="_blank">Köp biljett</a>
       </div>
   </section>
 
    <!-- Description
    ================================================== -->
- <section id="description">
+ <section id="description" class="whiteish">
       <div class="row section-head">
-         <!--h2 class="responsive-headline">Geek Girl Meetup 2017</h2>
-         <h3 class="responsive-headline">13 maj, Stockholm</h3-->
          <h1>Geek Girl Meetup &bull; 13 maj 2017 &bull; Stockholm</h1>
         <div class="row design">
           <p><i>När världen verkar galen och naturen börjar strejka kopplar vi på våra superkrafter. Med artificiell intelligens och nanoteknik kan vi bekämpa de onda krafterna. Vi hittar nya sätt att leva, nya sätt att äta, nya sätt att uppleva världen. Årets tema är Geek Evolution, och på rikseventet för Geek Girl Meetup bryter vi ny mark på alla sätt och vis.</i></p>
