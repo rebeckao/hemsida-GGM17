@@ -127,7 +127,7 @@
    
    <!-- Sponsors
    ================================================== -->
-  <section id="sponsors">
+  <section id="sponsors" class="escheresque">
       <div class="row section-head">
          <div class="twelve columns">
             <h1>Våra sponsorer</h1>

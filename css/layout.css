@@ -266,8 +266,6 @@ ul#nav li.current a { color: #00c0f3; }
 
 #sponsors .row { max-width: 800px; }
 #sponsors {
-   background: #10999E url(img/escheresque.png);
-   color: #fff;
    padding-top: 50px;
    padding-bottom: 10px;
    position: relative;
@@ -275,25 +273,11 @@ ul#nav li.current a { color: #00c0f3; }
    overflow: hidden;
    text-align: center;
 }
-#sponsors h1{ color: #dfe3e7; }
 #sponsors h3{
    font-size: 17px;
    text-transform: uppercase;
    letter-spacing: 1px;
-   color: #333;
 }
-
-/* For high-res devices */
-@media
-(-webkit-min-device-pixel-ratio: 2),
-(min-resolution: 192dpi) {
-
-	#sponsors {
-		background: #10999E url(img/escheresque_@2X.png);
-		background-size: 46px 29px;
-	}
-}
-#sponsors a { color: #d6d6d6; }
 
 /* ------------------------------------------------------------------ */
 /* Lokal
@@ -409,7 +393,6 @@ ul#nav li.current a { color: #00c0f3; }
 /* ------------------------------------------------------------------ */
 
 #testimonials {
-   background: #10999E url(img/escheresque.png);
    padding-top: 112px;
    padding-bottom: 66px;
    position: relative;
@@ -419,23 +402,10 @@ ul#nav li.current a { color: #00c0f3; }
    text-align: center;
 }
 
-/* For high-res devices */
-@media
-(-webkit-min-device-pixel-ratio: 2),
-(min-resolution: 192dpi) {
-
-	#testimonials {
-		background: #10999E url(img/escheresque_@2X.png);
-		background-size: 46px 29px;
-	}
-  
-}
-
 #testimonials .quote-left, 
 #testimonials .quote-right {
    position: absolute;
    top: 50%;
-   color: #fff;
    font-size: 40px;
    margin-top: -25px;
 }
@@ -464,7 +434,6 @@ ul#nav li.current a { color: #00c0f3; }
 #testimonials blockquote p {
    font-family: 'opensans-semibold', sans-serif;
    font-style: normal;
-   color: #fff;
    padding: 0;
    font-size: 26px;
    line-height: 42px;   
@@ -474,7 +443,6 @@ ul#nav li.current a { color: #00c0f3; }
    font-size: 12px;
    font-style: normal;
    line-height: 18px;
-   color: #fff;
 }
 #testimonials blockquote cite:before { content: "\2014 \0020"; }
 #testimonials blockquote cite a,

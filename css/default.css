@@ -843,16 +843,6 @@ properly.
    overflow: hidden;
    text-align: center;
 }
-
-/* For high-res devices */
-@media
-(-webkit-min-device-pixel-ratio: 2),
-(min-resolution: 192dpi) {
-   .darkgrayish {
-		background: #23292f url(img/hero-bg_@2X.png); 
-		background-size: 200px 200px;
-   }
-}
 .darkgrayish h1,
 .darkgrayish  h2,
 .darkgrayish  h3  { color: #ccc; }
@@ -871,4 +861,14 @@ properly.
 .whiteish h2,
 .whiteish h3 { color: #333; }
 
+/* ------------------------------------------------------------------ */
+/* Turkos mönstrad bakgrund
+/* ------------------------------------------------------------------ */
 
+.escheresque {
+   background: #10999E url(img/escheresque.png);
+   color: #fff;
+}
+.escheresque h1{ color: #dfe3e7; }
+.escheresque h3{ color: #333; }
+.escheresque a { color: #d6d6d6; }
