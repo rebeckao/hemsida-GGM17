@@ -162,12 +162,13 @@ ul#nav li.current a { color: #00c0f3; }
 /* ------------------------------------------------------------------ */
 
 #intro {
-   background: #000 url(img/GGM17_1x3.jpg);
-	 background-size: 1500px;
-   background-position: center; 
-   background-repeat: no-repeat;
+   background: #000;
    overflow: hidden;
-   padding-bottom: 300px;
+}
+
+#intro img {
+  width: 100%;
+  vertical-align: top;
 }
 
 /* ------------------------------------------------------------------ */

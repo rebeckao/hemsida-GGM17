@@ -18,12 +18,7 @@
    <!-- Homepage intro
    ================================================== -->
    <section id="intro" class="top-of-page">
-	   <!--div class="row">
-		   <div class="twelve columns">
-			   <div class="intro-text">
-				</div>
-		   </div>
-	   </div-->
+    <img src="images/GGM17_1x3.png">
    </section> <!-- Homepage intro end -->
 
    <!-- Tickets

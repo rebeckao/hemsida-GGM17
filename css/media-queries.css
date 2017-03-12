@@ -124,7 +124,6 @@
 
     /* Intro Section
    ------------------------------------------------------------------ */
-   #intro { padding-top: 60px; }
    .intro-text { width: 88%; }
    .intro-text h1 { font: 35px/1.2em 'vag-rounded-bold', sans-serif; }
    .intro-text p { font: 15px/30px 'opensans-regular', sans-serif; } 
@@ -182,7 +181,6 @@
 
    /* Intro Section
    -------------------------------------------------------------------- */
-   #intro { padding-top: 48px; }
    .intro-text { width: 92%; }
    .intro-text h1 { font: 31px/1.2em 'vag-rounded-bold', sans-serif; }
    .intro-text p { font: 14px/24px 'opensans-regular', sans-serif; } 
@@ -310,7 +308,6 @@
 
    /* Intro Section
    -------------------------------------------------------------------- */
-   #intro { padding-top: 42px; }
    .intro-text { width: 96%; }
    .intro-text h1 { font: 25px/1.2em 'vag-rounded-bold', sans-serif; }
    .intro-text p { font: 13px/24px 'opensans-regular', sans-serif; } 
