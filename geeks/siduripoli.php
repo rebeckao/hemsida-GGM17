@@ -9,11 +9,7 @@
 </head>
 
 <body>
-  <?php include '../includes/preloader.html';?>
-  <header>
-    <?php include '../includes/nav.html';?>
-    <?php include '../includes/header-social.html';?>
-  </header>
+  <?php include '../includes/nav.php';?>
   <section id="talare" class="darkgrayish top-of-page">
     <div class="row feature responsive">
       <div class="six columns left">

@@ -9,11 +9,7 @@
 </head>
 
 <body>
-  <?php include 'includes/preloader.html';?>
-  <header>
-    <?php include 'includes/nav-main.html';?>
-    <?php include 'includes/header-social.html';?>
-   </header>
+  <?php include 'includes/nav-main.php';?>
 
    <!-- Homepage intro
    ================================================== -->
