@@ -32,8 +32,8 @@
     <div class="row section-head">
       <h1>Geek Girl Meetup &bull; 13 maj 2017 &bull; Stockholm</h1>
       <div class="row design">
-        <p><i>När världen verkar galen och naturen börjar strejka kopplar vi på våra superkrafter. Med artificiell intelligens och nanoteknik kan vi bekämpa de onda krafterna. Vi hittar nya sätt att leva, nya sätt att äta, nya sätt att uppleva världen. Årets tema är Geek Evolution, och på rikseventet för Geek Girl Meetup bryter vi ny mark på alla sätt och vis.</i></p>
-        <p>Välkomna! Den 13 maj träffas vi <a href="#lokal" class="smoothscroll">på A-house i Stockholm</a> för att tillsammans undersöka temat Geek Evolution. Vi fokuserar på framtiden och ny teknik som artificiell intelligens (AI), virtuell verklighet (VR), förstärkt verklighet (AR), och robotics, och träffar kvinnorna som skapar förutsättningarna för vår tids geek evolution.</p>
+        <p><i>Vi rör oss allt snabbare in i framtiden. Med artificiell intelligens och nanoteknik har vi gjort science fiction till vardag och vi hittar ständigt nya sätt att leva, uppleva världen på och connecta med varandra. Årets tema är Geek Evolution och på rikseventet för Geek Girl Meetup 2017 samlas vi för att diskutera, utmana och utveckla vad vi vet om teknikens nuvarande roll och framtida möjligheter.</i></p>
+        <p>Välkomna! Den 13 maj träffas vi <a href="#lokal" class="smoothscroll">på A-house i Stockholm</a>. Vi fokuserar på framtiden och ny teknik som artificiell intelligens (AI), virtuell verklighet (VR), förstärkt verklighet (AR), och robotics, och träffar kvinnorna som skapar förutsättningarna för vår tids geek evolution.</p>
         <p>Vi kommer att uppdatera programmet löpande fram tills startdatum och ser fram emot en heldag fylld av intressanta föreläsningar, spaningar och chansen att få nätverka tillsammans med andra geeks. </p>
       </div>
     </div>
