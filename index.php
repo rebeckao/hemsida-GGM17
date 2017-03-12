@@ -21,6 +21,7 @@
    ================================================== -->
   <section id="tickets" class="whiteish">
     <h1 class="responsive-headline">Geek Evolution</h1>
+    <h2>Geek Girl Meetup &bull; 13 maj 2017 &bull; Stockholm</h2>
     <div id="ticket_button">
       <a class="button" href="https://www.picatic.com/geekevolution?utm_source=promotion&utm_medium=button&utm_campaign=105221" target="_blank">Köp biljett</a>
     </div>
@@ -30,7 +31,6 @@
    ================================================== -->
   <section id="description" class="whiteish">
     <div class="row section-head">
-      <h1>Geek Girl Meetup &bull; 13 maj 2017 &bull; Stockholm</h1>
       <div class="row design">
         <p><i>Vi rör oss allt snabbare in i framtiden. Med artificiell intelligens och nanoteknik har vi gjort science fiction till vardag och vi hittar ständigt nya sätt att leva, uppleva världen på och connecta med varandra. Årets tema är Geek Evolution och på rikseventet för Geek Girl Meetup 2017 samlas vi för att diskutera, utmana och utveckla vad vi vet om teknikens nuvarande roll och framtida möjligheter.</i></p>
         <p>Välkomna! Den 13 maj träffas vi <a href="#lokal" class="smoothscroll">på A-house i Stockholm</a>. Vi fokuserar på framtiden och ny teknik som artificiell intelligens (AI), virtuell verklighet (VR), förstärkt verklighet (AR), och robotics, och träffar kvinnorna som skapar förutsättningarna för vår tids geek evolution.</p>

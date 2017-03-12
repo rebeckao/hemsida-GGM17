@@ -169,16 +169,21 @@ ul#nav li.current a { color: #00c0f3; }
    overflow: hidden;
 }
 #tickets h1 {
-   margin: 0;
+   margin-bottom: 5px;
    font-size: 45px;
    letter-spacing: 2px;
+}
+#tickets h2 {
+   margin-top: 5px;
+   letter-spacing: 1.5px;
+   font-size: 18px;
 }
 #tickets .button {
    font: 14px/24px 'vag-rounded-bold', sans-serif;
    text-transform : uppercase;
    letter-spacing: 2px;
-   margin-top: 20px;
-   margin-bottom: 15px;
+   margin-top: 15px;
+   margin-bottom: 20px;
 }
 
 /* ------------------------------------------------------------------ */
