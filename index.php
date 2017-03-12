@@ -80,7 +80,7 @@
       <div class="row feature responsive">
          <div class="seven columns left">
             <h3>Vill du hålla en programpunkt?</h3>
-            <p>Geek Evolution är en unconference, vilket innebär att deltagarna är med och skapar programmet! Har du något intressant du vill berätta om i ett snabbt lightning talk, en skill du kan lära ut i en workshop eller något annat du vill dela med dig av till fellow geeks? <a href="#contact">Kontakta oss!</a></p>
+            <p>Geek Evolution är en unconference, vilket innebär att deltagarna är med och skapar programmet! Har du något intressant du vill berätta om i ett snabbt lightning talk, en skill du kan lära ut i en workshop eller något annat du vill dela med dig av till fellow geeks? <a href="#contact" class="smoothscroll">Kontakta oss!</a></p>
             <p>Du behöver inte ha någon scenvana, vi strävar efter att skapa en så peppig och trygg miljö som möjligt för de som vill testa stå på scen för första gången!</p>
          </div>
          <div class="five columns right last-item">
@@ -96,7 +96,7 @@
       <div class="row section-head">
          <h1>Program</h1>
         <div class="row">
-           <p>Detaljerat program kommer längre fram i vår. Tills dess, spana in <a href="#talare">våra bokningar!</a></p>
+           <p>Detaljerat program kommer längre fram i vår. Tills dess, spana in <a href="#talare" class="smoothscroll">våra bokningar!</a></p>
            <!--p>Schemapunkter med plats och tid liknande schemat i  
                <a href="http://bigsister.se/program/">rikseventet 2014</a>
            </p-->
@@ -111,7 +111,7 @@
          <h1>Moderatorer</h1>
       </div>
       <div class="row">
-        <p>Här kommer du kunna läsa moderatorerna för Geek Evolution. Vill du moderera eller tipsa om någon du känner? <a href="#contact">Kontakta oss!</a></p>
+        <p>Här kommer du kunna läsa moderatorerna för Geek Evolution. Vill du moderera eller tipsa om någon du känner? <a href="#contact" class="smoothscroll">Kontakta oss!</a></p>
       </div>
    </section>
    
@@ -144,7 +144,7 @@
               </div>
              </div>
              <div class="row">
-              <p>Vill du bli sponsor för Geek Evolution? <a href="#contact">Kontakta oss!</a>
+              <p>Vill du bli sponsor för Geek Evolution? <a href="#contact" class="smoothscroll">Kontakta oss!</a>
             </div>
          </div>
       </div>
