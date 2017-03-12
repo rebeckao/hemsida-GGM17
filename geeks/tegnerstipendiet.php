@@ -17,7 +17,7 @@
   <section id="talare" class="darkgrayish top-of-page">
     <div class="row feature responsive">
       <div class="six columns left">
-        <img src="../images/Elisabeth-Tegner.jpg" alt="Elisabeth Tegner-stipendiet" />
+        <img src="../images/geeks/Elisabeth-Tegner.jpg" alt="Elisabeth Tegner-stipendiet" />
       </div>
       <div class="six columns right">
         <h3>Elisabeth Tegner-stipendiet</h3>

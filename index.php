@@ -54,36 +54,36 @@
       <div class="row responsive">
          <div class="six columns feature left">
             <h3>Cecilia Beck-Friis</h3>
-            <img src="images/Cecilia-Beck-Friis.jpg" alt="" />
+            <img src="images/geeks/Cecilia-Beck-Friis.jpg" alt="" />
          </div>
          <div class="six columns feature right">
             <a href="geeks/mariakareliusson.php">
               <h3>Maria Kareliusson</h3>
-              <img src="images/Maria-Kareliusson.jpg" alt="Maria Kareliusson" />
+              <img src="images/geeks/Maria-Kareliusson.jpg" alt="Maria Kareliusson" />
             </a>
          </div>
       </div>
       <div class="row responsive">
          <div class="six columns feature left">
             <h3>Sara Riggare</h3>
-           <img src="images/Sara-Riggare.png" alt="" />
+           <img src="images/geeks/Sara-Riggare.png" alt="" />
          </div>
          <div class="six columns feature right">
             <h3>Annelie Demred</h3>
-            <img src="images/Annelie-Demred_skalad.jpg" alt="" />
+            <img src="images/geeks/Annelie-Demred_skalad.jpg" alt="" />
          </div>
       </div>
       <div class="row responsive">
          <div class="six columns feature left">
             <a href="geeks/siduripoli.php">
               <h3>Siduri Poli</h3>
-              <img src="images/Siduri-Poli.jpg" alt="Siduri Poli" />
+              <img src="images/geeks/Siduri-Poli.jpg" alt="Siduri Poli" />
             </a>
          </div>
          <div class="six columns feature right">
             <a href="geeks/tegnerstipendiet.php">
               <h3>Elisabeth Tegner-stipendiet</h3>
-              <img src="images/Elisabeth-Tegner.jpg" alt="Elisabeth Tegner-stipendiet" />
+              <img src="images/geeks/Elisabeth-Tegner.jpg" alt="Elisabeth Tegner-stipendiet" />
             </a>
          </div>
       </div>

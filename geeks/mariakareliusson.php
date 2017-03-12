@@ -17,7 +17,7 @@
   <section id="talare" class="darkgrayish top-of-page">
     <div class="row feature responsive">
       <div class="six columns left">
-        <img src="../images/Maria-Kareliusson.jpg" alt="Maria Kareliusson" />
+        <img src="../images/geeks/Maria-Kareliusson.jpg" alt="Maria Kareliusson" />
       </div>
       <div class="six columns right">
         <h3>Maria Kareliusson</h3>

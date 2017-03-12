@@ -17,7 +17,7 @@
   <section id="talare" class="darkgrayish top-of-page">
     <div class="row feature responsive">
       <div class="six columns left">
-        <img src="../images/Siduri-Poli.jpg" alt="Siduri Poli" />
+        <img src="../images/geeks/Siduri-Poli.jpg" alt="Siduri Poli" />
       </div>
       <div class="six columns right">
         <h3>Siduri Poli</h3>
