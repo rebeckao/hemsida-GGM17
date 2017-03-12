@@ -778,6 +778,24 @@ properly.
 .darkgrayish  h2,
 .darkgrayish  h3  { color: #ccc; }
 .darkgrayish p { color: #7A7A7A; }
+.darkgrayish a { color: #11abb0; }
+.darkgrayish a:hover { color: #fff; }
+
+/* ------------------------------------------------------------------ */
+/* Ljust gråmelerad bakgrund
+/* ------------------------------------------------------------------ */
+
+.lightgrayish {
+   background: #23292f url(img/grey.png);
+   overflow: hidden;
+   text-align: center;
+}
+.lightgrayish h1,
+.lightgrayish  h2,
+.lightgrayish  h3 ,
+.lightgrayish p { color: #666; }
+.lightgrayish a { color: #e15ca1; }
+.lightgrayish a:hover { color: #333; }
 
 /* ------------------------------------------------------------------ */
 /* Vit bakgrund
@@ -798,8 +816,25 @@ properly.
 
 .escheresque {
    background: #10999E url(img/escheresque.png);
-   color: #fff;
+   color: #dfe3e7;
 }
 .escheresque h1{ color: #dfe3e7; }
 .escheresque h3{ color: #333; }
-.escheresque a { color: #d6d6d6; }
+.escheresque a { color: #f7931e; }
+.escheresque a:hover { color: #333; }
+
+/* ------------------------------------------------------------------ */
+/* Rosa bakgrund
+/* ------------------------------------------------------------------ */
+
+.pink {
+   background: #e15ca1;
+   color: #dfe3e7;
+   overflow: hidden;
+}
+.pink h1,
+.pink h2,
+.pink h3 { color: #dfe3e7; }
+.pink a { color: #00c0f3; }
+.pink a:hover { color: #333; }
+

@@ -89,7 +89,7 @@
   
     <!-- Program
    ================================================== -->
-  <section id="program" class="whiteish">
+  <section id="program" class="pink">
     <div class="row section-head">
       <h1>Program</h1>
       <div class="row">
@@ -103,7 +103,7 @@
    
   <!-- Moderatorer
    ================================================== -->
-  <section id="moderatorer">
+  <section id="moderatorer" class="lightgrayish">
     <div class="row section-head">
       <h1>Moderatorer</h1>
     </div>
@@ -157,7 +157,7 @@
    
    <!-- Lokal
    ================================================== -->
-  <section id="lokal" class="whiteish">
+  <section id="lokal" class="lightgrayish">
     <div class="row feature responsive section-head">
       <div class="six columns right">
         <h1>Plats</h1>
