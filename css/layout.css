@@ -205,16 +205,6 @@ ul#nav li.current a { color: #00c0f3; }
    padding-bottom: 50px;
    overflow: hidden;
 }
-#description h1 { color: #333; }
-#description .right {
-   padding-left: 32px;
-   float: right;   
-}
-#description .left {
-   padding-right: 32px;
-   float: left;   
-}
-.fluid-video-wrapper { margin-top: 18px; }
 
 /* ------------------------------------------------------------------ */
 /* Talare
@@ -238,11 +228,8 @@ ul#nav li.current a { color: #00c0f3; }
 }
 #talare h3 {
    font: 16px/24px 'vag-rounded-bold', sans-serif;
-   text-transform: uppercase;
    letter-spacing: 1px;
 }
-.fluid-video-wrapper { margin-top: 18px; }
-
 
 /* ------------------------------------------------------------------ */
 /* Program
@@ -266,7 +253,6 @@ ul#nav li.current a { color: #00c0f3; }
    overflow: hidden;
    text-align: center;
 }
-
 #moderatorer h1 { color: #fff; }
 #moderatorer p {
    color: #fff;
@@ -332,101 +318,6 @@ ul#nav li.current a { color: #00c0f3; }
    margin-bottom: 12px;
 }
 
-/*----------------------------------------------*/
-/*	e. Pricing Section
-/*----------------------------------------------*/
-
-#pricing {
-	background: #F7F7F7;
-   padding-top: 107px;
-   padding-bottom: 77px;   
-   border-top: 1px solid #F0F0F0;
-   border-bottom: 1px solid #F0F0F0;
-   text-align: center;
-}
-#pricing .price-block {
-   background: #fff;
-   border: 1px solid #E6E6E6;
-   text-align: center;
-   margin-bottom: 36px;
-}
-.plan-title {
-  	font: 15px/30px 'vag-rounded-bold', sans-serif;
-  	padding: 30px 20px 6px 20px;
-   margin-bottom: 0px;
-  	text-align: center;
-   text-transform: uppercase;
-   letter-spacing: 2px;
-}
-.plan-title .fa {
-  	display: block;
-  	margin-bottom: 6px;
-   font-size: 26px;
-}
-.plan-price {
-	font-family: 'vag-rounded-bold', sans-serif;
-   font-size: 30px;
-   color: #333;
-	padding: 6px 30px 6px 30px;
-   margin-bottom: 0;
-	text-align: center;
-   letter-spacing: .5px;
-}
-.plan-price span {
-	font-family: 'opensans-light', sans-serif;
-	font-size: 15px;
-	color: #999;	
-	display: block;
-	margin-top: 0;
-}
-
-ul.features {
-   margin: 12px 0 0 0;
-   list-style: none;
-}
-ul.features li {
-   line-height: 39px;
-   margin-bottom: 0;
-}
-ul.features li:nth-child(odd) { }
-ul.features li:nth-child(even) { }
-
-.plan-sign-up {
-  	padding: 24px 15px;
-   margin: 0;
-   text-align: center;
-}
-.plan-sign-up .button {
-   font: 13px/24px 'vag-rounded-bold', sans-serif;
-   text-transform: uppercase;
-   letter-spacing: 2px;
-}
-
-
-/* ------------------------------------------------------------------ */
-/* c. Screenshots
-/* ------------------------------------------------------------------ */
-
-#screenshots {
-   background: #fff url(img/grey.png);
-   padding-top: 96px;
-   padding-bottom: 120px;
-}
-
-/* For high-res devices */
-@media
-(-webkit-min-device-pixel-ratio: 2),
-(min-resolution: 192dpi) {
-
-   #screenshots {
-      background: #fff url(img/grey_@2X.png);
-      background-size: 397px 322px;
-   }
-
-}
-
-/* Portfolio Content */
-.screenshots-wrapper .columns { padding: 0; }
 .item .item-wrap {
    overflow: hidden;
    position: relative;
@@ -512,55 +403,6 @@ ul.features li:nth-child(even) { }
 	-webkit-transform: scale(1.2);
 	transform: scale(1.2);
 }
-
-
-/* ------------------------------------------------------------------ */
-/* g. Call To Action Section
-/* ------------------------------------------------------------------ */
-
-#call-to-action {
-   background: #23292F;
-   padding-top: 72px;
-   padding-bottom: 48px;
-}
-#call-to-action h1 {
-   font: 18px/24px 'vag-rounded-bold', sans-serif;
-   text-transform: uppercase;
-   letter-spacing: 3px;
-   color: #fff;
-}
-#call-to-action h1 span { display: none; }
-#call-to-action .header-col h1:before {
-   font-family: 'FontAwesome';
-   content: "\f093";
-	padding-right: 18px;
-	padding-top: 6px;
-	font-size: 72px;
-   line-height: 72px;
-   text-align: center;
-   float: right;
-   color: #EBEEEE;  
-}
-#call-to-action .action { margin-top: 18px; }
-#call-to-action .action .button { text-align: center; }
-#call-to-action h2 {
-   font: 28px/36px 'vag-rounded-bold', sans-serif;
-   color: #EBEEEE;
-   margin-bottom: 12px;
-}
-#call-to-action h2 a {
-   color: inherit;
-}
-#call-to-action p {
-   color: #697B8B; 
-   font-size: 17px; 
-   padding-right: 5px; 
-}
-#call-to-action p span {
-	font-family: 'opensans-semibold', sans-serif; 
-	color: #A9B5C0;
-}
-
 
 /* ------------------------------------------------------------------
 /* h. Testimonials
@@ -717,69 +559,6 @@ ul.features li:nth-child(even) { }
     background: rgba(255, 255, 255, .9);
     cursor: default;
 }
-
-
-/* ------------------------------------------------------------------ */
-/* i. Subscribe Section
-/* ------------------------------------------------------------------ */
-
-#subscribe {
-   background: #23292F;
-   padding-top: 96px;
-   padding-bottom: 66px;
-   overflow: hidden;
-   text-align: center;
-}
-
-#subscribe a, #subscribe a:visited  { color: #fff; }
-#subscribe a:hover, #subscribe a:focus { color: #11ABB0; }
-
-#subscribe h1 { color: #fff; }
-#subscribe p {
-   color: #7A7A7A;
-   text-align: center;
-   padding: 0;
-}
-
-/* mailchimp signup form */
-#mc_embed_signup {
-   background: none;
-   clear: both;
-   display: block;
-   margin: 6px auto 30px auto;
-   width: 70%;
-  	text-align: center;   
-}
-#mc_embed_signup:before,
-#mc_embed_signup:after {
-    content: " ";
-    display: table;
-}
-#mc_embed_signup:after {
-    clear: both;
-}
-#mc_embed_signup input[type="submit"] {
-   float: right;
-   height: 60px;
-   margin: 0;
-   padding: 0 20px;
-   font-size: 16px;
-   line-height: 60px;
-   width: 47%;  
-}
-#mc_embed_signup input[type="email"] {
-   display: inline;
-   float: left;
-   height: 60px;
-   margin: 0;
-   padding: 18px 20px;
-   font-size: 18px;
-   line-height: 24px;
-   font-family: 'montserrat-regular',sans-serif;
-   width: 47%;  
-   text-align: center;
-}
-
 
 /* ------------------------------------------------------------------ */
 /* j. Footer
