@@ -47,8 +47,10 @@
     </div>
   <div class="row responsive">
     <div class="six columns feature left">
-      <h3 class="image-headline">Cecilia Beck-Friis</h3>
-      <img src="images/geeks/Cecilia-Beck-Friis.jpg" alt="" />
+      <a href="geeks/ceciliabeckfriis.php">
+		  <h3 class="image-headline">Cecilia Beck-Friis</h3>
+		  <img src="images/geeks/Cecilia-Beck-Friis.jpg" alt="Cecilia Beck-Friis" />
+	  </a>
     </div>
     <div class="six columns feature right">
       <a href="geeks/mariakareliusson.php">
