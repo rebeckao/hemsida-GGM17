@@ -86,6 +86,20 @@
     </div>
   </div>
   </section>
+   
+   <!-- Elisabeth Tegner-stipendiet
+   ================================================== -->
+  <section id="stipendiet" class="lightgrayish">
+    <div class="row feature responsive section-head">
+      <div class="six columns right">
+        <img src="../images/geeks/Elisabeth-Tegner.jpg" alt="Elisabeth Tegner-stipendiet" />
+      </div>
+      <div class="six columns left">
+        <h1>Elisabeth Tegner-stipendiet</h1>
+        <p>Changemaker Educations stiftar i år Elisabeth Tegner Stipendiet – en utmärkelse som kommer att gå till en ung kvinna som gjort skillnad inom IT- eller spel-världen, och som inspirera andra att göra detsamma. Stipendiaten kommer tillkännages under Geek Girl Meetups riksevent och tilldelas en prissumma på 10 000 kr. <a href="http://cmeducations.se/elisabethtegner" target="_blank">Nominera din förebild här!</a></p>
+      </div>
+    </div>
+  </section>
   
     <!-- Program
    ================================================== -->
@@ -103,7 +117,7 @@
    
   <!-- Moderatorer
    ================================================== -->
-  <section id="moderatorer" class="lightgrayish">
+  <section id="moderatorer" class="darkgrayish">
     <div class="row section-head">
       <h1>Moderatorer</h1>
     </div>
@@ -137,20 +151,6 @@
         <div class="row">
           <p>Vill du bli sponsor för Geek Evolution? <a href="#contact" class="smoothscroll">Kontakta oss!</a>
         </div>
-      </div>
-    </div>
-  </section>
-   
-   <!-- Elisabeth Tegner-stipendiet
-   ================================================== -->
-  <section id="stipendiet" class="darkgrayish">
-    <div class="row feature responsive section-head">
-      <div class="six columns right">
-        <img src="../images/geeks/Elisabeth-Tegner.jpg" alt="Elisabeth Tegner-stipendiet" />
-      </div>
-      <div class="six columns left">
-        <h1>Elisabeth Tegner-stipendiet</h1>
-        <p>Changemaker Educations stiftar i år Elisabeth Tegner Stipendiet – en utmärkelse som kommer att gå till en ung kvinna som gjort skillnad inom IT- eller spel-världen, och som inspirera andra att göra detsamma. Stipendiaten kommer tillkännages under Geek Girl Meetups riksevent och tilldelas en prissumma på 10 000 kr. <a href="http://cmeducations.se/elisabethtegner" target="_blank">Nominera din förebild här!</a></p>
       </div>
     </div>
   </section>
