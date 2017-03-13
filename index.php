@@ -92,7 +92,7 @@
   <section id="stipendiet" class="lightgrayish">
     <div class="row feature responsive section-head">
       <div class="six columns right">
-        <img src="../images/geeks/Elisabeth-Tegner.jpg" alt="Elisabeth Tegner-stipendiet" />
+        <a href="http://cmeducations.se/elisabethtegner" target="_blank"><img src="../images/geeks/Elisabeth-Tegner.jpg" alt="Elisabeth Tegner-stipendiet" /></a>
       </div>
       <div class="six columns left">
         <h1>Elisabeth Tegner-stipendiet</h1>
