@@ -819,7 +819,9 @@ properly.
    color: #dfe3e7;
 }
 .escheresque h1{ color: #dfe3e7; }
-.escheresque h3{ color: #333; }
+.escheresque h2,
+.escheresque h3,
+.escheresque h4{ color: #333; }
 .escheresque a { color: #f7931e; }
 .escheresque a:hover { color: #333; }
 

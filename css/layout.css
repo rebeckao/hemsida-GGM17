@@ -253,10 +253,28 @@ ul#nav li.current a { color: #00c0f3; }
    overflow: hidden;
    text-align: center;
 }
-#sponsors h3{
-   font-size: 17px;
-   text-transform: uppercase;
+#sponsors h2{
+   font-size: 25px;
    letter-spacing: 1px;
+}
+#sponsors h3{
+   font-size: 19px;
+   letter-spacing: 1px;
+}
+#sponsors h4{
+   font-size: 15px;
+   letter-spacing: 1px;
+}
+#sponsors .sisters {
+	margin-bottom: 15px;
+}
+#sponsors .item {
+	padding-top: 15px;
+	padding-bottom: 10px;
+	border-radius: 15px;
+}
+#sponsors .white{
+	background-color: rgba(255, 255, 255, 0.7);
 }
 
 /* ------------------------------------------------------------------ */
