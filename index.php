@@ -335,18 +335,18 @@
         </div>
 		<h4>Little Sisters</h4>
         <div class="twelve columns sisters">
-			<div class="two columns"></div>
+			<div class="four columns"></div>
 			<div class="four columns item white">
 				<a href="http://www.linkon.se/" data-imagelightbox="a" target="_blank" >
 					<img src="images/sponsorer/linkon-logo.png" alt="Linkon">
 				</a>
 			</div>
-			<div class="four columns item">
+			<!--div class="four columns item">
 				<a href="http://www.itello.se/" data-imagelightbox="a" target="_blank" >
 					<img src="images/sponsorer/Itello.png" alt="Itello">
 				</a>
-			</div>
-			<div class="two columns"></div>
+			</div-->
+			<div class="four columns"></div>
         </div>
         <div class="row twelve columns">
           <p>Vill du bli sponsor för Geek Evolution? <a href="#contact" class="smoothscroll">Kontakta oss!</a>
