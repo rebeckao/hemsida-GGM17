@@ -46,35 +46,49 @@
       <h1>Talare</h1>
     </div>
   <div class="row responsive">
-    <div class="six columns feature left">
+    <div class="four columns feature">
       <a href="geeks/ceciliabeckfriis.php">
-		  <h3 class="image-headline">Cecilia Beck-Friis</h3>
-		  <img src="images/geeks/Cecilia-Beck-Friis.jpg" alt="Cecilia Beck-Friis" />
-	  </a>
+        <img src="images/geeks/friis_square.png" alt="Cecilia Beck-Friis" />
+        <h3 class="image-headline">Cecilia Beck-Friis</h3>
+      </a>
     </div>
-    <div class="six columns feature right">
-      <a href="geeks/mariakareliusson.php">
+    <div class="four columns feature">
+      <a href="geeks/kareliusson.php">
+        <img src="images/geeks/kareliusson_square.jpg" alt="Maria Kareliusson" />
         <h3 class="image-headline">Maria Kareliusson</h3>
-        <img src="images/geeks/Maria-Kareliusson.jpg" alt="Maria Kareliusson" />
       </a>
+    </div>
+    <div class="four columns feature">
+      <img src="images/8.jpg" />
     </div>
   </div>
   <div class="row responsive">
-    <div class="six columns feature left">
+    <div class="four columns feature">
+      <img src="images/geeks/riggare_square.png" alt="Sara Riggare" />
       <h3 class="image-headline">Sara Riggare</h3>
-     <img src="images/geeks/Sara-Riggare.png" alt="" />
     </div>
-    <div class="six columns feature right">
+    <div class="four columns feature">
+      <img src="images/geeks/demred_square.png" alt="Annelie Demred" />
       <h3 class="image-headline">Annelie Demred</h3>
-      <img src="images/geeks/Annelie-Demred_skalad.jpg" alt="" />
+    </div>
+    <div class="four columns feature">
+      <a href="geeks/siduripoli.php">
+        <img src="images/geeks/siduri_square.png" alt="Siduri Poli" />
+        <h3 class="image-headline">Siduri Poli</h3>
+      </a>
     </div>
   </div>
   <div class="row responsive">
-    <div class="six columns feature left">
-      <a href="geeks/siduripoli.php">
-        <h3 class="image-headline">Siduri Poli</h3>
-        <img src="images/geeks/Siduri-Poli.jpg" alt="Siduri Poli" />
-      </a>
+    <div class="four columns feature">
+      <img src="images/11.jpg" />
+    </div>
+    <div class="four columns feature">
+      <img src="images/geeks/nataliianuzhdina.png" alt="Nataliia Nuzhdina" />
+      <h3 class="image-headline">Nataliia Nuzhdina (<a href="https://iteam.se/" target="_blank">Iteam</a>)</h3>
+    </div>
+    <div class="four columns feature">
+      <img src="images/geeks/Mimmi Torneus (Iteam).jpg" alt="Mimmi Torneus" />
+      <h3 class="image-headline">Mimmi Torneus (<a href="https://iteam.se/" target="_blank">Iteam</a>)</h3>
     </div>
   </div>
   <div class="row feature responsive">
