@@ -250,7 +250,7 @@
           else{        
             $from="From: $email\r\nReturn-path: $email";
             $subject="Meddelande från kontaktformulär på Geek Evolution-hemsidan";
-            mail("info@ggmif.se", $subject, $message, $from);
+            mail("rebecka.oefverholm@gmail.com", $subject, $message, $from);
             echo "Meddelande skickat!";
           }
         }  
