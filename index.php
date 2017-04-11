@@ -64,12 +64,11 @@
   </div>
   <div class="row responsive">
     <div class="four columns feature">
-      <img src="images/geeks/riggare_square.png" alt="Sara Riggare" />
-      <h3 class="image-headline">Sara Riggare</h3>
-    </div>
-    <div class="four columns feature">
       <img src="images/geeks/demred_square.png" alt="Annelie Demred" />
       <h3 class="image-headline">Annelie Demred</h3>
+    </div>
+    <div class="four columns feature">
+      <img src="images/7.jpg" />
     </div>
     <div class="four columns feature">
       <a href="geeks/siduripoli.php">
