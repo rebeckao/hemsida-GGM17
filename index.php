@@ -56,6 +56,7 @@
       <a href="geeks/kareliusson.php">
         <img src="images/geeks/kareliusson_square.jpg" alt="Maria Kareliusson" />
         <h3 class="image-headline">Maria Kareliusson</h3>
+        <h4>Hack yourself – biohacking och mänsklig evolution</h4>
       </a>
     </div>
     <div class="four columns feature">
@@ -84,10 +85,12 @@
     <div class="four columns feature">
       <img src="images/geeks/nataliianuzhdina.png" alt="Nataliia Nuzhdina" />
       <h3 class="image-headline">Nataliia Nuzhdina (<a href="https://iteam.se/" target="_blank">Iteam</a>)</h3>
+      <h4>Software development as science fiction</h4>
     </div>
     <div class="four columns feature">
       <img src="images/geeks/Mimmi Torneus (Iteam).jpg" alt="Mimmi Torneus" />
       <h3 class="image-headline">Mimmi Torneus (<a href="https://iteam.se/" target="_blank">Iteam</a>)</h3>
+      <h4>Teknologi för hjärta och hjärna</h4>
     </div>
   </div>
   <div class="row feature responsive">

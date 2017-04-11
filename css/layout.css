@@ -207,7 +207,13 @@ ul#nav li.current a { color: #00c0f3; }
    overflow: hidden;
 }
 #talare h3 {
-   font: 16px/24px 'vag-rounded-bold', sans-serif;
+   font: 18px/26px 'vag-rounded-bold', sans-serif;
+   letter-spacing: 2px;
+}
+#talare h4 {
+   font: 14px/20px 'opensans-regular', sans-serif;
+   text-transform: None;
+   font-weight: bold;
    letter-spacing: 1px;
 }
 #talare .image-headline {
