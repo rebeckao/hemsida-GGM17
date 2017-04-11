@@ -53,7 +53,7 @@
       </a>
     </div>
     <div class="four columns feature">
-      <a href="geeks/kareliusson.php">
+      <a href="geeks/mariakareliusson.php">
         <img src="images/geeks/kareliusson_square.jpg" alt="Maria Kareliusson" />
         <h3 class="image-headline">Maria Kareliusson</h3>
         <h4>Hack yourself – biohacking och mänsklig evolution</h4>
