@@ -778,7 +778,6 @@ properly.
 .darkgrayish  h2,
 .darkgrayish  h3  { color: #ccc; }
 .darkgrayish p { color: #7A7A7A; }
-.darkgrayish a { color: #11abb0; }
 .darkgrayish a:hover { color: #fff; }
 
 /* ------------------------------------------------------------------ */
@@ -794,8 +793,6 @@ properly.
 .lightgrayish  h2,
 .lightgrayish  h3 ,
 .lightgrayish p { color: #666; }
-.lightgrayish a { color: #e15ca1; }
-.lightgrayish a:hover { color: #333; }
 
 /* ------------------------------------------------------------------ */
 /* Vit bakgrund
