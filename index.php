@@ -61,6 +61,7 @@
     </div>
     <div class="four columns feature">
       <img src="images/8.jpg" />
+      <h3 class="image-headline">Siren Hofvander</h3>
     </div>
   </div>
   <div class="row responsive">
@@ -70,6 +71,8 @@
     </div>
     <div class="four columns feature">
       <img src="images/7.jpg" />
+      <h3 class="image-headline">Maria Idebro</h3>
+      <h4>Om världen varit jämställd hade jag hållit det här talet på Mars</h4>
     </div>
     <div class="four columns feature">
       <a href="geeks/siduripoli.php">
@@ -81,6 +84,8 @@
   <div class="row responsive">
     <div class="four columns feature">
       <img src="images/11.jpg" />
+      <h3 class="image-headline">Eva Kindlundh</h3>
+      <h4>Kina – världens hetaste VR-marknad</h4>
     </div>
     <div class="four columns feature">
       <img src="images/geeks/nataliianuzhdina.png" alt="Nataliia Nuzhdina" />
