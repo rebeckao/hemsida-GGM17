@@ -60,8 +60,10 @@
       </a>
     </div>
     <div class="four columns feature">
-      <img src="images/8.jpg" />
-      <h3 class="image-headline">Siren Hofvander</h3>
+      <a href="#" onclick="openOverlay('hofvanderoverlay')">
+        <img src="images/8.jpg" />
+        <h3 class="image-headline">Siren Hofvander</h3>
+      </a>
     </div>
   </div>
   <div class="row responsive">
@@ -141,6 +143,25 @@
         <p>Maria Kareliusson är lifehacker och tidigare neurovetenskapsforskare med en passion för design som hjälper människor i vardagen. Hon brukar hålla demos i neurofeedback och är en del av BioNyfiken – en förening för biohackers, gör-det- själv-biologer, medborgarforskare och quantified self-entusiaster.</p>
         <h4>TALK: Hack yourself – biohacking och mänsklig evolution</h4>
         <p>Vad är biohacking och hur ser mänsklig evolution ut när vi integrerar teknik i kroppen?</p>
+      </div>
+    </div>
+  </div>
+
+  <div id="hofvanderoverlay" class="overlay">
+    <div class="row feature responsive darkgrayish overlay-content">
+      <div class="close" onclick="closeOverlay('hofvanderoverlay')">&times;</div>
+      <div class="six columns left">
+        <h3>Siren Hofvander</h3>
+        <h4>Vad kommer du att prata om på Geek Girl Meetup?</h4>
+        <p>Säkerhet för alla. Alla vet att IT-säkerhet är viktigt, men vad ska 'alla' göra för att förbättra deras egen säkerhet, och vad behöver man tänka på? Vilka frågor ska man ställa, vem ska man fråga, och framför allt, är det någonsin helt säkert?</p>
+        <h4>Vad gör du när du inte pratar på GGM?</h4>
+        <p>CISO på Mindoktor, leker med mina hundar, läser böcker och spelar för mycket bräd- och dataspel.</p>
+      </div>
+      <div class="six columns right">
+        <h4>Berätta lite mer om dig själv och din bakgrund</h4>
+        <p>Jag har jobbat i snart 8 år med IT-säkerhet och de jag har fokuserat på är hur man bygger IT-säkerhet och informationssäkerhet in i organisationer. Jag tror väldigt mycket på att människor är nyckeln till framgången när det kommer till säkerhet, och att vi i säkerhetsbranschen måste bli bättre på att lyfta kunskapen hos dem som vi har runt omkring oss.</p>
+        <h4>Särskilt geek-intresse:</h4>
+        <p>Hmm tufft. Många. Historia. IT-säkerhet. Brädspel… och hundar.</p>
       </div>
     </div>
   </div>
