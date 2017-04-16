@@ -109,9 +109,11 @@
       <img src="images/9.jpg" />
     </div>
     <div class="four columns feature">
-      <img src="images/geeks/Linda Sandberg Helena Lindh.png" alt="Nataliia Nuzhdina" />
-      <h3 class="image-headline">Linda Sandberg<br/>& Helena Lindh</h3>
-      <h4>Geek Evolution Quiz</h4>
+      <a href="#" onclick="openOverlay('sandberglindhoverlay')">
+        <img src="images/geeks/Linda Sandberg Helena Lindh.png" alt="Linda Sandberg & Helena Lindh" />
+        <h3 class="image-headline">Linda Sandberg<br/>& Helena Lindh</h3>
+        <h4>Geek Evolution Quiz</h4>
+      </a>
     </div>
     <div class="four columns feature">
       <img src="images/6.jpg" />
@@ -213,6 +215,23 @@
             <p>Företag som Alibaba, Tencent och Xiaomi (i Kina) kommer med sitt annorlunda tänk och starka kundfokus snart att dominera även i västvärlden. Vi har bara inte fattat det ännu...</p>
           </blockquote>
         </aside>
+      </div>
+    </div>
+  </div>
+  
+  <div id="sandberglindhoverlay" class="overlay">
+    <div class="row feature responsive darkgrayish overlay-content">
+      <div class="close" onclick="closeOverlay('sandberglindhoverlay')">&times;</div>
+      <div class="six columns left">
+        <img src="../images/geeks/Linda Sandberg Helena Lindh.png" alt="Linda Sandberg & Helena Lindh" />
+      </div>
+      <div class="six columns right">
+        <h4>Geek Evolution QUIZ med @copylinda & @kafkaspice!!</h4>
+        <p>BOOM! För sjunde året i rad kör vi QUIZ på GGM och den här gången är det åter igen @copylinda och @Kafkaspice som håller i det. Förutom att det kommer bli ett episkt och jäkligt kul EvolutionQUIZ så blir det även geekiga priser. Ni tävlar i lag och vill inte missa detta!</p>
+        <h3>Linda Sandberg & Helena Lindh</h3>
+        <p>Ja, vad kan vi säga. Vi är geeks och gillar öl. En gillar StarWars mest och en StarTrek.</p>
+        <h4>Framtidsspaning:</h4>
+        <p>Robotväxter</p>
       </div>
     </div>
   </div>
