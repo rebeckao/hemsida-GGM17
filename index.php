@@ -98,6 +98,19 @@
       <h4>Teknologi för hjärta och hjärna</h4>
     </div>
   </div>
+  <div class="row responsive">
+    <div class="four columns feature">
+      <img src="images/9.jpg" />
+    </div>
+    <div class="four columns feature">
+      <img src="images/geeks/Linda Sandberg Helena Lindh.png" alt="Nataliia Nuzhdina" />
+      <h3 class="image-headline">Linda Sandberg<br/>& Helena Lindh</h3>
+      <h4>Geek Evolution Quiz</h4>
+    </div>
+    <div class="four columns feature">
+      <img src="images/6.jpg" />
+    </div>
+  </div>
   <div class="row feature responsive">
     <div class="seven columns left">
       <h3>Vill du hålla en programpunkt?</h3>
