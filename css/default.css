@@ -771,7 +771,6 @@ properly.
 
 .darkgrayish {
    background: #23292f url(img/hero-bg.png);
-   overflow: hidden;
    text-align: center;
 }
 .darkgrayish h1,
@@ -786,7 +785,6 @@ properly.
 
 .lightgrayish {
    background: #23292f url(img/grey.png);
-   overflow: hidden;
    text-align: center;
 }
 .lightgrayish h1,
@@ -801,7 +799,6 @@ properly.
 .whiteish {
    background: #fff;
 	 color: #545454;
-   overflow: hidden;
 }
 .whiteish h1,
 .whiteish h2,
@@ -829,7 +826,6 @@ properly.
 .pink {
    background: #e15ca1;
    color: #dfe3e7;
-   overflow: hidden;
 }
 .pink h1,
 .pink h2,
