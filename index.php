@@ -72,9 +72,11 @@
       <h3 class="image-headline">Annelie Demred</h3>
     </div>
     <div class="four columns feature">
-      <img src="images/7.jpg" />
-      <h3 class="image-headline">Maria Idebro</h3>
-      <h4>Om världen varit jämställd hade jag hållit det här talet på Mars</h4>
+      <a href="#" onclick="openOverlay('idebrooverlay')">
+        <img src="images/7.jpg" />
+        <h3 class="image-headline">Maria Idebro</h3>
+        <h4>Om världen varit jämställd hade jag hållit det här talet på Mars</h4>
+      </a>
     </div>
     <div class="four columns feature">
       <a href="geeks/siduripoli.php" onclick="openOverlay('polioverlay')">
@@ -162,6 +164,21 @@
         <p>Jag har jobbat i snart 8 år med IT-säkerhet och de jag har fokuserat på är hur man bygger IT-säkerhet och informationssäkerhet in i organisationer. Jag tror väldigt mycket på att människor är nyckeln till framgången när det kommer till säkerhet, och att vi i säkerhetsbranschen måste bli bättre på att lyfta kunskapen hos dem som vi har runt omkring oss.</p>
         <h4>Särskilt geek-intresse:</h4>
         <p>Hmm tufft. Många. Historia. IT-säkerhet. Brädspel… och hundar.</p>
+      </div>
+    </div>
+  </div>
+
+  <div id="idebrooverlay" class="overlay">
+    <div class="row feature responsive darkgrayish overlay-content">
+      <div class="close" onclick="closeOverlay('idebrooverlay')">&times;</div>
+      <div class="six columns left">
+        <h3>Maria Idebro</h3><h4>TALK: Om världen varit jämställd hade jag hållit det här talet på Mars</h4>
+        <p>År 2016 var 0 % av nobelpristagarna kvinnor. Noll. Inga alls. Jag tänkte inte lägga tid och energi på att prata om varför det ser ut så. Jag tänkte istället prata om vilket misstag vi som mänsklighet har gjort genom att under historiens gång inte låta fler människor vara en del av utvecklingen. Om man ska generalisera har endast en liten priviligerad grupp fått möjligheten att nå sin fulla potential. Vad hade hänt om alla begåvade människor hade kunnat bidra? Hur hade världen sett ut då? Hade Titanic anlänt till New York? Hade kärnkraftverket Fukushima fortfarande varit ”up and running""? Hade vi koloniserat Mars för länge sen?</p>
+      </div>
+      <div class="six columns right">
+        <p>I en tid då AI är på allas läppar är det viktigt att också prata om mänsklig intelligens. Hur kan vi se till att fler människor når sin fulla potential och vad är styrkan i vår intelligens jämfört med artificiell intelligens?</p>
+        <h4>Berätta lite mer om dig själv och din bakgrund</h4>
+        <p>Född och uppvuxen i Nyköping. Pluggat till Civilingenjör i Farkostteknik på KTH men halkade sen in i IT-branschen. Jobbar sen 10 år tillbaka med att förenkla och förbättra människors liv med teknik och kommunikation på HiQ. Science fiction- och fantasynörd sen jag var liten. Älskar teknik och människor och vad som händer i mötet mellan dessa två komponenter!</p>
       </div>
     </div>
   </div>
