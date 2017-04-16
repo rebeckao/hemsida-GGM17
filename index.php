@@ -53,7 +53,7 @@
       </a>
     </div>
     <div class="four columns feature">
-      <a href="geeks/mariakareliusson.php">
+      <a href="geeks/mariakareliusson.php" onclick="openOverlay('kareliussonoverlay')">
         <img src="images/geeks/kareliusson_square.jpg" alt="Maria Kareliusson" />
         <h3 class="image-headline">Maria Kareliusson</h3>
         <h4>Hack yourself – biohacking och mänsklig evolution</h4>
@@ -111,6 +111,27 @@
       <img src="images/6.jpg" />
     </div>
   </div>
+
+  <div id="kareliussonoverlay" class="overlay">
+    <div class="row feature responsive darkgrayish overlay-content">
+      <div class="close" onclick="closeOverlay('kareliussonoverlay')">&times;</div>
+      <div class="six columns left">
+        <img src="../images/geeks/kareliusson_square.jpg" alt="Maria Kareliusson" />
+        <aside class="pull-quote">
+             <blockquote>
+               <p>Artificiell intelligens och mänsklig kognition kommer behöva förenas och vi kommer att se en förgrening i vad vi idag ser som en människa, cyborg-eran är här.</p>
+            </blockquote>
+          </aside>
+      </div>
+      <div class="six columns right">
+        <h3>Maria Kareliusson</h3>
+        <p>Maria Kareliusson är lifehacker och tidigare neurovetenskapsforskare med en passion för design som hjälper människor i vardagen. Hon brukar hålla demos i neurofeedback och är en del av BioNyfiken – en förening för biohackers, gör-det- själv-biologer, medborgarforskare och quantified self-entusiaster.</p>
+        <h4>TALK: Hack yourself – biohacking och mänsklig evolution</h4>
+        <p>Vad är biohacking och hur ser mänsklig evolution ut när vi integrerar teknik i kroppen?</p>
+      </div>
+    </div>
+  </div>
+
   <div class="row feature responsive">
     <div class="seven columns left">
       <h3>Vill du hålla en programpunkt?</h3>
@@ -284,6 +305,5 @@
   </footer>
 
   <?php include 'includes/scripts.html';?>
-
 </body>
 </html>
