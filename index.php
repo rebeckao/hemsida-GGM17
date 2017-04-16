@@ -47,7 +47,7 @@
     </div>
   <div class="row responsive">
     <div class="four columns feature">
-      <a href="geeks/ceciliabeckfriis.php">
+      <a href="geeks/ceciliabeckfriis.php" onclick="openOverlay('beckfriisoverlay')">
         <img src="images/geeks/friis_square.png" alt="Cecilia Beck-Friis" />
         <h3 class="image-headline">Cecilia Beck-Friis</h3>
       </a>
@@ -75,7 +75,7 @@
       <h4>Om världen varit jämställd hade jag hållit det här talet på Mars</h4>
     </div>
     <div class="four columns feature">
-      <a href="geeks/siduripoli.php">
+      <a href="geeks/siduripoli.php" onclick="openOverlay('polioverlay')">
         <img src="images/geeks/siduri_square.png" alt="Siduri Poli" />
         <h3 class="image-headline">Siduri Poli</h3>
       </a>
@@ -112,6 +112,19 @@
     </div>
   </div>
 
+  <div id="beckfriisoverlay" class="overlay">
+    <div class="row feature responsive darkgrayish overlay-content">
+      <div class="close" onclick="closeOverlay('beckfriisoverlay')">&times;</div>
+      <div class="six columns left">
+        <img src="../images/geeks/friis_square.png" alt="Cecilia Beck-Friis" />
+      </div>
+      <div class="six columns right">
+        <h3>Cecilia Beck-Friis</h3>
+        <p>Cecilia är VD och en av grundarna av Rayvr, som utvecklar tjänster och produkter för immersiva medier med fokus på VR. Hon har tidigare varit vice vd för TV4-gruppen och sitter också i styrelsen för bland andra spelföretaget Paradox Interactive.</p>
+      </div>
+    </div>
+  </div>
+
   <div id="kareliussonoverlay" class="overlay">
     <div class="row feature responsive darkgrayish overlay-content">
       <div class="close" onclick="closeOverlay('kareliussonoverlay')">&times;</div>
@@ -128,6 +141,19 @@
         <p>Maria Kareliusson är lifehacker och tidigare neurovetenskapsforskare med en passion för design som hjälper människor i vardagen. Hon brukar hålla demos i neurofeedback och är en del av BioNyfiken – en förening för biohackers, gör-det- själv-biologer, medborgarforskare och quantified self-entusiaster.</p>
         <h4>TALK: Hack yourself – biohacking och mänsklig evolution</h4>
         <p>Vad är biohacking och hur ser mänsklig evolution ut när vi integrerar teknik i kroppen?</p>
+      </div>
+    </div>
+  </div>
+
+  <div id="polioverlay" class="overlay">
+    <div class="row feature responsive darkgrayish overlay-content">
+      <div class="close" onclick="closeOverlay('polioverlay')">&times;</div>
+      <div class="six columns left">
+        <img src="../images/geeks/siduri_square.png" alt="Siduri Poli" />
+      </div>
+      <div class="six columns right">
+        <h3>Siduri Poli</h3>
+        <p>Siduri Poli har en bakgrund som journalist och är teknikexpert för några av Sveriges största medier. Hon är medgrundare till demokratiseringsinitiativet Changers Hub som hjälper unga vuxna i Stockholms ytterstad att förverkliga sina idéer, och brinner för digitalisering, entreprenörskap och mångfald. Utsedd till en av Sveriges Supertalanger 2017 av Veckans Affärer.</p>
       </div>
     </div>
   </div>
