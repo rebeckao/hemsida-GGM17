@@ -8,7 +8,7 @@ function closeOverlay(overlayID) {
   $('#' + overlayID).fadeOut();
 }
 
-function openOverlay(overlayID) {
+function openOverlay(overlayID, event) {
   event.preventDefault();
   $('#' + overlayID).fadeIn();
 }
