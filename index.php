@@ -87,9 +87,11 @@
   </div>
   <div class="row responsive">
     <div class="four columns feature">
-      <img src="images/11.jpg" />
-      <h3 class="image-headline">Eva Kindlundh</h3>
-      <h4>Kina – världens hetaste VR-marknad</h4>
+      <a href="#" onclick="openOverlay('kindlundhoverlay')">
+        <img src="images/11.jpg" />
+        <h3 class="image-headline">Eva Kindlundh</h3>
+        <h4>Kina – världens hetaste VR-marknad</h4>
+      </a>
     </div>
     <div class="four columns feature">
       <img src="images/geeks/nataliianuzhdina.png" alt="Nataliia Nuzhdina" />
@@ -196,6 +198,25 @@
     </div>
   </div>
 
+  <div id="kindlundhoverlay" class="overlay">
+    <div class="row feature responsive darkgrayish overlay-content">
+      <div class="close" onclick="closeOverlay('kindlundhoverlay')">&times;</div>
+      <div class="six columns left">
+        <h3>Eva Kindlundh</h3>
+        <p>En VR-entusiast som gärna håller på med olika VR-projekt vid sidan av det vanliga jobbet. Har jobbat inom många branscher och haft olika roller inom IT, live entertainment och reseindustrin. Har även tillbringat 4 år på ett mjukvaruföretag i CA, USA.</p>
+      </div>
+      <div class="six columns right">
+        <h4>TALK: Kina – världens hetaste VR-marknad</h4>
+        <p>Vad är det som gör att VR/AR kommer att slå igenom först på den kinesiska marknaden?</p>
+        <aside class="pull-quote">
+          <blockquote>
+            <p>Företag som Alibaba, Tencent och Xiaomi (i Kina) kommer med sitt annorlunda tänk och starka kundfokus snart att dominera även i västvärlden. Vi har bara inte fattat det ännu...</p>
+          </blockquote>
+        </aside>
+      </div>
+    </div>
+  </div>
+  
   <div class="row feature responsive">
     <div class="seven columns left">
       <h3>Vill du hålla en programpunkt?</h3>
