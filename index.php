@@ -99,9 +99,11 @@
       <h4>Software development as science fiction</h4>
     </div>
     <div class="four columns feature">
-      <img src="images/geeks/Mimmi Torneus (Iteam).jpg" alt="Mimmi Torneus" />
-      <h3 class="image-headline">Mimmi Torneus (<a href="https://iteam.se/" target="_blank">Iteam</a>)</h3>
-      <h4>Teknologi för hjärta och hjärna</h4>
+      <a href="#" onclick="openOverlay('torneusoverlay')">
+        <img src="images/geeks/Mimmi Torneus (Iteam).jpg" alt="Mimmi Torneus" />
+        <h3 class="image-headline">Mimmi Torneus(Iteam)</h3>
+        <h4>Teknologi för hjärta och hjärna</h4>
+      </a>
     </div>
   </div>
   <div class="row responsive">
@@ -215,6 +217,23 @@
             <p>Företag som Alibaba, Tencent och Xiaomi (i Kina) kommer med sitt annorlunda tänk och starka kundfokus snart att dominera även i västvärlden. Vi har bara inte fattat det ännu...</p>
           </blockquote>
         </aside>
+      </div>
+    </div>
+  </div>
+  
+  <div id="torneusoverlay" class="overlay">
+    <div class="row feature responsive darkgrayish overlay-content">
+      <div class="close" onclick="closeOverlay('torneusoverlay')">&times;</div>
+      <div class="six columns left">
+        <img src="../images/geeks/Mimmi Torneus (Iteam).jpg" alt="Mimmi Torneus" />
+        <h4>TALK: Teknologi för hjärta och hjärna</h4>
+        <p>Rationellt tänkande och logik. Själen hos den ultimata känslolösa artefakten: datorn. Teknologi kan vara så mycket mer.</p>
+      </div>
+      <div class="six columns right">
+        <h3>Mimmi Torneus (<a href="https://iteam.se/" target="_blank">Iteam</a>)</h3>
+        <p>Mimmi arbetar med user experience och digital strategi på digitaliseringsbyrån Iteam, där hon också varit drivande i att forma byråns UX-process och dess roll i agil utveckling. Hon är utbildad interaktionsdesigner och har arbetat med användarcentrerad design och strategi både som konsult och på produktbolag - inom områden såsom betallösningar, transport, bostadsförmedling, välgörenhet, myndigheter och telekom. Hon brinner lite extra för innovativ teknologi som vågar tänja gränser. Teknologi som är konstig, känslosam, välgörande, abstrakt, normkritisk och utmanade.</p>
+        <h4>Framtidsspaning:</h4>
+        <p>Interaktion som är mer än en touchskärm som kräver all vår centrala uppmärksamhet. Som sker i periferin. Som stöttar oss i våra vardagliga aktiviteter utan att ta fokus från dem. En vibration i högerskon som navigationshjälp istället för en karta på en smartphone.</p>
       </div>
     </div>
   </div>
