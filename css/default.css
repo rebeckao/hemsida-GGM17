@@ -844,7 +844,7 @@ properly.
 .overlay {
     display: none; /* Hidden by default */
     position: fixed; /* Stay in place */
-    z-index: 1; /* Sit on top */
+    z-index: 2; /* Sit on top */
     left: 0;
     top: 0;
     margin-top: 54px;
@@ -870,7 +870,7 @@ properly.
     position: relative;
     min-height: 1px;
     float: right;
-    z-index: 1; /* Sit on top */
+    z-index: 3; /* Sit on top */
     margin-right: 10px;
     margin-left: 10px;
 }

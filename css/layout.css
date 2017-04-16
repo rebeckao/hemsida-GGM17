@@ -598,7 +598,7 @@ footer .copyright {
    left: 50%;
    margin-left: -30px;
    text-align: center;
-   z-index: 889;
+   z-index: 1;
 }
 #go-top a {
 	text-decoration: none;
