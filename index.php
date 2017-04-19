@@ -73,7 +73,7 @@
     </div>
     <div class="four columns feature">
       <a href="#" onclick="openOverlay('idebrooverlay', event)">
-        <img src="images/7.jpg" />
+        <img src="images/geeks/Idebro.png" alt="Maria Idebro"/>
         <h3 class="image-headline">Maria Idebro</h3>
         <h4>Om världen varit jämställd hade jag hållit det här talet på Mars</h4>
       </a>
@@ -88,7 +88,7 @@
   <div class="row responsive">
     <div class="four columns feature">
       <a href="#" onclick="openOverlay('kindlundhoverlay', event)">
-        <img src="images/11.jpg" />
+        <img src="images/geeks/Eva-Kindlundh.png" alt="Eva Kindlundh" />
         <h3 class="image-headline">Eva Kindlundh</h3>
         <h4>Kina – världens hetaste VR-marknad</h4>
       </a>
@@ -178,13 +178,14 @@
     <div class="row feature responsive darkgrayish overlay-content">
       <div class="close" onclick="closeOverlay('idebrooverlay')">&times;</div>
       <div class="six columns left">
-        <h3>Maria Idebro</h3><h4>TALK: Om världen varit jämställd hade jag hållit det här talet på Mars</h4>
-        <p>År 2016 var 0 % av nobelpristagarna kvinnor. Noll. Inga alls. Jag tänkte inte lägga tid och energi på att prata om varför det ser ut så. Jag tänkte istället prata om vilket misstag vi som mänsklighet har gjort genom att under historiens gång inte låta fler människor vara en del av utvecklingen. Om man ska generalisera har endast en liten priviligerad grupp fått möjligheten att nå sin fulla potential. Vad hade hänt om alla begåvade människor hade kunnat bidra? Hur hade världen sett ut då? Hade Titanic anlänt till New York? Hade kärnkraftverket Fukushima fortfarande varit ”up and running""? Hade vi koloniserat Mars för länge sen?</p>
+        <img src="images/geeks/Idebro.png" alt="Maria Idebro"/>
+        <p>Född och uppvuxen i Nyköping. Pluggat till Civilingenjör i Farkostteknik på KTH men halkade sen in i IT-branschen. Jobbar sen 10 år tillbaka med att förenkla och förbättra människors liv med teknik och kommunikation på HiQ. Science fiction- och fantasynörd sen jag var liten. Älskar teknik och människor och vad som händer i mötet mellan dessa två komponenter!</p>
       </div>
       <div class="six columns right">
+        <h3>Maria Idebro</h3>
+		<h4>TALK: Om världen varit jämställd hade jag hållit det här talet på Mars</h4>
+        <p>År 2016 var 0 % av nobelpristagarna kvinnor. Noll. Inga alls. Jag tänkte inte lägga tid och energi på att prata om varför det ser ut så. Jag tänkte istället prata om vilket misstag vi som mänsklighet har gjort genom att under historiens gång inte låta fler människor vara en del av utvecklingen. Om man ska generalisera har endast en liten priviligerad grupp fått möjligheten att nå sin fulla potential. Vad hade hänt om alla begåvade människor hade kunnat bidra? Hur hade världen sett ut då? Hade Titanic anlänt till New York? Hade kärnkraftverket Fukushima fortfarande varit ”up and running""? Hade vi koloniserat Mars för länge sen?</p>
         <p>I en tid då AI är på allas läppar är det viktigt att också prata om mänsklig intelligens. Hur kan vi se till att fler människor når sin fulla potential och vad är styrkan i vår intelligens jämfört med artificiell intelligens?</p>
-        <h4>Berätta lite mer om dig själv och din bakgrund</h4>
-        <p>Född och uppvuxen i Nyköping. Pluggat till Civilingenjör i Farkostteknik på KTH men halkade sen in i IT-branschen. Jobbar sen 10 år tillbaka med att förenkla och förbättra människors liv med teknik och kommunikation på HiQ. Science fiction- och fantasynörd sen jag var liten. Älskar teknik och människor och vad som händer i mötet mellan dessa två komponenter!</p>
       </div>
     </div>
   </div>
@@ -206,10 +207,11 @@
     <div class="row feature responsive darkgrayish overlay-content">
       <div class="close" onclick="closeOverlay('kindlundhoverlay')">&times;</div>
       <div class="six columns left">
-        <h3>Eva Kindlundh</h3>
-        <p>En VR-entusiast som gärna håller på med olika VR-projekt vid sidan av det vanliga jobbet. Har jobbat inom många branscher och haft olika roller inom IT, live entertainment och reseindustrin. Har även tillbringat 4 år på ett mjukvaruföretag i CA, USA.</p>
+        <img src="images/geeks/Eva-Kindlundh.png" alt="Eva Kindlundh" />
       </div>
       <div class="six columns right">
+        <h3>Eva Kindlundh</h3>
+        <p>En VR-entusiast som gärna håller på med olika VR-projekt vid sidan av det vanliga jobbet. Har jobbat inom många branscher och haft olika roller inom IT, live entertainment och reseindustrin. Har även tillbringat 4 år på ett mjukvaruföretag i CA, USA.</p>
         <h4>TALK: Kina – världens hetaste VR-marknad</h4>
         <p>Vad är det som gör att VR/AR kommer att slå igenom först på den kinesiska marknaden?</p>
         <aside class="pull-quote">
