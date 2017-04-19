@@ -46,22 +46,28 @@
       <h1>Talare</h1>
     </div>
   <div class="row responsive">
-    <div class="four columns feature">
-      <a href="geeks/ceciliabeckfriis.php" onclick="openOverlay('beckfriisoverlay', event)">
-        <img src="images/geeks/friis_square.png" alt="Cecilia Beck-Friis" />
-        <h3 class="image-headline">Cecilia Beck-Friis</h3>
-      </a>
+    <div class="four columns feature item">
+	  <a href="geeks/ceciliabeckfriis.php" onclick="openOverlay('beckfriisoverlay', event)" >
+		<div class="item-wrap">
+			<img src="images/geeks/friis_square.png" alt="Cecilia Beck-Friis" />
+		</div>
+		<h3 class="image-headline">Cecilia Beck-Friis</h3>
+	  </a>
     </div>
-    <div class="four columns feature">
+    <div class="four columns feature item">
       <a href="geeks/mariakareliusson.php" onclick="openOverlay('kareliussonoverlay', event)">
-        <img src="images/geeks/kareliusson_square.jpg" alt="Maria Kareliusson" />
+		<div class="item-wrap">
+			<img src="images/geeks/kareliusson_square.jpg" alt="Maria Kareliusson" />
+		</div>
         <h3 class="image-headline">Maria Kareliusson</h3>
         <h4>Hack yourself – biohacking och mänsklig evolution</h4>
       </a>
     </div>
-    <div class="four columns feature">
+    <div class="four columns feature item">
       <a href="#" onclick="openOverlay('hofvanderoverlay', event)">
-        <img src="images/8.jpg" />
+		<div class="item-wrap">
+			<img src="images/8.jpg" />
+		</div>
         <h3 class="image-headline">Siren Hofvander</h3>
       </a>
     </div>
@@ -71,24 +77,30 @@
       <img src="images/geeks/Annelie Demred.jpg" alt="Annelie Demred" />
       <h3 class="image-headline">Annelie Demred</h3>
     </div>
-    <div class="four columns feature">
+    <div class="four columns feature item">
       <a href="#" onclick="openOverlay('idebrooverlay', event)">
-        <img src="images/geeks/Idebro.png" alt="Maria Idebro"/>
+		<div class="item-wrap">
+			<img src="images/geeks/Idebro.png" alt="Maria Idebro"/>
+		</div>
         <h3 class="image-headline">Maria Idebro</h3>
         <h4>Om världen varit jämställd hade jag hållit det här talet på Mars</h4>
       </a>
     </div>
-    <div class="four columns feature">
+    <div class="four columns feature item">
       <a href="geeks/siduripoli.php" onclick="openOverlay('polioverlay', event)">
-        <img src="images/geeks/siduri_square.png" alt="Siduri Poli" />
+		<div class="item-wrap">
+			<img src="images/geeks/siduri_square.png" alt="Siduri Poli" />
+		</div>
         <h3 class="image-headline">Siduri Poli</h3>
       </a>
     </div>
   </div>
   <div class="row responsive">
-    <div class="four columns feature">
+    <div class="four columns feature item">
       <a href="#" onclick="openOverlay('kindlundhoverlay', event)">
-        <img src="images/geeks/Eva-Kindlundh.png" alt="Eva Kindlundh" />
+		<div class="item-wrap">
+			<img src="images/geeks/Eva-Kindlundh.png" alt="Eva Kindlundh" />
+		</div>
         <h3 class="image-headline">Eva Kindlundh</h3>
         <h4>Kina – världens hetaste VR-marknad</h4>
       </a>
@@ -98,9 +110,11 @@
       <h3 class="image-headline">Nataliia Nuzhdina (<a href="https://iteam.se/" target="_blank">Iteam</a>)</h3>
       <h4>Software development as science fiction</h4>
     </div>
-    <div class="four columns feature">
+    <div class="four columns feature item">
       <a href="#" onclick="openOverlay('torneusoverlay', event)">
-        <img src="images/geeks/Mimmi Torneus (Iteam).jpg" alt="Mimmi Torneus" />
+		<div class="item-wrap">
+			<img src="images/geeks/Mimmi Torneus (Iteam).jpg" alt="Mimmi Torneus" />
+		</div>
         <h3 class="image-headline">Mimmi Torneus(Iteam)</h3>
         <h4>Teknologi för hjärta och hjärna</h4>
       </a>
@@ -110,9 +124,11 @@
     <div class="four columns feature">
       <img src="images/9.jpg" />
     </div>
-    <div class="four columns feature">
+    <div class="four columns feature item">
       <a href="#" onclick="openOverlay('sandberglindhoverlay', event)">
-        <img src="images/geeks/Linda Sandberg Helena Lindh.png" alt="Linda Sandberg & Helena Lindh" />
+		<div class="item-wrap">
+			<img src="images/geeks/Linda Sandberg Helena Lindh.png" alt="Linda Sandberg & Helena Lindh" />
+		</div>
         <h3 class="image-headline">Linda Sandberg<br/>& Helena Lindh</h3>
         <h4>Geek Evolution Quiz</h4>
       </a>
