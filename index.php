@@ -68,7 +68,7 @@
   </div>
   <div class="row responsive">
     <div class="four columns feature">
-      <img src="images/geeks/demred_square.png" alt="Annelie Demred" />
+      <img src="images/geeks/Annelie Demred.jpg" alt="Annelie Demred" />
       <h3 class="image-headline">Annelie Demred</h3>
     </div>
     <div class="four columns feature">
