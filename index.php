@@ -257,9 +257,9 @@
   
   <div class="row feature responsive">
     <div class="seven columns left">
-      <h3>Vill du hålla en programpunkt?</h3>
-      <p>Geek Evolution är en unconference, vilket innebär att deltagarna är med och skapar programmet! Har du något intressant du vill berätta om i ett snabbt lightning talk, en skill du kan lära ut i en workshop eller något annat du vill dela med dig av till fellow geeks? <a href="#contact" class="smoothscroll">Kontakta oss!</a></p>
-      <p>Du behöver inte ha någon scenvana, vi strävar efter att skapa en så peppig och trygg miljö som möjligt för de som vill testa stå på scen för första gången!</p>
+      <h3>Hålla en programpunkt</h3>
+      <p>Geek Evolution är en unconference, vilket innebär att deltagarna är med och skapar programmet! Schemat börjar bli fullt så vi kan inte garantera något, men om du har något intressant du vill berätta om i ett snabbt lightning talk, en skill du kan lära ut i en workshop eller något annat du vill dela med dig av till fellow geeks, <a href="#contact" class="smoothscroll">kontakta oss</a> så ser vi om det dyker upp en lucka!</p>
+      <p>Du behöver inte ha någon scenvana, vi strävar efter att skapa en så peppig och trygg miljö som möjligt för de som vill testa stå på scen för första gången.</p>
     </div>
     <div class="five columns right last-item">
        <img width="256" alt="We Can Do It!" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/We_Can_Do_It%21.jpg/256px-We_Can_Do_It%21.jpg" alt="We Can Do It, via Wikimedia Commons"/>
