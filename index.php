@@ -92,6 +92,7 @@
 			<img src="images/geeks/siduri_square.png" alt="Siduri Poli" />
 		</div>
         <h3 class="image-headline">Siduri Poli</h3>
+		<h4>Hur vi skapar en inkluderande framtid</h4>
       </a>
     </div>
   </div>
@@ -211,10 +212,17 @@
       <div class="close" onclick="closeOverlay('polioverlay')">&times;</div>
       <div class="six columns left">
         <img src="../images/geeks/siduri_square.png" alt="Siduri Poli" />
+        <aside class="pull-quote">
+			<blockquote>
+				<p>Säger som FN: Leave no one behind. Alla måste med; både som medskapare och som deltagare.</p>
+			</blockquote>
+		</aside>
       </div>
       <div class="six columns right">
         <h3>Siduri Poli</h3>
-        <p>Siduri Poli har en bakgrund som journalist och är teknikexpert för några av Sveriges största medier. Hon är medgrundare till demokratiseringsinitiativet Changers Hub som hjälper unga vuxna i Stockholms ytterstad att förverkliga sina idéer, och brinner för digitalisering, entreprenörskap och mångfald. Utsedd till en av Sveriges Supertalanger 2017 av Veckans Affärer.</p>
+        <p>Siduri Poli har en bakgrund som journalist och är teknikexpert för några av Sveriges största medier. Hon är medgrundare till demokratiseringsinitiativet Changers Hub som hjälper unga vuxna i Stockholms ytterstad att förverkliga sina idéer, och brinner för digitalisering och entreprenörskap kopplat till mångfald och demokrati. Utsedd till en av Sveriges Supertalanger 2017 av Veckans Affärer.</p>
+		<h4>TALK: Hur vi skapar en inkluderande framtid</h4>
+		<p>Hur kan man göra framtiden och utvecklingen mer inkluderande? Changers Hub är ett co-working space som stöttar unga vuxna i Stockholms förorter att förverkliga sina idéer. Grundaren Siduri Poli berättar om hur Changers Hub lyckats jobba med att inkludera en stor mängd underrepresenterade i start-up- och techvärlden samt ta del av världarnas möjligheter och på så sätt skapa bättre förutsättningar för sig själva.</p>
       </div>
     </div>
   </div>
