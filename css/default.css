@@ -805,17 +805,35 @@ properly.
 .whiteish h3 { color: #333; }
 
 /* ------------------------------------------------------------------ */
+/* Svart bakgrund
+/* ------------------------------------------------------------------ */
+
+.black {
+   background: #000;
+   color: #fff;
+}
+
+/* ------------------------------------------------------------------ */
+/* Orange bakgrund
+/* ------------------------------------------------------------------ */
+
+.orange {
+   background: #f7931e;
+   color: #fff;
+}
+
+/* ------------------------------------------------------------------ */
 /* Turkos mönstrad bakgrund
 /* ------------------------------------------------------------------ */
 
 .escheresque {
    background: #10999E url(img/escheresque.png);
-   color: #dfe3e7;
+   color: #fff;
 }
-.escheresque h1{ color: #dfe3e7; }
+.escheresque h1{ color: #fff; }
 .escheresque h2,
 .escheresque h3,
-.escheresque h4{ color: #333; }
+.escheresque h4{ color: #fff; }
 .escheresque a { color: #f7931e; }
 .escheresque a:hover { color: #333; }
 

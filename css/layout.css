@@ -274,13 +274,11 @@ ul#nav li.current a { color: #00c0f3; }
 #sponsors .sisters {
 	margin-bottom: 15px;
 }
-#sponsors .item {
+#sponsors .sponsor {
 	padding-top: 15px;
 	padding-bottom: 10px;
-	border-radius: 15px;
-}
-#sponsors .white{
-	background-color: rgba(255, 255, 255, 0.7);
+	float: None;
+	margin: 10px auto;
 }
 
 /* ------------------------------------------------------------------ */
