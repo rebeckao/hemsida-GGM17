@@ -471,7 +471,7 @@
         }  
         ?>
       </section>
-      <p class="copyright">&copy; 2014 Woo | Design by <a title="Styleshout" href="http://www.styleshout.com/">Styleshout</a></p>
+      <p class="copyright">&copy; 2014 Woo | Design by <a title="Styleshout" href="http://www.styleshout.com/">Styleshout</a> and <a href="http://www.linkedin.com/in/rebeckao">Rebecka Öfverholm</a></p>
       <div id="go-top">
         <a class="smoothscroll" title="Back to Top" href="#intro"><i class="icon-up-open"></i></a>
       </div>
