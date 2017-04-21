@@ -122,8 +122,14 @@
     </div>
   </div>
   <div class="row responsive">
-    <div class="four columns feature">
-      <img src="images/9.jpg" />
+    <div class="four columns feature item">
+      <a href="#" onclick="openOverlay('evertssonverlay', event)">
+		<div class="item-wrap">
+			<img src="images/9.jpg" />
+		</div>
+		<h3 class="image-headline">Lisa Evertsson Norrevik<br/>(Geek Girl StartUp)</h3>
+		<h4>Pitcha ditt företag till Geek Girls!</h4>
+      </a>
     </div>
     <div class="four columns feature item">
       <a href="#" onclick="openOverlay('sandberglindhoverlay', event)">
@@ -260,6 +266,27 @@
         <p>Mimmi arbetar med user experience och digital strategi på digitaliseringsbyrån Iteam, där hon också varit drivande i att forma byråns UX-process och dess roll i agil utveckling. Hon är utbildad interaktionsdesigner och har arbetat med användarcentrerad design och strategi både som konsult och på produktbolag - inom områden såsom betallösningar, transport, bostadsförmedling, välgörenhet, myndigheter och telekom. Hon brinner lite extra för innovativ teknologi som vågar tänja gränser. Teknologi som är konstig, känslosam, välgörande, abstrakt, normkritisk och utmanade.</p>
         <h4>Framtidsspaning:</h4>
         <p>Interaktion som är mer än en touchskärm som kräver all vår centrala uppmärksamhet. Som sker i periferin. Som stöttar oss i våra vardagliga aktiviteter utan att ta fokus från dem. En vibration i högerskon som navigationshjälp istället för en karta på en smartphone.</p>
+      </div>
+    </div>
+  </div>
+  
+  <div id="evertssonverlay" class="overlay">
+    <div class="row feature responsive darkgrayish overlay-content">
+      <div class="close" onclick="closeOverlay('evertssonverlay')">&times;</div>
+      <div class="six columns left">
+        <h3>Lisa Evertsson Norrevik<br/>(Geek Girl StartUp)</h3>
+        <p>Lisa Evertsson Norrevik är journalist & kommunikatör i grunden som efter lång tid i film- och kulturbranschen nu driver startupen StorySpot, en tjänst för att skapa och dela med sig av ljudberättelser och podcasts som går att koppla till platser. Tillsammans levandegör vi miljöerna omkring oss! Drivs av förändring, äventyr och vill aldrig sluta lära sig nya grejer. 
+
+		Geek Girl Startup är ett nätverk av kvinnor som funderar på att starta eller redan har startat företag. Tillsammans stöttar vi varandra i det egna företagandet och arrangerar till exempel kvällsträffar om Vinnova, VR och hemside-bygg.</p>
+      </div>
+      <div class="six columns right">
+        <h4>Pitcha ditt företag till Geek Girls!</h4>
+        <p>Driver du eget företag, har tagit fram en produkt eller dragit igång en startup? Passa på att marknadsföra dig och ditt företag genom att berätta om det för andra geekgirls! Inget forum är lika välkomnande som GGM IF:s Riksevent så har du aldrig pitchat förut är det här rätt plats att testa. Är du intresserad av att pitcha? Maila lisa@norrevik.se så sätter jag upp dig på listan. Och kommer gärna med tips, råd och svarar på funderingar om du känner dig osäker.</p>
+		<aside class="pull-quote">
+          <blockquote>
+            <p>För någon vecka sedan satte jag in ett microchip i handen och går numer under namnet Cyborgmamman hemma. Och som Cyborgmamma ser jag fram emot att i framtiden slippa ha med mig plånbok till affären, åkkort till tunnelbanan, nyckel i bilen och istället bara scanna av handen. Är så pepp!</p>
+          </blockquote>
+        </aside>
       </div>
     </div>
   </div>
