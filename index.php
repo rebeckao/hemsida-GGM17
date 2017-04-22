@@ -14,7 +14,7 @@
    <!-- Homepage intro
    ================================================== -->
   <section id="intro" class="top-of-page">
-    <img src="images/GGM17_1x3.png">
+    <img src="images/top_banner.jpg">
   </section>
 
    <!-- Tickets
@@ -49,7 +49,7 @@
     <div class="four columns feature item">
 	  <a href="geeks/ceciliabeckfriis.php" onclick="openOverlay('beckfriisoverlay', event)" >
 		<div class="item-wrap">
-			<img src="images/geeks/friis_square.png" alt="Cecilia Beck-Friis" />
+			<img src="images/geeks/friis.jpg" alt="Cecilia Beck-Friis" />
 		</div>
 		<h3 class="image-headline">Cecilia Beck-Friis</h3>
 	  </a>
@@ -80,7 +80,7 @@
     <div class="four columns feature item">
       <a href="#" onclick="openOverlay('idebrooverlay', event)">
 		<div class="item-wrap">
-			<img src="images/geeks/Idebro.png" alt="Maria Idebro"/>
+			<img src="images/geeks/Idebro.jpg" alt="Maria Idebro"/>
 		</div>
         <h3 class="image-headline">Maria Idebro</h3>
         <h4>Om världen varit jämställd hade jag hållit det här talet på Mars</h4>
@@ -89,7 +89,7 @@
     <div class="four columns feature item">
       <a href="geeks/siduripoli.php" onclick="openOverlay('polioverlay', event)">
 		<div class="item-wrap">
-			<img src="images/geeks/siduri_square.png" alt="Siduri Poli" />
+			<img src="images/geeks/siduri_square.jpg" alt="Siduri Poli" />
 		</div>
         <h3 class="image-headline">Siduri Poli</h3>
 		<h4>Hur vi skapar en inkluderande framtid</h4>
@@ -100,14 +100,14 @@
     <div class="four columns feature item">
       <a href="#" onclick="openOverlay('kindlundhoverlay', event)">
 		<div class="item-wrap">
-			<img src="images/geeks/Eva-Kindlundh.png" alt="Eva Kindlundh" />
+			<img src="images/geeks/Eva-Kindlundh.jpg" alt="Eva Kindlundh" />
 		</div>
         <h3 class="image-headline">Eva Kindlundh</h3>
         <h4>Kina – världens hetaste VR-marknad</h4>
       </a>
     </div>
     <div class="four columns feature">
-      <img src="images/geeks/nataliianuzhdina.png" alt="Nataliia Nuzhdina" />
+      <img src="images/geeks/nataliianuzhdina.jpg" alt="Nataliia Nuzhdina" />
       <h3 class="image-headline">Nataliia Nuzhdina (<a href="https://iteam.se/" target="_blank">Iteam</a>)</h3>
       <h4>Software development as science fiction</h4>
     </div>
@@ -134,7 +134,7 @@
     <div class="four columns feature item">
       <a href="#" onclick="openOverlay('sandberglindhoverlay', event)">
 		<div class="item-wrap">
-			<img src="images/geeks/Linda Sandberg Helena Lindh.png" alt="Linda Sandberg & Helena Lindh" />
+			<img src="images/geeks/Linda Sandberg Helena Lindh.jpg" alt="Linda Sandberg & Helena Lindh" />
 		</div>
         <h3 class="image-headline">Linda Sandberg<br/>& Helena Lindh</h3>
         <h4>Geek Evolution Quiz</h4>
@@ -149,7 +149,7 @@
     <div class="row feature responsive darkgrayish overlay-content">
       <div class="close" onclick="closeOverlay('beckfriisoverlay')">&times;</div>
       <div class="six columns left">
-        <img src="../images/geeks/friis_square.png" alt="Cecilia Beck-Friis" />
+        <img src="../images/geeks/friis.jpg" alt="Cecilia Beck-Friis" />
       </div>
       <div class="six columns right">
         <h3>Cecilia Beck-Friis</h3>
@@ -201,7 +201,7 @@
     <div class="row feature responsive darkgrayish overlay-content">
       <div class="close" onclick="closeOverlay('idebrooverlay')">&times;</div>
       <div class="six columns left">
-        <img src="images/geeks/Idebro.png" alt="Maria Idebro"/>
+        <img src="images/geeks/Idebro.jpg" alt="Maria Idebro"/>
         <p>Född och uppvuxen i Nyköping. Pluggat till Civilingenjör i Farkostteknik på KTH men halkade sen in i IT-branschen. Jobbar sen 10 år tillbaka med att förenkla och förbättra människors liv med teknik och kommunikation på HiQ. Science fiction- och fantasynörd sen jag var liten. Älskar teknik och människor och vad som händer i mötet mellan dessa två komponenter!</p>
       </div>
       <div class="six columns right">
@@ -217,7 +217,7 @@
     <div class="row feature responsive darkgrayish overlay-content">
       <div class="close" onclick="closeOverlay('polioverlay')">&times;</div>
       <div class="six columns left">
-        <img src="../images/geeks/siduri_square.png" alt="Siduri Poli" />
+        <img src="../images/geeks/siduri_square.jpg" alt="Siduri Poli" />
         <aside class="pull-quote">
 			<blockquote>
 				<p>Säger som FN: Leave no one behind. Alla måste med; både som medskapare och som deltagare.</p>
@@ -237,7 +237,7 @@
     <div class="row feature responsive darkgrayish overlay-content">
       <div class="close" onclick="closeOverlay('kindlundhoverlay')">&times;</div>
       <div class="six columns left">
-        <img src="images/geeks/Eva-Kindlundh.png" alt="Eva Kindlundh" />
+        <img src="images/geeks/Eva-Kindlundh.jpg" alt="Eva Kindlundh" />
       </div>
       <div class="six columns right">
         <h3>Eva Kindlundh</h3>
@@ -295,7 +295,7 @@
     <div class="row feature responsive darkgrayish overlay-content">
       <div class="close" onclick="closeOverlay('sandberglindhoverlay')">&times;</div>
       <div class="six columns left">
-        <img src="../images/geeks/Linda Sandberg Helena Lindh.png" alt="Linda Sandberg & Helena Lindh" />
+        <img src="../images/geeks/Linda Sandberg Helena Lindh.jpg" alt="Linda Sandberg & Helena Lindh" />
       </div>
       <div class="six columns right">
         <h4>Geek Evolution QUIZ med @copylinda & @kafkaspice!!</h4>
