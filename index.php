@@ -52,6 +52,7 @@
 			<img src="images/geeks/friis.jpg" alt="Cecilia Beck-Friis" />
 		</div>
 		<h3 class="image-headline">Cecilia Beck-Friis</h3>
+        <h4>Från förändring till förnyelse</h4>
 	  </a>
     </div>
     <div class="four columns feature item">
@@ -153,7 +154,10 @@
       </div>
       <div class="six columns right">
         <h3>Cecilia Beck-Friis</h3>
-        <p>Cecilia är VD och en av grundarna av Rayvr, som utvecklar tjänster och produkter för immersiva medier med fokus på VR. Hon har tidigare varit vice vd för TV4-gruppen och sitter också i styrelsen för bland andra spelföretaget Paradox Interactive.</p>
+        <p>Cecilia är VD och en av grundarna av Rayvr, som utvecklar tjänster och produkter för immersiva medier med fokus på VR. Hon har tidigare varit Vice VD på TV4 med ansvar för digitalisering och sitter också i styrelsen för bland andra spelföretaget Paradox Interactive.
+        </p>
+        <h4>TALK: Från förändring till förnyelse</h4>
+        <p>Om resan från en spaning till starten av ett nytt bolag. Om immersiv teknologi och vilka fantastiska möjligheter och användarupplevelser som Virtual Reality skapar på kort och lång sikt.</p>
       </div>
     </div>
   </div>
