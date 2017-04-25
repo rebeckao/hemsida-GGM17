@@ -46,7 +46,7 @@
       <h1>Talare</h1>
     </div>
   <div class="row responsive">
-    <div class="four columns feature item">
+    <div class="three columns feature item">
 	  <a href="geeks/ceciliabeckfriis.php" onclick="openOverlay('beckfriisoverlay', event)" >
 		<div class="item-wrap">
 			<img src="images/geeks/friis.jpg" alt="Cecilia Beck-Friis" />
@@ -55,7 +55,7 @@
         <h4>Från förändring till förnyelse</h4>
 	  </a>
     </div>
-    <div class="four columns feature item">
+    <div class="three columns feature item">
       <a href="geeks/mariakareliusson.php" onclick="openOverlay('kareliussonoverlay', event)">
 		<div class="item-wrap">
 			<img src="images/geeks/kareliusson_square.jpg" alt="Maria Kareliusson" />
@@ -64,7 +64,7 @@
         <h4>Hack yourself – biohacking och mänsklig evolution</h4>
       </a>
     </div>
-    <div class="four columns feature item">
+    <div class="three columns feature item">
       <a href="#" onclick="openOverlay('hofvanderoverlay', event)">
 		<div class="item-wrap">
 			<img src="images/8.jpg" />
@@ -72,9 +72,7 @@
         <h3 class="image-headline">Siren Hofvander</h3>
       </a>
     </div>
-  </div>
-  <div class="row responsive">
-    <div class="four columns feature item">
+    <div class="three columns feature item">
       <a href="#" onclick="openOverlay('demredoverlay', event)">
         <div class="item-wrap">
           <img src="images/geeks/Annelie Demred.jpg" alt="Annelie Demred" />
@@ -83,7 +81,10 @@
         <h4>Framtiden för live-video</h4>
       </a>
     </div>
-    <div class="four columns feature item">
+  </div>
+  
+  <div class="row responsive">
+    <div class="three columns feature item">
       <a href="#" onclick="openOverlay('idebrooverlay', event)">
 		<div class="item-wrap">
 			<img src="images/geeks/Idebro.jpg" alt="Maria Idebro"/>
@@ -92,7 +93,7 @@
         <h4>Om världen varit jämställd hade jag hållit det här talet på Mars</h4>
       </a>
     </div>
-    <div class="four columns feature item">
+    <div class="three columns feature item">
       <a href="geeks/siduripoli.php" onclick="openOverlay('polioverlay', event)">
 		<div class="item-wrap">
 			<img src="images/geeks/siduri_square.jpg" alt="Siduri Poli" />
@@ -101,9 +102,7 @@
 		<h4>Hur vi skapar en inkluderande framtid</h4>
       </a>
     </div>
-  </div>
-  <div class="row responsive">
-    <div class="four columns feature item">
+    <div class="three columns feature item">
       <a href="#" onclick="openOverlay('kindlundhoverlay', event)">
 		<div class="item-wrap">
 			<img src="images/geeks/Eva-Kindlundh.jpg" alt="Eva Kindlundh" />
@@ -112,7 +111,7 @@
         <h4>Kina – världens hetaste VR-marknad</h4>
       </a>
     </div>
-    <div class="four columns feature item">
+    <div class="three columns feature item">
       <a href="#" onclick="openOverlay('nuzhdinaoverlay', event)">
         <div class="item-wrap">
           <img src="images/geeks/nataliianuzhdina.jpg" alt="Nataliia Nuzhdina" />
@@ -121,7 +120,10 @@
         <h4>Why you will never call your grandma from Mars and other news from computer science</h4>
       </a>
     </div>
-    <div class="four columns feature item">
+  </div>
+  
+  <div class="row responsive">
+    <div class="three columns feature item">
       <a href="#" onclick="openOverlay('torneusoverlay', event)">
 		<div class="item-wrap">
 			<img src="images/geeks/Mimmi Torneus (Iteam).jpg" alt="Mimmi Torneus" />
@@ -130,9 +132,7 @@
         <h4>Teknologi för hjärta och hjärna</h4>
       </a>
     </div>
-  </div>
-  <div class="row responsive">
-    <div class="four columns feature item">
+    <div class="three columns feature item">
       <a href="#" onclick="openOverlay('evertssonverlay', event)">
 		<div class="item-wrap">
 			<img src="images/12.jpg" />
@@ -141,7 +141,7 @@
 		<h4>Pitcha ditt företag till Geek Girls!</h4>
       </a>
     </div>
-    <div class="four columns feature item">
+    <div class="three columns feature item">
       <a href="#" onclick="openOverlay('sandberglindhoverlay', event)">
 		<div class="item-wrap">
 			<img src="images/geeks/Linda Sandberg Helena Lindh.jpg" alt="Linda Sandberg & Helena Lindh" />
@@ -150,7 +150,7 @@
         <h4>Geek Evolution Quiz</h4>
       </a>
     </div>
-    <div class="four columns feature item">
+    <div class="three columns feature item">
       <a href="#" onclick="openOverlay('hakanssonoverlay', event)">
         <div class="item-wrap">
           <img src="images/9.jpg" />
@@ -160,8 +160,9 @@
       </a>
     </div>
   </div>
+  
   <div class="row responsive">
-    <div class="four columns feature item">
+    <div class="three columns feature item">
       <a href="#" onclick="openOverlay('lindstromoverlay', event)">
         <div class="item-wrap">
           <img src="images/6.jpg" />
@@ -170,27 +171,32 @@
         <h4>Growth by Making Technology</h4>
       </a>
     </div>
-    <div class="four columns feature item">
+    <div class="three columns feature item">
       <img src="images/11.jpg" />
       <h3>Claudia Olsson</h3>
     </div>
-    <div class="four columns feature item">
+    <div class="three columns feature item">
       <img src="images/1.jpg" />
       <h3>Eva Hällström</h3>
     </div>
-  </div>
-  <div class="row responsive">
-    <div class="four columns feature item">
+    <div class="three columns feature item">
       <img src="images/3.jpg" />
       <h3>Sara Lei</h3>
       <h4>Framtidens arbetssätt i sjukvården</h4>
     </div>
-    <div class="four columns feature item">
+  </div>
+  <div class="row responsive">
+    <div class="three columns feature item">
       <img src="images/10.jpg" />
       <h3>Caroline Cakka Wallmark & Lisa Sällvin</h3>
     </div>
-    <div class="four columns feature item">
-      <img src="images/5.jpg" />
+    <div class="five columns left">
+      <h3>Hålla en programpunkt</h3>
+      <p>Geek Evolution är en unconference, vilket innebär att deltagarna är med och skapar programmet! Schemat börjar bli fullt så vi kan inte garantera något, men om du har något intressant du vill berätta om i ett snabbt lightning talk, en skill du kan lära ut i en workshop eller något annat du vill dela med dig av till fellow geeks, <a href="#contact" class="smoothscroll">kontakta oss</a> så ser vi om det dyker upp en lucka!</p>
+      <p>Du behöver inte ha någon scenvana, vi strävar efter att skapa en så peppig och trygg miljö som möjligt för de som vill testa stå på scen för första gången.</p>
+    </div>
+    <div class="four columns">
+       <img width="256" alt="We Can Do It!" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/We_Can_Do_It%21.jpg/256px-We_Can_Do_It%21.jpg" alt="We Can Do It, via Wikimedia Commons"/>
     </div>
   </div>
 
@@ -438,14 +444,6 @@
   </div>
   
   <div class="row feature responsive">
-    <div class="seven columns left">
-      <h3>Hålla en programpunkt</h3>
-      <p>Geek Evolution är en unconference, vilket innebär att deltagarna är med och skapar programmet! Schemat börjar bli fullt så vi kan inte garantera något, men om du har något intressant du vill berätta om i ett snabbt lightning talk, en skill du kan lära ut i en workshop eller något annat du vill dela med dig av till fellow geeks, <a href="#contact" class="smoothscroll">kontakta oss</a> så ser vi om det dyker upp en lucka!</p>
-      <p>Du behöver inte ha någon scenvana, vi strävar efter att skapa en så peppig och trygg miljö som möjligt för de som vill testa stå på scen för första gången.</p>
-    </div>
-    <div class="five columns right last-item">
-       <img width="256" alt="We Can Do It!" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/We_Can_Do_It%21.jpg/256px-We_Can_Do_It%21.jpg" alt="We Can Do It, via Wikimedia Commons"/>
-    </div>
   </div>
   </section>
    
