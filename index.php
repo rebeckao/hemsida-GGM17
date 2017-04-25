@@ -74,9 +74,14 @@
     </div>
   </div>
   <div class="row responsive">
-    <div class="four columns feature">
-      <img src="images/geeks/Annelie Demred.jpg" alt="Annelie Demred" />
-      <h3 class="image-headline">Annelie Demred</h3>
+    <div class="four columns feature item">
+      <a href="#" onclick="openOverlay('demredoverlay', event)">
+        <div class="item-wrap">
+          <img src="images/geeks/Annelie Demred.jpg" alt="Annelie Demred" />
+        </div>
+        <h3 class="image-headline">Annelie Demred</h3>
+        <h4>Framtiden för live-video</h4>
+      </a>
     </div>
     <div class="four columns feature item">
       <a href="#" onclick="openOverlay('idebrooverlay', event)">
@@ -210,7 +215,27 @@
       </div>
     </div>
   </div>
-
+  
+  <div id="demredoverlay" class="overlay">
+    <div class="row feature responsive darkgrayish overlay-content">
+      <div class="close" onclick="closeOverlay('demredoverlay')">&times;</div>
+      <div class="six columns left">
+        <img src="images/geeks/Annelie Demred.jpg" alt="Annelie Demred" />
+        <h4>TALK: Framtiden för live-video</h4>
+        <p>Hur ser framtidens kommunikation ut och vilken roll kommer video generellt och live video i synnerhet att spela?</p>
+        <h4>Framtidsspaning:</h4>
+        <p><a href="https://www.usatoday.com/story/sports/columnist/nancy-armour/2017/04/18/e-sports-asian-games-olympics-video-games/100623442/" target="_blank">Från "datorspelsnörd" till OS</a></p>
+      </div>
+      <div class="six columns right">
+        <h3>Annelie Demred</h3>
+        <p>Tidig anställd på LunarStorm, där jag hade diverse olika roller; ansvarig för alla betaltjänster, sajt- och utvecklingschef bland annat.</p>
+        <p>Gick vidare till Digitala Medier på TV4 och en affärsutvecklingsroll. Väldigt givande men jag konstaterade att jag trivs allra bäst i mer snabbfotade sammanhang där kreativitet och produktion går hand i hand och där beslut snabbt kan genomföras. Älskar att jobba väldigt produktnära och samtidigt tillsammans med användare av en tjänst.</p>
+        <p>Sedan 6 år är jag på Bambuser, en bolag och tjänst som jag passionerat älskar!</p>
+        <p>Har efter 15 år i arbetslivet lärt mig massor kring; vikten av ett för mig rätt ledarskap (transparens och tillit), vilka mina drivkrafter är (att ha kul och få beröm), hur svårt det är att rekrytera rätt (gå på din magkänsla, var ärlig) och att bry sig och inte bry sig.</p>
+      </div>
+    </div>
+  </div>
+  
   <div id="idebrooverlay" class="overlay">
     <div class="row feature responsive darkgrayish overlay-content">
       <div class="close" onclick="closeOverlay('idebrooverlay')">&times;</div>
