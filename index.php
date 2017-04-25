@@ -145,8 +145,14 @@
         <h4>Geek Evolution Quiz</h4>
       </a>
     </div>
-    <div class="four columns feature">
-      <img src="images/9.jpg" />
+    <div class="four columns feature item">
+      <a href="#" onclick="openOverlay('hakanssonoverlay', event)">
+        <div class="item-wrap">
+          <img src="images/9.jpg" />
+        </div>
+        <h3 class="image-headline">Anne Håkansson</h3>
+        <h4>AI och framtiden</h4>
+      </a>
     </div>
   </div>
 
@@ -329,6 +335,25 @@
         <p>Ja, vad kan vi säga. Vi är geeks och gillar öl. En gillar StarWars mest och en StarTrek.</p>
         <h4>Framtidsspaning:</h4>
         <p>Robotväxter</p>
+      </div>
+    </div>
+  </div>
+  
+  <div id="hakanssonoverlay" class="overlay">
+    <div class="row feature responsive darkgrayish overlay-content">
+      <div class="close" onclick="closeOverlay('hakanssonoverlay')">&times;</div>
+      <div class="six columns left">
+        <h3>Anne Håkansson</h3>
+        <p>Anne arbetar som forskare och lärare i bland annat Artificiell intelligens. Är utbildad i data- och systemvetenskap och är docent vid KTH. Har över 24 års erfarenhet av AI-forskning och har forskat inom ett flertal olika AI-områden (t ex smarta AI-system som kombinerar olika sinnen). Har även utvecklat flera olika datorsystem AI-tekniker. Hon brinner för sitt ämne och tycker att det är spännande med nya innovationer som utvecklas med hjälp av AI.</p>
+        <h4>Talk: AI och framtiden</h4>
+        <p>Under de senaste åren har stora framsteg gjorts inom Artificiell intelligens-tekniker och AI-system, vilket har gjort att AI blivit ett högintressant område för näringslivet och samhället. Men vad är AI och vad innebär AI för framtiden, för näringsliv och samhälle och jobbtillfällen? Vad händer år 2020? I denna presentation ges introduktion till AI-tekniker och nuvarande AI-system, samt vad som förväntas komma i framtiden.</p>
+      </div>
+      <div class="six columns right">
+        <aside class="pull-quote">
+          <blockquote>
+            <p>Att AI-tekniker kommer att i större grad implementeras i vardagsprodukter och tjänster är något vi vet. Men vad det blir måste vi bestämma tillsammans - vi behöver vara med och forma vår framtid! Om många av oss har kunskap om AI-tekniker, kan vi utveckla användbara och pålitliga AI-produkter och tjänster som gagnar oss och samhället.</p>
+          </blockquote>
+        </aside>
       </div>
     </div>
   </div>
