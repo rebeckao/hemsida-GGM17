@@ -107,10 +107,14 @@
         <h4>Kina – världens hetaste VR-marknad</h4>
       </a>
     </div>
-    <div class="four columns feature">
-      <img src="images/geeks/nataliianuzhdina.jpg" alt="Nataliia Nuzhdina" />
-      <h3 class="image-headline">Nataliia Nuzhdina (<a href="https://iteam.se/" target="_blank">Iteam</a>)</h3>
-      <h4>Software development as science fiction</h4>
+    <div class="four columns feature item">
+      <a href="#" onclick="openOverlay('nuzhdinaoverlay', event)">
+        <div class="item-wrap">
+          <img src="images/geeks/nataliianuzhdina.jpg" alt="Nataliia Nuzhdina" />
+        </div>
+        <h3 class="image-headline">Nataliia Nuzhdina (Iteam)</h3>
+        <h4>Why you will never call your grandma from Mars and other news from computer science</h4>
+      </a>
     </div>
     <div class="four columns feature item">
       <a href="#" onclick="openOverlay('torneusoverlay', event)">
@@ -253,6 +257,23 @@
             <p>Företag som Alibaba, Tencent och Xiaomi (i Kina) kommer med sitt annorlunda tänk och starka kundfokus snart att dominera även i västvärlden. Vi har bara inte fattat det ännu...</p>
           </blockquote>
         </aside>
+      </div>
+    </div>
+  </div>
+  
+  <div id="nuzhdinaoverlay" class="overlay">
+    <div class="row feature responsive darkgrayish overlay-content">
+      <div class="close" onclick="closeOverlay('nuzhdinaoverlay')">&times;</div>
+      <div class="six columns left">
+        <img src="../images/geeks/nataliianuzhdina.jpg" alt="Nataliia Nuzhdina" />
+        <h4>TALK: Why you will never call your grandma from Mars and other news from computer science</h4>
+        <p>Most people on a question about computer science and the future will think only about artificial intelligence. Although AI is an interesting topic, there are many other no less exiting challenges.</p>
+      </div>
+      <div class="six columns right">
+        <p>This talk is about some of these challenges: how speed of light limits how fast you can load the internet page and how it will affect interplanetary communication; how probability one in a million is too high when you deal with billions of messages per day; how hard is to actually establish order of events if they happen in different parts of the world.</p>
+        <h3>Nataliia Nuzhdina (<a href="https://iteam.se/" target="_blank">Iteam</a>)</h3>
+        <p>Nataliia is a backend software developer at Iteam with an interest in distributed systems. At her spare time she enjoys reading good scientific publication, painting a sky and reconfiguring the home server.</p>
+        <p>During last five years she has lived in three countries, gotten two Master degrees, contributed to open source and was a mentor in the LearnITGirl program.</p>
       </div>
     </div>
   </div>
