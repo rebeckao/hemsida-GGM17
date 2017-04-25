@@ -160,6 +160,23 @@
       </a>
     </div>
   </div>
+  <div class="row responsive">
+    <div class="four columns feature item">
+      <a href="#" onclick="openOverlay('lindstromoverlay', event)">
+        <div class="item-wrap">
+          <img src="images/6.jpg" />
+        </div>
+        <h3 class="image-headline">Nina Lindström</h3>
+        <h4>Growth by Making Technology</h4>
+      </a>
+    </div>
+    <div class="four columns feature item">
+      <img src="images/11.jpg" />
+    </div>
+    <div class="four columns feature item">
+      <img src="images/1.jpg" />
+    </div>
+  </div>
 
   <div id="beckfriisoverlay" class="overlay">
     <div class="row feature responsive darkgrayish overlay-content">
@@ -379,6 +396,27 @@
             <p>Att AI-tekniker kommer att i större grad implementeras i vardagsprodukter och tjänster är något vi vet. Men vad det blir måste vi bestämma tillsammans - vi behöver vara med och forma vår framtid! Om många av oss har kunskap om AI-tekniker, kan vi utveckla användbara och pålitliga AI-produkter och tjänster som gagnar oss och samhället.</p>
           </blockquote>
         </aside>
+      </div>
+    </div>
+  </div>
+  
+  <div id="lindstromoverlay" class="overlay">
+    <div class="row feature responsive darkgrayish overlay-content">
+      <div class="close" onclick="closeOverlay('lindstromoverlay')">&times;</div>
+      <div class="six columns left">
+        <h3>Nina Lindström</h3>
+        <p>De senaste fem åren har jag nördat in mig rejält på hur vårt hur vi egentligen lär oss. Genom att läsa modern psykologi, neurovetenskap och att testa mina idéer i och utanför skolan har jag kommit en bra bit på väg i min jakt efter vad som verkligen fungerar. Jag vill skapa bästa tänkbara förutsättningar för lärande.</p>
+        <p>Mitt liv har handlat mycket om resultat och förändring. Professionellt har jag rört mig från strategi (att designa förändring) till implementering (att skapa förändring).</p>
+        <p>Jag har pluggat maskinteknik på KTH, tagit examen från Handelshögskolan och bland annat  jobbat som strategikonsult och ekonomidirektör. I dag brinner jag för att designa teknikkurser och workshops i 'programmering från början', där det inte krävs några förkunskaper alls. Jag älskar att coacha så väl lärare som deltagare.</p>
+        <p>Förra året startade jag den ideella föreningen <a href="https://www.youtube.com/watch?v=2F8LLigicUg&feature=youtu.be" target="_blank">Tech Missionary</a> för att låta alla tjejer växa genom att skapa med kreativ teknik - hör av dig om du vill hjälpa oss att hjälpa andra!</p>
+      </div>
+      <div class="six columns right">
+        <h4>Talk: Growth by Making Technology</h4>
+        <p>Jag kommer att berätta hur jag använder teknikkurser för unga tjejer som ett verktyg för empowerment och inkludering som öppnar dörrar till nya världar.</p>
+        <p>En av de viktigaste sakerna för framtiden tror jag är att fler förstår att deras idéer är viktiga och kan påverka framtiden. När vi inser att vi själva kan göra skillnad för världen runt omkring så växer vi - och det finns inget jag gillar mer än att se andra växa så att det knakar. Helst av allt vill jag lyfta de som har störst utmaningar, som behöver det allra mest.</p>
+        <p>Sist men inte minst så kommer jag att göra lite reklam för min workshop på eftermiddagen - dit är du välkommen för att leka med motorer och bygga robotar som världen aldrig skådat tidigare!</p>
+        <h4>Framtidsspaning:</h4>
+        <p>Många unga kan i dag betydligt mer om teknik än vad vi som jobbar idag kunde när vi var yngre. Självklart kan de bli nästa Marissa Mayer eller Sheryl Sandberg - men tänk om de i stället fokuserar på att lösa problem som globala orättvisor, flyktingströmmar eller politisk oro. Jag tror att det kommer att bli vanligare att uppmuntra och stötta barn att identifiera och själva lösa utmaningar i sin närmiljö - och med det perspektivet tror jag att fler kommer att välja att jobba på sätt som påverkar samhället. Och som ger resultat. Jag tror på många positiva förändringar genom att teknik blir tillgänglig för alla.</p>
       </div>
     </div>
   </div>
