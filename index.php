@@ -172,9 +172,25 @@
     </div>
     <div class="four columns feature item">
       <img src="images/11.jpg" />
+      <h3>Claudia Olsson</h3>
     </div>
     <div class="four columns feature item">
       <img src="images/1.jpg" />
+      <h3>Eva Hällström</h3>
+    </div>
+  </div>
+  <div class="row responsive">
+    <div class="four columns feature item">
+      <img src="images/3.jpg" />
+      <h3>Sara Lei</h3>
+      <h4>Framtidens arbetssätt i sjukvården</h4>
+    </div>
+    <div class="four columns feature item">
+      <img src="images/10.jpg" />
+      <h3>Caroline Cakka Wallmark & Lisa Sällvin</h3>
+    </div>
+    <div class="four columns feature item">
+      <img src="images/5.jpg" />
     </div>
   </div>
 
