@@ -778,6 +778,7 @@ properly.
 .darkgrayish  h3  { color: #ccc; }
 .darkgrayish p { color: #7A7A7A; }
 .darkgrayish a:hover { color: #fff; }
+.darkgrayish a:visited { color: #f7931e; }
 
 /* ------------------------------------------------------------------ */
 /* Ljust gråmelerad bakgrund
