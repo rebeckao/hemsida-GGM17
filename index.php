@@ -537,17 +537,17 @@
         </div-->
 		<div class="row">
 			<h3>Middle Sisters</h3>
-			<div class="eight columns sponsor orange middlesister">
+			<div class="eight columns sponsor orange centered">
 				<a href="https://iteam.se/" data-imagelightbox="a" target="_blank" >
 					<img src="images/sponsorer/iteam_white.png" alt="Iteam">
 				</a>
 			</div>
-			<div class="eight columns sponsor whiteish middlesister">
+			<div class="eight columns sponsor whiteish centered">
 				<a href="https://www.academicwork.se/" data-imagelightbox="a" target="_blank" >
 					<img src="images/sponsorer/academic work.svg" alt="Academic Work">
 				</a>
 			</div>
-			<div class="eight columns sponsor black middlesister">
+			<div class="eight columns sponsor black centered">
 				<a href="http://www.eyevinntechnology.se/" data-imagelightbox="a" target="_blank" >
 					<img src="images/sponsorer/eyevinn_white.png" alt="Eyevinn Technology">
 				</a>
@@ -568,6 +568,13 @@
 			<div class="four columns sponsor whiteish">
 				<a href="https://www.knowit.se/" data-imagelightbox="a" target="_blank" >
 					<img src="images/sponsorer/Knowit.png" alt="Knowit">
+				</a>
+			</div>
+		</div>
+		<div class="row">
+			<div class="four columns sponsor orange centered">
+				<a href="http://www.frojd.se/" data-imagelightbox="a" target="_blank" >
+					<img src="images/sponsorer/frojd.png" alt="Fröjd">
 				</a>
 			</div>
 		</div>

@@ -271,13 +271,13 @@ ul#nav li.current a { color: #00c0f3; }
    font-size: 15px;
    letter-spacing: 1px;
 }
-#sponsors .middlesister {
+#sponsors .centered {
 	float: None;
 }
 #sponsors .sponsor {
 	padding-top: 15px;
 	padding-bottom: 10px;
-	margin: 10px auto;
+	margin: auto;
 }
 
 /* ------------------------------------------------------------------ */
