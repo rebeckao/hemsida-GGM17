@@ -174,7 +174,7 @@
     <div class="three columns feature item">
       <a href="#" onclick="openOverlay('borgenstiernaoverlay', event)">
         <div class="item-wrap">
-          <img src="images/7.jpg" />
+          <img src="images/geeks/borgenstierna.jpg" />
         </div>
         <h3 class="image-headline">Catharina Borgenstierna</h3>
         <h4>Robotik inom vård och omsorg</h4>
@@ -456,17 +456,18 @@
     <div class="row feature responsive darkgrayish overlay-content">
       <div class="close" onclick="closeOverlay('borgenstiernaoverlay')">&times;</div>
       <div class="six columns left">
-        <h3>Catharina Borgenstierna</h3>
-        <p>Mer än 20 års erfarenhet inom marknadsföring och försäljning i den medicintekniska branschen för både stora och små bolag. Brinner för innovationer och att förändra världen i stort och smått genom att implementera innovationerna i dagligt liv.</p>
+		<img src="images/geeks/borgenstierna.jpg" alt="Catharina Borgenstierna"/>
       </div>
       <div class="six columns right">
-        <h4>Talk: Robotik inom vård och omsorg</h4>
-        <p>Ny teknik och robotik gör det möjligt för äldre och personer med funktionsnedsättning att leva ett mer självständigt och värdigt liv.</p>
+        <h3>Catharina Borgenstierna</h3>
+        <p>Mer än 20 års erfarenhet inom marknadsföring och försäljning i den medicintekniska branschen för både stora och små bolag. Brinner för innovationer och att förändra världen i stort och smått genom att implementera innovationerna i dagligt liv.</p>
         <aside class="pull-quote">
           <blockquote>
             <p>Roboterna "kommer" inte, de är redan här!</p>
           </blockquote>
         </aside>
+        <h4>Talk: Robotik inom vård och omsorg</h4>
+        <p>Ny teknik och robotik gör det möjligt för äldre och personer med funktionsnedsättning att leva ett mer självständigt och värdigt liv.</p>
       </div>
     </div>
   </div>
