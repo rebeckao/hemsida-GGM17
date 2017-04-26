@@ -495,6 +495,12 @@
     <div class="row section-head">
       <h1>Program</h1>
       <div class="row">
+		<ul>
+			<li/>Registrering och frukost 09:00
+			<li/>Lunch 12:00-13:00
+			<li/>Middag 17:00
+			<li/>Festen håller på till 22:00
+		</ul>
         <p>Detaljerat program kommer längre fram i vår. Tills dess, spana in <a href="#talare" class="smoothscroll">våra bokningar!</a></p>
         <!--p>Schemapunkter med plats och tid liknande schemat i  
            <a href="http://bigsister.se/program/">rikseventet 2014</a>
