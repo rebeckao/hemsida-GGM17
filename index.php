@@ -537,17 +537,17 @@
         </div-->
 		<div class="row">
 			<h3>Middle Sisters</h3>
-			<div class="nine columns sponsor orange">
+			<div class="eight columns sponsor orange middlesister">
 				<a href="https://iteam.se/" data-imagelightbox="a" target="_blank" >
 					<img src="images/sponsorer/iteam_white.png" alt="Iteam">
 				</a>
 			</div>
-			<div class="nine columns sponsor whiteish">
+			<div class="eight columns sponsor whiteish middlesister">
 				<a href="https://www.academicwork.se/" data-imagelightbox="a" target="_blank" >
 					<img src="images/sponsorer/academic work.svg" alt="Academic Work">
 				</a>
 			</div>
-			<div class="nine columns sponsor black">
+			<div class="eight columns sponsor black middlesister">
 				<a href="http://www.eyevinntechnology.se/" data-imagelightbox="a" target="_blank" >
 					<img src="images/sponsorer/eyevinn_white.png" alt="Eyevinn Technology">
 				</a>
@@ -555,9 +555,19 @@
 		</div>
 		<div class="row">
 			<h4>Little Sisters</h4>
-			<div class="five columns sponsor whiteish">
+			<div class="four columns sponsor whiteish">
 				<a href="http://www.linkon.se/" data-imagelightbox="a" target="_blank" >
-					<img src="images/sponsorer/linkon-logo.png" alt="Linkon">
+					<img src="images/sponsorer/linkon.png" alt="Linkon">
+				</a>
+			</div>
+			<div class="four columns sponsor pink">
+				<a href="http://www.dynabyte.se/" data-imagelightbox="a" target="_blank" >
+					<img src="images/sponsorer/dynabyte.png" alt="Dynabyte">
+				</a>
+			</div>
+			<div class="four columns sponsor whiteish">
+				<a href="https://www.knowit.se/" data-imagelightbox="a" target="_blank" >
+					<img src="images/sponsorer/knowit.png" alt="Knowit">
 				</a>
 			</div>
 		</div>
