@@ -251,6 +251,9 @@ ul#nav li.current a { color: #00c0f3; }
 /* ------------------------------------------------------------------ */
 
 #sponsors .row { max-width: 800px; }
+#sponsors .columns {
+	padding: 0;
+}
 #sponsors {
    padding-top: 50px;
    padding-bottom: 10px;
@@ -275,8 +278,6 @@ ul#nav li.current a { color: #00c0f3; }
 	float: None;
 }
 #sponsors .sponsor {
-	padding-top: 15px;
-	padding-bottom: 10px;
 	margin: auto;
 }
 

@@ -537,42 +537,54 @@
         </div-->
 		<div class="row">
 			<h3>Middle Sisters</h3>
-			<div class="eight columns sponsor orange centered">
+			<div class="six columns sponsor orange">
 				<a href="https://iteam.se/" data-imagelightbox="a" target="_blank" >
-					<img src="images/sponsorer/iteam_white.png" alt="Iteam">
+					<img src="images/sponsorer/iteam_standard.png" alt="Iteam">
 				</a>
 			</div>
-			<div class="eight columns sponsor whiteish centered">
+			<div class="six columns sponsor whiteish">
 				<a href="https://www.academicwork.se/" data-imagelightbox="a" target="_blank" >
-					<img src="images/sponsorer/academic work.svg" alt="Academic Work">
+					<img src="images/sponsorer/academic work_standard.png" alt="Academic Work">
 				</a>
 			</div>
-			<div class="eight columns sponsor black centered">
-				<a href="http://www.eyevinntechnology.se/" data-imagelightbox="a" target="_blank" >
-					<img src="images/sponsorer/eyevinn_white.png" alt="Eyevinn Technology">
+		</div>
+		<div class="row">
+			<div class="six columns sponsor">
+				<a href="https://www.ideoninnovation.se/" data-imagelightbox="a" target="_blank" >
+					<img src="images/sponsorer/ideon_white.png" alt="Ideon Innovation">
 				</a>
+			</div>
+			<div class="six columns">
+				<div class="sponsor">
+					<a href="https://www.klarna.com/se" data-imagelightbox="a" target="_blank" >
+						<img src="images/sponsorer/Klarna_standard.png" alt="Klarna">
+					</a>
+				</div>
+				<div class="sponsor black">
+					<a href="http://www.eyevinntechnology.se/" data-imagelightbox="a" target="_blank" >
+						<img src="images/sponsorer/eyevinn_standard.png" alt="Eyevinn Technology">
+					</a>
+				</div>
 			</div>
 		</div>
 		<div class="row">
 			<h4>Little Sisters</h4>
-			<div class="four columns sponsor whiteish">
+			<div class="three columns sponsor whiteish">
 				<a href="http://www.linkon.se/" data-imagelightbox="a" target="_blank" >
 					<img src="images/sponsorer/linkon.png" alt="Linkon">
 				</a>
 			</div>
-			<div class="four columns sponsor pink">
+			<div class="three columns sponsor pink">
 				<a href="http://www.dynabyte.se/" data-imagelightbox="a" target="_blank" >
 					<img src="images/sponsorer/dynabyte.png" alt="Dynabyte">
 				</a>
 			</div>
-			<div class="four columns sponsor whiteish">
+			<div class="three columns sponsor whiteish">
 				<a href="https://www.knowit.se/" data-imagelightbox="a" target="_blank" >
 					<img src="images/sponsorer/Knowit.png" alt="Knowit">
 				</a>
 			</div>
-		</div>
-		<div class="row">
-			<div class="four columns sponsor orange centered">
+			<div class="three columns sponsor orange">
 				<a href="http://www.frojd.se/" data-imagelightbox="a" target="_blank" >
 					<img src="images/sponsorer/frojd.png" alt="Fröjd">
 				</a>
