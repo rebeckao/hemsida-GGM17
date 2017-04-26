@@ -574,19 +574,19 @@
 					<img src="images/sponsorer/linkon.png" alt="Linkon">
 				</a>
 			</div>
-			<div class="three columns sponsor pink">
+			<div class="three columns sponsor lightpink">
 				<a href="http://www.dynabyte.se/" data-imagelightbox="a" target="_blank" >
-					<img src="images/sponsorer/dynabyte.png" alt="Dynabyte">
-				</a>
-			</div>
-			<div class="three columns sponsor whiteish">
-				<a href="https://www.knowit.se/" data-imagelightbox="a" target="_blank" >
-					<img src="images/sponsorer/Knowit.png" alt="Knowit">
+					<img src="images/sponsorer/dynabyte_new.png" alt="Dynabyte">
 				</a>
 			</div>
 			<div class="three columns sponsor orange">
 				<a href="http://www.frojd.se/" data-imagelightbox="a" target="_blank" >
 					<img src="images/sponsorer/frojd.png" alt="Fröjd">
+				</a>
+			</div>
+			<div class="three columns sponsor whiteish">
+				<a href="https://www.knowit.se/" data-imagelightbox="a" target="_blank" >
+					<img src="images/sponsorer/Knowit.png" alt="Knowit">
 				</a>
 			</div>
 		</div>
