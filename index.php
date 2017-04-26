@@ -600,9 +600,10 @@
         <p>Geek Girl Meetup Ideella Förening arbetar aktivt med att skapa och lyfta kvinnliga förebilder inom IT-branschen. Vårt mål är att skapa ett brett nätverk inom bland annat IT, spel och startup-världen. Och att ha kul såklart!</p>
         <p>Vi gör detta genom att låta våra medlemmar dela med sig av kunskap till andra. På så sätt vill vi skapa rätt förutsättningar för kunskapsutbyte och förhoppningsvis fler kontakter eller vänner inom sitt yrke eller hobby. Läs mer om Geek Girl Meetup Ideella Förening och tidigare års event på <a href="http://www.ggmif.com">ggmif.com</a>
         </p>
-        <p>Vill du nå oss? Skicka ett mail till <a href="mailto:info@ggmif.se">info@ggmif.se</a> eller använd kontaktformuläret.</p>
+		<p>Självklart kan vi inte neka någon att köpa biljett, men vi vill att alla ska vara medvetna om att eventet riktar sig specifikt till kvinnor och geeks som inte är män. Eftersom stora delar av teknikvärlden (idag) är mansdominerad så vill vi gärna att män respekterar att vi strävar efter att skapa ett event och ett safe space för kvinnliga och geeky personer som har behov av just detta.</p>
       </section>
       <section id="contact" class="six columns">
+        <p>Vill du nå oss? Skicka ett mail till <a href="mailto:info@ggmif.se">info@ggmif.se</a> eller använd kontaktformuläret.</p>
         <?php
         $action=$_REQUEST['action'];
         if ($action=="")    /* display the contact form */
