@@ -567,7 +567,7 @@
 			</div>
 			<div class="four columns sponsor whiteish">
 				<a href="https://www.knowit.se/" data-imagelightbox="a" target="_blank" >
-					<img src="images/sponsorer/knowit.png" alt="Knowit">
+					<img src="images/sponsorer/Knowit.png" alt="Knowit">
 				</a>
 			</div>
 		</div>
