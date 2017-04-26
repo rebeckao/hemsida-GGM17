@@ -192,8 +192,8 @@
   </div>
   <div class="row responsive">
     <div class="three columns feature item">
-      <img src="images/1.jpg" />
-      <h3>Eva Hällström</h3>
+      <img src="images/geeks/emma-hallstrom.jpg" />
+      <h3>Emma Hällström</h3>
     </div>
     <div class="three columns feature item">
       <img src="images/10.jpg" />
