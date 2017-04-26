@@ -172,32 +172,41 @@
       </a>
     </div>
     <div class="three columns feature item">
-      <img src="images/11.jpg" />
-      <h3>Claudia Olsson</h3>
-    </div>
-    <div class="three columns feature item">
-      <img src="images/1.jpg" />
-      <h3>Eva Hällström</h3>
-    </div>
+      <a href="#" onclick="openOverlay('borgenstiernaoverlay', event)">
+        <div class="item-wrap">
+          <img src="images/7.jpg" />
+        </div>
+        <h3 class="image-headline">Catharina Borgenstierna</h3>
+        <h4>Robotik inom vård och omsorg</h4>
+      </a>
+	</div>
     <div class="three columns feature item">
       <img src="images/3.jpg" />
       <h3>Sara Lei</h3>
       <h4>Framtidens arbetssätt i sjukvården</h4>
     </div>
+    <div class="three columns feature item">
+      <img src="images/11.jpg" />
+      <h3>Claudia Olsson</h3>
+    </div>
   </div>
   <div class="row responsive">
+    <div class="three columns feature item">
+      <img src="images/1.jpg" />
+      <h3>Eva Hällström</h3>
+    </div>
     <div class="three columns feature item">
       <img src="images/10.jpg" />
       <h3>Caroline Cakka Wallmark & Lisa Sällvin</h3>
     </div>
-    <div class="five columns left">
+    <div class="six columns left">
       <h3>Hålla en programpunkt</h3>
       <p>Geek Evolution är en unconference, vilket innebär att deltagarna är med och skapar programmet! Schemat börjar bli fullt så vi kan inte garantera något, men om du har något intressant du vill berätta om i ett snabbt lightning talk, en skill du kan lära ut i en workshop eller något annat du vill dela med dig av till fellow geeks, <a href="#contact" class="smoothscroll">kontakta oss</a> så ser vi om det dyker upp en lucka!</p>
       <p>Du behöver inte ha någon scenvana, vi strävar efter att skapa en så peppig och trygg miljö som möjligt för de som vill testa stå på scen för första gången.</p>
     </div>
-    <div class="four columns">
+    <!--div class="four columns">
        <img width="256" alt="We Can Do It!" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/We_Can_Do_It%21.jpg/256px-We_Can_Do_It%21.jpg" alt="We Can Do It, via Wikimedia Commons"/>
-    </div>
+    </div-->
   </div>
 
   <div id="beckfriisoverlay" class="overlay">
@@ -439,6 +448,25 @@
         <p>Sist men inte minst så kommer jag att göra lite reklam för min workshop på eftermiddagen - dit är du välkommen för att leka med motorer och bygga robotar som världen aldrig skådat tidigare!</p>
         <h4>Framtidsspaning:</h4>
         <p>Många unga kan i dag betydligt mer om teknik än vad vi som jobbar idag kunde när vi var yngre. Självklart kan de bli nästa Marissa Mayer eller Sheryl Sandberg - men tänk om de i stället fokuserar på att lösa problem som globala orättvisor, flyktingströmmar eller politisk oro. Jag tror att det kommer att bli vanligare att uppmuntra och stötta barn att identifiera och själva lösa utmaningar i sin närmiljö - och med det perspektivet tror jag att fler kommer att välja att jobba på sätt som påverkar samhället. Och som ger resultat. Jag tror på många positiva förändringar genom att teknik blir tillgänglig för alla.</p>
+      </div>
+    </div>
+  </div>
+  
+  <div id="borgenstiernaoverlay" class="overlay">
+    <div class="row feature responsive darkgrayish overlay-content">
+      <div class="close" onclick="closeOverlay('borgenstiernaoverlay')">&times;</div>
+      <div class="six columns left">
+        <h3>Catharina Borgenstierna</h3>
+        <p>Mer än 20 års erfarenhet inom marknadsföring och försäljning i den medicintekniska branschen för både stora och små bolag. Brinner för innovationer och att förändra världen i stort och smått genom att implementera innovationerna i dagligt liv.</p>
+      </div>
+      <div class="six columns right">
+        <h4>Talk: Robotik inom vård och omsorg</h4>
+        <p>Ny teknik och robotik gör det möjligt för äldre och personer med funktionsnedsättning att leva ett mer självständigt och värdigt liv.</p>
+        <aside class="pull-quote">
+          <blockquote>
+            <p>Roboterna "kommer" inte, de är redan här!</p>
+          </blockquote>
+        </aside>
       </div>
     </div>
   </div>
