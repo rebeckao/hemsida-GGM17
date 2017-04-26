@@ -570,7 +570,7 @@
    <!-- Lokal
    ================================================== -->
   <section id="lokal" class="lightgrayish">
-    <div class="row feature responsive section-head">
+    <div class="row responsive section-head">
       <div class="six columns right">
         <h1>Plats</h1>
         <p>I år kommer vi att hålla till i arkitektskolans gamla lokaler - <a href="http://www.ahousestockholm.com/" target="_blank">A house Stockholm</a>, Östermalmsgatan 26A. Enklaste sättet att ta sig hit är tunnelbanans röda linje till <b>Tekniska Högskolan</b>, södra uppgången.</p>
