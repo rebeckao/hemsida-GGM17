@@ -273,6 +273,7 @@ ul#nav li.current a { color: #00c0f3; }
 #sponsors h4{
    font-size: 15px;
    letter-spacing: 1px;
+   margin-top: 15px;
 }
 #sponsors .centered {
 	float: None;

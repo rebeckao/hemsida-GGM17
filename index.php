@@ -549,9 +549,9 @@
 			</div>
 		</div>
 		<div class="row">
-			<div class="six columns sponsor">
+			<div class="five columns sponsor">
 				<a href="https://www.ideoninnovation.se/" data-imagelightbox="a" target="_blank" >
-					<img src="images/sponsorer/ideon_white.png" alt="Ideon Innovation">
+					<img src="images/sponsorer/ideon_black.png" alt="Ideon Innovation">
 				</a>
 			</div>
 			<div class="six columns">
