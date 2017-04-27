@@ -384,9 +384,8 @@
       <div class="close" onclick="closeOverlay('evertssonverlay')">&times;</div>
       <div class="six columns left">
         <h3>Lisa Evertsson Norrevik<br/>(Geek Girl StartUp)</h3>
-        <p>Lisa Evertsson Norrevik är journalist & kommunikatör i grunden som efter lång tid i film- och kulturbranschen nu driver startupen StorySpot, en tjänst för att skapa och dela med sig av ljudberättelser och podcasts som går att koppla till platser. Tillsammans levandegör vi miljöerna omkring oss! Drivs av förändring, äventyr och vill aldrig sluta lära sig nya grejer. 
-
-		Geek Girl Startup är ett nätverk av kvinnor som funderar på att starta eller redan har startat företag. Tillsammans stöttar vi varandra i det egna företagandet och arrangerar till exempel kvällsträffar om Vinnova, VR och hemside-bygg.</p>
+        <p>Lisa Evertsson Norrevik är journalist & kommunikatör i grunden som efter lång tid i film- och kulturbranschen nu driver startupen StorySpot, en tjänst för att skapa och dela med sig av ljudberättelser och podcasts som går att koppla till platser. Tillsammans levandegör vi miljöerna omkring oss! Drivs av förändring, äventyr och vill aldrig sluta lära sig nya grejer.<p>
+        </p>Geek Girl Startup är ett nätverk av kvinnor som funderar på att starta eller redan har startat företag. Tillsammans stöttar vi varandra i det egna företagandet och arrangerar till exempel kvällsträffar om Vinnova, VR och hemside-bygg.</p>
       </div>
       <div class="six columns right">
         <h4>Pitcha ditt företag till Geek Girls!</h4>
