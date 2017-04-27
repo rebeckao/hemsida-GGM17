@@ -803,7 +803,21 @@ properly.
 }
 .whiteish h1,
 .whiteish h2,
-.whiteish h3 { color: #333; }
+.whiteish h3,
+.whiteish h4 { color: #333; }
+
+/* ------------------------------------------------------------------ */
+/* Vit bakgrund med orangea titlar
+/* ------------------------------------------------------------------ */
+
+.whiteorange {
+   background: #fff;
+   color: #545454;
+}
+.whiteorange h1,
+.whiteorange h2,
+.whiteorange h3,
+.whiteorange h4 { color: #f7931e; }
 
 /* ------------------------------------------------------------------ */
 /* Svart bakgrund

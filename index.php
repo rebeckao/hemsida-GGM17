@@ -523,7 +523,7 @@
    
    <!-- Sponsors
    ================================================== -->
-  <section id="sponsors" class="escheresque">
+  <section id="sponsors" class="whiteorange">
     <div class="row section-head ">
       <div class="twelve columns">
         <h1>Våra sponsorer</h1>
@@ -537,9 +537,9 @@
         </div-->
 		<div class="row">
 			<h3>Middle Sisters</h3>
-			<div class="six columns sponsor orange">
+			<div class="six columns sponsor">
 				<a href="https://iteam.se/" data-imagelightbox="a" target="_blank" >
-					<img src="images/sponsorer/iteam_standard.png" alt="Iteam">
+					<img src="images/sponsorer/Iteam_black.png" alt="Iteam">
 				</a>
 			</div>
 			<div class="six columns sponsor whiteish">
@@ -549,7 +549,7 @@
 			</div>
 		</div>
 		<div class="row">
-			<div class="five columns sponsor">
+			<div class="four columns sponsor">
 				<a href="https://www.ideoninnovation.se/" data-imagelightbox="a" target="_blank" >
 					<img src="images/sponsorer/ideon_black.png" alt="Ideon Innovation">
 				</a>
@@ -557,12 +557,12 @@
 			<div class="six columns">
 				<div class="sponsor">
 					<a href="https://www.klarna.com/se" data-imagelightbox="a" target="_blank" >
-						<img src="images/sponsorer/Klarna_standard.png" alt="Klarna">
+						<img src="images/sponsorer/Klarna-logo-blue.png" alt="Klarna">
 					</a>
 				</div>
-				<div class="sponsor black">
+				<div class="sponsor">
 					<a href="http://www.eyevinntechnology.se/" data-imagelightbox="a" target="_blank" >
-						<img src="images/sponsorer/eyevinn_standard.png" alt="Eyevinn Technology">
+						<img src="images/sponsorer/eyevinn_black.png" alt="Eyevinn Technology">
 					</a>
 				</div>
 			</div>
@@ -599,7 +599,7 @@
    
    <!-- Lokal
    ================================================== -->
-  <section id="lokal" class="lightgrayish">
+  <section id="lokal" class="escheresque">
     <div class="row responsive section-head">
       <div class="six columns right">
         <h1>Plats</h1>
