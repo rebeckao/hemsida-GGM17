@@ -576,24 +576,31 @@
 		</div>
 		<div class="row">
 			<h4>Little Sisters</h4>
-			<div class="three columns sponsor whiteish">
+			<div class="three columns sponsor">
 				<a href="http://www.linkon.se/" data-imagelightbox="a" target="_blank" >
 					<img src="images/sponsorer/linkon.png" alt="Linkon">
 				</a>
 			</div>
-			<div class="three columns sponsor whiteish">
+			<div class="three columns sponsor">
 				<a href="http://www.dynabyte.se/" data-imagelightbox="a" target="_blank" >
 					<img src="images/sponsorer/dynabyte_new.png" alt="Dynabyte">
 				</a>
 			</div>
-			<div class="three columns sponsor whiteish">
+			<div class="three columns sponsor">
 				<a href="http://www.frojd.se/" data-imagelightbox="a" target="_blank" >
 					<img src="images/sponsorer/frojd.png" alt="Fröjd">
 				</a>
 			</div>
-			<div class="three columns sponsor whiteish">
+			<div class="three columns sponsor">
 				<a href="https://www.knowit.se/" data-imagelightbox="a" target="_blank" >
 					<img src="images/sponsorer/Knowit.png" alt="Knowit">
+				</a>
+			</div>
+		</div>
+		<div class="row">
+			<div class="three columns sponsor centered">
+				<a href="https://www.nordnet.se/mux/web/nordnet/index.html" data-imagelightbox="a" target="_blank" >
+					<img src="images/sponsorer/nordnet.png" alt="Nordnet">
 				</a>
 			</div>
 		</div>
