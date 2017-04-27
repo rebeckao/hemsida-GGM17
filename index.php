@@ -165,7 +165,7 @@
     <div class="three columns feature item">
       <a href="#" onclick="openOverlay('lindstromoverlay', event)">
         <div class="item-wrap">
-          <img src="images/6.jpg" />
+          <img src="images/geeks/lindstrom.jpg" alt="Nina Lindström" />
         </div>
         <h3 class="image-headline">Nina Lindström</h3>
         <h4>Growth by Making Technology</h4>
@@ -440,6 +440,7 @@
     <div class="row feature responsive darkgrayish overlay-content">
       <div class="close" onclick="closeOverlay('lindstromoverlay')">&times;</div>
       <div class="six columns left">
+        <img src="images/geeks/lindstrom.jpg" alt="Nina Lindström" />
         <h3>Nina Lindström</h3>
         <p>De senaste fem åren har jag nördat in mig rejält på hur vårt hur vi egentligen lär oss. Genom att läsa modern psykologi, neurovetenskap och att testa mina idéer i och utanför skolan har jag kommit en bra bit på väg i min jakt efter vad som verkligen fungerar. Jag vill skapa bästa tänkbara förutsättningar för lärande.</p>
         <p>Mitt liv har handlat mycket om resultat och förändring. Professionellt har jag rört mig från strategi (att designa förändring) till implementering (att skapa förändring).</p>
