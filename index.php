@@ -574,12 +574,12 @@
 					<img src="images/sponsorer/linkon.png" alt="Linkon">
 				</a>
 			</div>
-			<div class="three columns sponsor lightpink">
+			<div class="three columns sponsor whiteish">
 				<a href="http://www.dynabyte.se/" data-imagelightbox="a" target="_blank" >
 					<img src="images/sponsorer/dynabyte_new.png" alt="Dynabyte">
 				</a>
 			</div>
-			<div class="three columns sponsor orange">
+			<div class="three columns sponsor whiteish">
 				<a href="http://www.frojd.se/" data-imagelightbox="a" target="_blank" >
 					<img src="images/sponsorer/frojd.png" alt="Fröjd">
 				</a>
