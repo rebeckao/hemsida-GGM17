@@ -179,21 +179,26 @@
         <h3 class="image-headline">Catharina Borgenstierna</h3>
         <h4>Robotik inom vård och omsorg</h4>
       </a>
-	</div>
+    </div>
+    <div class="three columns feature item">
+      <a href="#" onclick="openOverlay('hallstromoverlay', event)">
+        <div class="item-wrap">
+          <img src="images/geeks/emma-hallstrom.jpg" alt="Emma Hällström"/>
+        </div>
+        <h3>Emma Hällström</h3>
+        <h4>Från utbränd till entreprenör</h4>
+      </a>
+    </div>
     <div class="three columns feature item">
       <img src="images/3.jpg" />
       <h3>Sara Lei</h3>
       <h4>Framtidens arbetssätt i sjukvården</h4>
     </div>
-    <div class="three columns feature item">
-      <img src="images/11.jpg" />
-      <h3>Claudia Olsson</h3>
-    </div>
   </div>
   <div class="row responsive">
     <div class="three columns feature item">
-      <img src="images/geeks/emma-hallstrom.jpg" />
-      <h3>Emma Hällström</h3>
+      <img src="images/11.jpg" />
+      <h3>Claudia Olsson</h3>
     </div>
     <div class="three columns feature item">
       <img src="images/10.jpg" />
@@ -448,6 +453,24 @@
         <p>Sist men inte minst så kommer jag att göra lite reklam för min workshop på eftermiddagen - dit är du välkommen för att leka med motorer och bygga robotar som världen aldrig skådat tidigare!</p>
         <h4>Framtidsspaning:</h4>
         <p>Många unga kan i dag betydligt mer om teknik än vad vi som jobbar idag kunde när vi var yngre. Självklart kan de bli nästa Marissa Mayer eller Sheryl Sandberg - men tänk om de i stället fokuserar på att lösa problem som globala orättvisor, flyktingströmmar eller politisk oro. Jag tror att det kommer att bli vanligare att uppmuntra och stötta barn att identifiera och själva lösa utmaningar i sin närmiljö - och med det perspektivet tror jag att fler kommer att välja att jobba på sätt som påverkar samhället. Och som ger resultat. Jag tror på många positiva förändringar genom att teknik blir tillgänglig för alla.</p>
+      </div>
+    </div>
+  </div>
+    
+  <div id="hallstromoverlay" class="overlay">
+    <div class="row feature responsive darkgrayish overlay-content">
+      <div class="close" onclick="closeOverlay('hallstromoverlay')">&times;</div>
+      <div class="six columns left">
+        <img src="images/geeks/emma-hallstrom.jpg" alt="Emma Hällström"/>
+        <h3>Emma Hällström</h3>
+        <p>Emma är grundare och VD för Visbybaserade startupen Femingo AB. Femingo arbetar med feministisk innovation och hoppas inom kort kunna lansera sina två första produkter med värmande textilier under varumärket I Heat You.</p>
+      </div>
+      <div class="six columns right">
+        <p>Emma har sin bakgrund i marknadsföring. Sommaren 2014 tog det stopp, hon gick in i väggen med buller och bång. Efter ett år som sjukskriven tog hon beslutet - det var dags att satsa på drömmen, det var dags att satsa på Emma.</p>
+        <h4>Talk: Från utbränd till entreprenör</h4>
+        <p>Resan från att ha haft en fast, välbetald anställning till att bli sjukskriven och tillslut våga satsa på drömmen om en egen startup.</p>
+        <h4>Framtidsspaning:</h4>
+        <p>Eftersom jag själv är helt insnöad på tech textiles så är det såklart något jag tror otroligt mycket på. Jag tror också att tekniken gör att arbetsplatser får möjlighet att anpassa sig mer efter individerna, vilket kan skapa en bättre arbetsmiljö och hälsa.</p>
       </div>
     </div>
   </div>
