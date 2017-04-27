@@ -542,7 +542,7 @@
 					<img src="images/sponsorer/Iteam_black.png" alt="Iteam">
 				</a>
 			</div>
-			<div class="six columns sponsor whiteish">
+			<div class="six columns sponsor">
 				<a href="https://www.academicwork.se/" data-imagelightbox="a" target="_blank" >
 					<img src="images/sponsorer/academic work_standard.png" alt="Academic Work">
 				</a>
@@ -565,6 +565,13 @@
 						<img src="images/sponsorer/eyevinn_black.png" alt="Eyevinn Technology">
 					</a>
 				</div>
+			</div>
+		</div>
+		<div class="row">
+			<div class="six columns sponsor centered">
+				<a href="http://www.hiq.se/" data-imagelightbox="a" target="_blank" >
+					<img src="images/sponsorer/HiQ.png" alt="HiQ">
+				</a>
 			</div>
 		</div>
 		<div class="row">
