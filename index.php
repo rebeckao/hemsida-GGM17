@@ -621,9 +621,14 @@
 			</div>
 		</div>
 		<div class="row">
-			<div class="three columns sponsor centered">
+			<div class="three columns sponsor">
 				<a href="https://www.nordnet.se/mux/web/nordnet/index.html" data-imagelightbox="a" target="_blank" >
 					<img src="images/sponsorer/nordnet.png" alt="Nordnet">
+				</a>
+			</div>
+			<div class="three columns sponsor">
+				<a href="https://www.google.com/intl/sv/about/" data-imagelightbox="a" target="_blank" >
+					<img src="images/sponsorer/google.png" alt="Google">
 				</a>
 			</div>
 		</div>
