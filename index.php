@@ -191,7 +191,7 @@
     </div>
     <div class="three columns feature item">
 		<img src="images/geeks/Eyevinntalare.jpg" alt="Isebelle Jouper & Marilia Bognandi"/>
-        <h3>Isebelle Jouper & Marilia Bognandi</h3>
+        <h3>Isabelle Jouper & Marilia Bognandi</h3>
         <h4>Eyevinn Technology: Videoteknik bakom kulisserna - utvecklingen och möjligheterna</h4>
     </div>
   </div>
