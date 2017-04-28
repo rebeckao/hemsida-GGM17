@@ -631,6 +631,7 @@
 			</div>
 		</div>
 		<div class="row">
+			<div class="three columns"></div>
 			<div class="three columns sponsor">
 				<a href="https://www.nordnet.se/mux/web/nordnet/index.html" data-imagelightbox="a" target="_blank" >
 					<img src="images/sponsorer/nordnet.png" alt="Nordnet">
@@ -641,6 +642,7 @@
 					<img src="images/sponsorer/google.png" alt="Google">
 				</a>
 			</div>
+			<div class="three columns"></div>
 		</div>
         <div class="row twelve columns">
           <p>Vill du bli sponsor för Geek Evolution? <a href="#contact" class="smoothscroll">Kontakta oss!</a>
