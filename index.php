@@ -190,12 +190,17 @@
       </a>
     </div>
     <div class="three columns feature item">
+		<img src="images/geeks/Eyevinntalare.jpg" alt="Isebelle Jouper & Marilia Bognandi"/>
+        <h3>Isebelle Jouper & Marilia Bognandi</h3>
+        <h4>Eyevinn Technology: Videoteknik bakom kulisserna - utvecklingen och möjligheterna</h4>
+    </div>
+  </div>
+  <div class="row responsive">
+    <div class="three columns feature item">
       <img src="images/3.jpg" />
       <h3>Sara Lei</h3>
       <h4>Framtidens arbetssätt i sjukvården</h4>
     </div>
-  </div>
-  <div class="row responsive">
     <div class="three columns feature item">
       <img src="images/11.jpg" />
       <h3>Claudia Olsson</h3>
@@ -204,14 +209,19 @@
       <img src="images/10.jpg" />
       <h3>Caroline Cakka Wallmark & Lisa Sällvin</h3>
     </div>
-    <div class="six columns left">
+    <div class="three columns feature item">
+      <img src="images/7.jpg" />
+    </div>
+  </div>
+  <div class="row responsive">
+    <div class="eight columns left">
       <h3>Hålla en programpunkt</h3>
       <p>Geek Evolution är en unconference, vilket innebär att deltagarna är med och skapar programmet! Schemat börjar bli fullt så vi kan inte garantera något, men om du har något intressant du vill berätta om i ett snabbt lightning talk, en skill du kan lära ut i en workshop eller något annat du vill dela med dig av till fellow geeks, <a href="#contact" class="smoothscroll">kontakta oss</a> så ser vi om det dyker upp en lucka!</p>
       <p>Du behöver inte ha någon scenvana, vi strävar efter att skapa en så peppig och trygg miljö som möjligt för de som vill testa stå på scen för första gången.</p>
     </div>
-    <!--div class="four columns">
+    <div class="four columns">
        <img width="256" alt="We Can Do It!" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/We_Can_Do_It%21.jpg/256px-We_Can_Do_It%21.jpg" alt="We Can Do It, via Wikimedia Commons"/>
-    </div-->
+    </div>
   </div>
 
   <div id="beckfriisoverlay" class="overlay">
