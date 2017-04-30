@@ -202,7 +202,7 @@
       <h4>Framtidens arbetssätt i sjukvården</h4>
     </div>
     <div class="three columns feature item">
-      <img src="images/11.jpg" />
+      <img src="images/geeks/Olsson.jpg" />
       <h3>Claudia Olsson</h3>
     </div>
     <div class="three columns feature item">
