@@ -16,8 +16,7 @@
 	font-size: 14px;
 }
 #program .programItem.common,
-#program .programItem.common h3,
-#program .programItem.common time {
+#program .programItem.common h3 {
     background: #ff9400!important;
 		color: #fff!important;
 }
@@ -27,24 +26,21 @@
 #program .venue1,
 #program .venue1 a,
 #program .venue1 h3,
-#program .venue1 .programSpeaker,
-#program .venue1 time {
+#program .venue1 .programSpeaker {
 	color: #fff;
 	background: #23292f
 }
 #program .venue2,
 #program .venue2 a,
 #program .venue2 h3,
-#program .venue2 .programSpeaker,
-#program .venue2 time {
+#program .venue2 .programSpeaker {
 	color: #000;
 	background: #707070
 }
 #program .venue3,
 #program .venue3 a,
 #program .venue3 h3,
-#program .venue3 .programSpeaker,
-#program .venue3 time {
+#program .venue3 .programSpeaker {
 	color: #444;
 	background: #ddd;
 }
@@ -117,22 +113,18 @@
         width: 100%
     }
 }
-.programItem>div {
+.programItem {
     padding: 1rem 1.5rem
 }
 .programItem.common,
 .programItem.common a {
     color: #fff!important
 }
-.programItem time {
-    display: block;
-}
 .programItem.common {
     text-transform: uppercase
 }
 @media screen and (max-width: 48rem) {
     .programItem.common {
-        padding: 0;
         height: initial;
         text-align: center
     }
@@ -170,4 +162,18 @@
 }
 .text:last-child {
     padding-bottom: 0
+}
+@media screen and (max-width: 48rem) {
+	.programItem {
+		overflow:hidden;
+	}
+	.timeplace {
+		display: inline-block;
+		float: left;
+		text-align: left;
+		margin-right: 15px;
+	}
+	.content {
+		display: inline-block;
+	}
 }
