@@ -228,9 +228,8 @@ ul#nav li.current a { color: #00c0f3; }
 
 #program {
    padding-top: 50px;
-   padding-bottom: 0;
+   padding-bottom: 30px;
    overflow: hidden;
-   text-align: center;
 }
 
 /* ------------------------------------------------------------------ */

@@ -1,0 +1,173 @@
+#program h1 {font-size:28px;}
+#program h2 {
+	letter-spacing: 1px;
+	font-size:18px;
+	color: #fff
+}
+#program h3 {
+	letter-spacing: 1px;
+	font-size: 16px;
+	margin-bottom: 4px;
+}
+#program h4 {
+	text-transform: None;
+	letter-spacing: 1px;
+	font-family: 'opensans-regular', sans-serif;
+	font-size: 14px;
+}
+#program .programItem.common,
+#program .programItem.common h3,
+#program .programItem.common time {
+    background: #ff9400!important;
+		color: #fff!important;
+}
+#program .programItem {
+    background: #12c4f4
+}
+#program .venue1,
+#program .venue1 a,
+#program .venue1 h3,
+#program .venue1 .programSpeaker,
+#program .venue1 time {
+	color: #fff;
+	background: #23292f
+}
+#program .venue2,
+#program .venue2 a,
+#program .venue2 h3,
+#program .venue2 .programSpeaker,
+#program .venue2 time {
+	color: #000;
+	background: #707070
+}
+#program .venue3,
+#program .venue3 a,
+#program .venue3 h3,
+#program .venue3 .programSpeaker,
+#program .venue3 time {
+	color: #444;
+	background: #ddd;
+}
+.programBlock:after,
+.programBody:after,
+.programDay:after,
+.programVenueTitles:after{
+    content: "";
+    display: table;
+    clear: both
+}
+.programDay {
+    text-align: center
+}
+@media screen and (max-width: 48rem) {
+    .programDesktop {
+        display: none
+    }
+}
+.programMobile {
+    display: none
+}
+.empty,
+.pointLang {
+    display: block
+}
+.programDay {
+    padding: 0 1rem;
+    margin-top: 6rem
+}
+@media screen and (max-width: 48rem) {
+    .programMobile {
+        display: block
+    }
+    .programDay {
+        padding: 0;
+        margin-top: 4rem
+    }
+}
+.programBody {
+    margin-bottom: 4rem
+}
+.programVenueTitles {
+    margin: 2rem 0 .5rem
+}
+.programVenueTitles>div {
+    box-sizing: border-box;
+    width: 33.33333%;
+    float: left
+}
+@media screen and (max-width: 48rem) {
+    .programVenueTitles {
+        margin-top: 0
+    }
+    .programVenueTitles>div {
+        width: 100%
+    }
+}
+.programVenue {
+    box-sizing: border-box;
+    width: 33.33333%;
+    float: left;
+    padding: 0 .25rem
+}
+.programItem {
+    margin-bottom: .5rem;
+}
+@media screen and (max-width: 48rem) {
+    .programVenue {
+        width: 100%
+    }
+}
+.programItem>div {
+    padding: 1rem 1.5rem
+}
+.programItem.common,
+.programItem.common a {
+    color: #fff!important
+}
+.programItem time {
+    display: block;
+}
+.programItem.common {
+    text-transform: uppercase
+}
+@media screen and (max-width: 48rem) {
+    .programItem.common {
+        padding: 0;
+        height: initial;
+        text-align: center
+    }
+}
+.empty {
+    height: 1px;
+    width: 1px
+}
+.programSpeaker:after {
+    display: inline;
+    content: ','
+}
+.programSpeaker:last-of-type:after {
+    display: none
+}
+.text {
+    margin: 0 auto;
+    line-height: 1.5;
+    width: 60%
+}
+@media screen and (max-width: 48rem) {
+    .text {
+        width: 100%;
+        margin-bottom: 2rem;
+        padding: 1.5rem 0
+    }
+}
+.text>div,
+.text>p {
+    text-align: left!important;
+    margin-bottom: 1rem
+}
+.text p:first-of-type {
+    margin-top: 0
+}
+.text:last-child {
+    padding-bottom: 0
+}
