@@ -248,7 +248,7 @@
   <section id="program" class="black">
     <div class="row section-head">
       <h1>Program</h1>
-      <!--div class="row">
+      <div class="row">
         <ul>
           <li/>Registrering och frukost 09:00
           <li/>Lunch 12:00-13:00
@@ -256,8 +256,8 @@
           <li/>Festen håller på till 22:00
         </ul>
         <p>Detaljerat program kommer längre fram i vår. Tills dess, spana in <a href="#talare" class="smoothscroll">våra bokningar!</a></p>
-      </div-->
-			<?php include 'includes/program.html';?>
+      </div>
+			<!--?php include 'includes/program.html';?-->
 		</div>  
   </section>
    
