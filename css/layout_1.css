@@ -218,6 +218,9 @@ ul#nav li.current a { color: #00c0f3; }
 #talare .image-headline {
     text-align: center;
 }
+#talare a:hover {
+    text-decoration: None;
+}
 
 /* ------------------------------------------------------------------ */
 /* Program
