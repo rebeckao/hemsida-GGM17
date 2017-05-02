@@ -4,45 +4,38 @@
 	font-size:18px;
 	color: #fff
 }
-#program h3 {
-	letter-spacing: 1px;
-	font-size: 16px;
-	margin-bottom: 4px;
-}
-#program h4 {
-	text-transform: None;
-	letter-spacing: 1px;
-	font-family: 'opensans-regular', sans-serif;
-	font-size: 14px;
-}
 #program .programItem.common,
 #program .programItem.common h3 {
     background: #ff9400!important;
 		color: #fff!important;
 }
-#program .programItem {
-    background: #12c4f4
+#program .venue1 {
+	color: #fff;
+	background: #23292f
 }
 #program .venue1,
 #program .venue1 a,
 #program .venue1 h3,
 #program .venue1 .programSpeaker {
 	color: #fff;
-	background: #23292f
 }
-#program .venue2,
+#program .venue2 {
+	color: #000;
+	background: #707070
+}
 #program .venue2 a,
 #program .venue2 h3,
 #program .venue2 .programSpeaker {
 	color: #000;
-	background: #707070
 }
-#program .venue3,
+#program .venue3 {
+	color: #444;
+	background: #ddd;
+}
 #program .venue3 a,
 #program .venue3 h3,
 #program .venue3 .programSpeaker {
 	color: #444;
-	background: #ddd;
 }
 .programBlock:after,
 .programBody:after,
@@ -62,10 +55,6 @@
 }
 .programMobile {
     display: none
-}
-.empty,
-.pointLang {
-    display: block
 }
 .programDay {
     padding: 0 1rem;
@@ -103,10 +92,11 @@
     box-sizing: border-box;
     width: 33.33333%;
     float: left;
-    padding: 0 .25rem
 }
 .programItem {
-    margin-bottom: .5rem;
+	border-width: 0.25rem;
+	border-color: #000;
+	border-style: solid;
 }
 @media screen and (max-width: 48rem) {
     .programVenue {
@@ -114,7 +104,7 @@
     }
 }
 .programItem {
-    padding: 1rem 1.5rem
+    padding: 0.5rem
 }
 .programItem.common,
 .programItem.common a {
@@ -128,10 +118,6 @@
         height: initial;
         text-align: center
     }
-}
-.empty {
-    height: 1px;
-    width: 1px
 }
 .programSpeaker:after {
     display: inline;
@@ -176,4 +162,47 @@
 	.content {
 		display: inline-block;
 	}
+}
+.empty {
+	background: transparent;
+}
+.programItem h3 {
+	letter-spacing: 1.5px;
+	font-size: 18px;
+	margin-bottom: 2px;
+	line-height: 22px;
+}
+.programItem h4 {
+	text-transform: None;
+	letter-spacing: 1px;
+	font-family: 'opensans-regular', sans-serif;
+	font-size: 14px;
+	line-height: 15px;
+}
+.fiveMin {
+	height: 25px;
+}
+.tenMin {
+	height: 50px;
+	line-height: 15px;
+}
+.fifteenMin {
+	height: 75px;
+	line-height: 15px;
+}
+.thirtyMin {
+	height: 150px;
+}
+.sixtyMin {
+	height: 300px;
+}
+.fiftyfiveMin {
+	height: 275px;
+}
+.fifteenMin h3,
+.tenMin h3 {
+	letter-spacing: 1.5px;
+	font-size: 14px;
+	margin-bottom: 1px;
+	line-height: 15px;
 }
