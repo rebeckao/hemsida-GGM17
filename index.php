@@ -153,7 +153,7 @@
     <div class="three columns feature item">
       <a href="#" onclick="openOverlay('hakanssonoverlay', event)">
         <div class="item-wrap">
-          <img src="images/9.jpg" />
+          <img src="images/geeks/hakansson.jpg" alt="Anne Håkansson"/>
         </div>
         <h3 class="image-headline">Anne Håkansson</h3>
         <h4>AI och framtiden</h4>
