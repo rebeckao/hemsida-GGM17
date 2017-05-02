@@ -250,6 +250,9 @@ ul#nav li.current a { color: #00c0f3; }
    font: 18px/26px 'vag-rounded-bold', sans-serif;
    letter-spacing: 2px;
 }
+#moderatorer a:hover {
+    text-decoration: None;
+}
 
 /* ------------------------------------------------------------------ */
 /* Sponsors
