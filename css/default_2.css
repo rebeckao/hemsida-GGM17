@@ -847,7 +847,7 @@ properly.
    background: #10999E url(img/escheresque.png);
    color: #fff;
 }
-.escheresque h1{ color: #fff; }
+.escheresque h1,
 .escheresque h2,
 .escheresque h3,
 .escheresque h4{ color: #fff; }
