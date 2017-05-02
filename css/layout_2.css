@@ -246,6 +246,10 @@ ul#nav li.current a { color: #00c0f3; }
    text-align: center;
    padding: 0;
 }
+#moderatorer h3 {
+   font: 18px/26px 'vag-rounded-bold', sans-serif;
+   letter-spacing: 2px;
+}
 
 /* ------------------------------------------------------------------ */
 /* Sponsors

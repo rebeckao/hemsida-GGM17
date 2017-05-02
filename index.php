@@ -223,11 +223,12 @@
        <img width="256" alt="We Can Do It!" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/We_Can_Do_It%21.jpg/256px-We_Can_Do_It%21.jpg" alt="We Can Do It, via Wikimedia Commons"/>
     </div>
   </div>
-	<?php include 'includes/overlays.html';?>
 
   <div class="row feature responsive">
   </div>
   </section>
+	
+	<?php include 'includes/overlays.html';?>
    
    <!-- Elisabeth Tegner-stipendiet
    ================================================== -->
@@ -264,13 +265,39 @@
    
   <!-- Moderatorer
    ================================================== -->
-  <section id="moderatorer" class="darkgrayish">
+  <section id="moderatorer" class="escheresque">
     <div class="row section-head">
       <h1>Moderatorer</h1>
     </div>
-    <div class="row">
-      <p>Här kommer du kunna läsa moderatorerna för Geek Evolution. Vill du moderera eller tipsa om någon du känner? <a href="#contact" class="smoothscroll">Kontakta oss!</a></p>
-    </div>
+		<div class="row responsive">
+			<div class="three columns feature item">
+				<a href="#" onclick="openOverlay('schedvinoverlay', event)">
+					<div class="item-wrap">
+						<img src="images/geeks/schedvin.jpg" alt="Cecilia von Schedvin" />
+					</div>
+					<h3 class="image-headline">Cecilia von Schedvin</h3>
+				</a>
+			</div>
+			<div class="three columns feature item">
+				<a href="#" onclick="openOverlay('marianneolssonoverlay', event)">
+					<div class="item-wrap">
+						<img src="images/geeks/marianneolsson.jpg" alt="Marianne Olsson"/>
+					</div>
+					<h3 class="image-headline">Marianne Olsson</h3>
+				</a>
+			</div>
+			<div class="three columns feature item">
+				<a href="#" onclick="openOverlay('cronaoverlay', event)">
+					<div class="item-wrap">
+						<img src="images/geeks/crona.jpg" alt="Malin Crona"/>
+					</div>
+					<h3>Malin Crona</h3>
+				</a>
+			</div>
+			<div class="three columns feature item">
+			<img src="images/9.jpg"/>
+			</div>
+		</div>
   </section>
    
    <!-- Sponsors
