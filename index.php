@@ -135,7 +135,7 @@
     <div class="three columns feature item">
       <a href="#" onclick="openOverlay('evertssonverlay', event)">
 		<div class="item-wrap">
-			<img src="images/12.jpg" />
+			<img src="images/geeks/norrevik.jpg" alt="Lisa Evertsson Norrevik"/>
 		</div>
 		<h3 class="image-headline">Lisa Evertsson Norrevik<br/>(Geek Girl StartUp)</h3>
 		<h4>Pitcha ditt företag till Geek Girls!</h4>
