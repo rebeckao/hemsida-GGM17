@@ -161,6 +161,7 @@
 	}
 	.content {
 		display: inline-block;
+		max-width: 55%;
 	}
 }
 .empty {
@@ -178,6 +179,14 @@
 	font-family: 'opensans-regular', sans-serif;
 	font-size: 14px;
 	line-height: 15px;
+}
+@media screen and (max-width: 48rem) {
+	.programItem h3 {
+		letter-spacing: 1.5px;
+		font-size: 12px;
+		margin-bottom: 2px;
+		line-height: 14px;
+	}
 }
 .fiveMin {
 	height: 25px;
