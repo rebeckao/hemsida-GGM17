@@ -206,8 +206,13 @@
       <h3>Claudia Olsson</h3>
     </div>
     <div class="three columns feature item">
-      <img src="images/10.jpg" />
-      <h3>Caroline Cakka Wallmark & Lisa Sällvin</h3>
+      <a href="#" onclick="openOverlay('geekgirlminioverlay', event)">
+        <div class="item-wrap">
+					<img src="images/geeks/geekgirlmini.jpg" alt="Geek Girl Mini-gänget"/>
+				</div>
+				<h3>Geek Girl Mini Sundsvall Crew</h3>
+				<h4>We build the future!</h4>
+			</a>
     </div>
     <div class="three columns feature item">
       <img src="images/7.jpg" />
