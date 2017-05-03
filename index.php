@@ -295,7 +295,8 @@
 				</a>
 			</div>
 			<div class="three columns feature item">
-			<img src="images/9.jpg"/>
+				<img src="images/geeks/Gitta.jpg"/>
+				<h3>Gitta Wilén</h3>
 			</div>
 		</div>
   </section>
