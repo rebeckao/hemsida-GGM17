@@ -202,8 +202,13 @@
       <h4>Framtidens arbetssätt i sjukvården</h4>
     </div>
     <div class="three columns feature item">
-      <img src="images/geeks/Olsson.jpg" />
-      <h3>Claudia Olsson</h3>
+      <a href="#" onclick="openOverlay('claudiaoverlay', event)">
+        <div class="item-wrap">
+					<img src="images/geeks/Olsson.jpg" alt="Claudia Olsson"/>
+				</div>
+				<h3>Claudia Olsson</h3>
+				<h4>Exponential Technologies</h4>
+			</a>
     </div>
     <div class="three columns feature item">
       <a href="#" onclick="openOverlay('geekgirlminioverlay', event)">
