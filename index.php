@@ -305,8 +305,12 @@
 				</a>
 			</div>
 			<div class="three columns feature item">
-				<img src="images/geeks/Gitta.jpg"/>
-				<h3>Gitta Wilén</h3>
+				<a href="#" onclick="openOverlay('wilenoverlay', event)">
+					<div class="item-wrap">
+						<img src="images/geeks/Gitta.jpg" alt="Gitta Wilén"/>
+					</div>
+					<h3>Gitta Wilén</h3>
+				</a>
 			</div>
 		</div>
   </section>
