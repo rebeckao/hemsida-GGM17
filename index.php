@@ -52,7 +52,7 @@
 			<img src="images/geeks/friis.jpg" alt="Cecilia Beck-Friis" />
 		</div>
 		<h3 class="image-headline">Cecilia Beck-Friis</h3>
-        <h4>Från förändring till förnyelse</h4>
+        <h4>Immersiv teknologi – från förändring till förnyelse</h4>
 	  </a>
     </div>
     <div class="three columns feature item">
