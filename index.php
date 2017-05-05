@@ -47,6 +47,14 @@
     </div>
   <div class="row responsive">
     <div class="three columns feature item">
+	  <a href="#" onclick="openOverlay('sarkeesianoverlay', event)" >
+		<div class="item-wrap">
+			<img src="images/geeks/Anita-Sarkeesian.jpg" alt="Anita Sarkeesian" />
+		</div>
+		<h3 class="image-headline">Anita Sarkeesian</h3>
+	  </a>
+    </div>
+    <div class="three columns feature item">
 	  <a href="geeks/ceciliabeckfriis.php" onclick="openOverlay('beckfriisoverlay', event)" >
 		<div class="item-wrap">
 			<img src="images/geeks/friis.jpg" alt="Cecilia Beck-Friis" />
@@ -72,6 +80,9 @@
         <h3 class="image-headline">Siren Hofvander</h3>
       </a>
     </div>
+  </div>
+  
+  <div class="row responsive">
     <div class="three columns feature item">
       <a href="#" onclick="openOverlay('demredoverlay', event)">
         <div class="item-wrap">
@@ -81,9 +92,6 @@
         <h4>Framtiden för live-video</h4>
       </a>
     </div>
-  </div>
-  
-  <div class="row responsive">
     <div class="three columns feature item">
       <a href="#" onclick="openOverlay('idebrooverlay', event)">
 		<div class="item-wrap">
@@ -111,6 +119,9 @@
         <h4>Kina – världens hetaste VR-marknad</h4>
       </a>
     </div>
+  </div>
+  
+  <div class="row responsive">
     <div class="three columns feature item">
       <a href="#" onclick="openOverlay('nuzhdinaoverlay', event)">
         <div class="item-wrap">
@@ -120,9 +131,6 @@
         <h4>Why you will never call your grandma from Mars and other news from computer science</h4>
       </a>
     </div>
-  </div>
-  
-  <div class="row responsive">
     <div class="three columns feature item">
       <a href="#" onclick="openOverlay('torneusoverlay', event)">
 		<div class="item-wrap">
@@ -150,6 +158,9 @@
         <h4>Geek Evolution Quiz</h4>
       </a>
     </div>
+  </div>
+  
+  <div class="row responsive">
     <div class="three columns feature item">
       <a href="#" onclick="openOverlay('hakanssonoverlay', event)">
         <div class="item-wrap">
@@ -159,9 +170,6 @@
         <h4>AI och framtiden</h4>
       </a>
     </div>
-  </div>
-  
-  <div class="row responsive">
     <div class="three columns feature item">
       <a href="#" onclick="openOverlay('lindstromoverlay', event)">
         <div class="item-wrap">
@@ -189,13 +197,14 @@
         <h4>Från utbränd till entreprenör</h4>
       </a>
     </div>
+  </div>
+  
+  <div class="row responsive">
     <div class="three columns feature item">
 		<img src="images/geeks/Eyevinntalare.jpg" alt="Isebelle Jouper & Marilia Bognandi"/>
         <h3>Isabelle Jouper & Marilia Bognandi</h3>
         <h4>Eyevinn Technology: Videoteknik bakom kulisserna - utvecklingen och möjligheterna</h4>
     </div>
-  </div>
-  <div class="row responsive">
     <div class="three columns feature item">
       <img src="images/3.jpg" />
       <h3>Sara Lei</h3>
@@ -218,9 +227,6 @@
 				<h3>Geek Girl Mini Sundsvall Crew</h3>
 				<h4>We build the future!</h4>
 			</a>
-    </div>
-    <div class="three columns feature item">
-      <img src="images/7.jpg" />
     </div>
   </div>
   <div class="row responsive">
