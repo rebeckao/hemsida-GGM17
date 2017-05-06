@@ -177,6 +177,7 @@
         </div>
         <h3 class="image-headline">Nina Lindström</h3>
         <h4>Growth by Making Technology</h4>
+        <h4>Workshop: Skapa med kreativ teknik</h4>
       </a>
     </div>
     <div class="three columns feature item">

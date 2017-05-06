@@ -16,7 +16,7 @@
 #program .venue1,
 #program .venue1 a,
 #program .venue1 h3,
-#program .venue1 .programSpeaker {
+#program .venue1 h4 {
 	color: #fff;
 }
 #program .venue2 {
@@ -25,7 +25,7 @@
 }
 #program .venue2 a,
 #program .venue2 h3,
-#program .venue2 .programSpeaker {
+#program .venue2 h4 {
 	color: #000;
 }
 #program .venue3 {
@@ -34,7 +34,7 @@
 }
 #program .venue3 a,
 #program .venue3 h3,
-#program .venue3 .programSpeaker {
+#program .venue3 h4 {
 	color: #444;
 }
 .programBlock:after,
@@ -119,13 +119,6 @@
         text-align: center
     }
 }
-.programSpeaker:after {
-    display: inline;
-    content: ','
-}
-.programSpeaker:last-of-type:after {
-    display: none
-}
 .text {
     margin: 0 auto;
     line-height: 1.5;
@@ -158,6 +151,7 @@
 		float: left;
 		text-align: left;
 		margin-right: 15px;
+		max-width: 40%;
 	}
 	.content {
 		display: inline-block;
