@@ -206,7 +206,7 @@
         <h4>Eyevinn Technology: Videoteknik bakom kulisserna - utvecklingen och möjligheterna</h4>
     </div>
     <div class="three columns feature item">
-      <img src="images/3.jpg" />
+      <img src="images/geeks/saralei.jpg" alt="Sara Lei"/>
       <h3>Sara Lei</h3>
       <h4>Framtidens arbetssätt i sjukvården</h4>
     </div>
