@@ -285,17 +285,17 @@
   <section id="program" class="black">
     <div class="row section-head">
       <h1>Program</h1>
-      <!--div class="row">
-        <ul>
-          <li/>Registrering och frukost 09:00
-          <li/>Lunch 12:00-13:00
-          <li/>Middag 17:00
-          <li/>Festen håller på till 22:00
-        </ul>
-        <p>Detaljerat program kommer längre fram i vår. Tills dess, spana in <a href="#talare" class="smoothscroll">våra bokningar!</a></p>
-      </div-->
 			<p>OBS: Programmet är preliminärt, allt kan förändras, uppdateras löpande!</p>
-			<?php include 'includes/program.html';?>
+			<h3>
+				<a id="showProgram" href="#" onclick="toggleProgram(event);event.preventDefault();"><i class="icon-right-open"></i>Visa programmet</a>
+				<a id="hideProgram" href="#" onclick="toggleProgram(event);event.preventDefault();" class="hiddenByDefault"><i class="icon-down-open"></i>Dölj programmet</a>
+			</h3>
+			<div id="fullProgram" class="hiddenByDefault">
+				<?php include 'includes/program.html';?>
+				<h3>
+					<a href="#moderatorer" onclick="toggleProgram(event)"><i class="icon-up-open"></i></i>Dölj programmet</a>
+				</h3>
+			</div>
 		</div>  
   </section>
    
