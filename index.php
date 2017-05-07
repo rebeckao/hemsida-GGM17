@@ -457,7 +457,7 @@
     </div>
   </section>
 	
-	<section id="festen" class="orange">
+	<section id="festen" class="darkgrayish">
 		<div class="row responsive top-of-page">
       <div class="seven columns left">
         <h1>Festen</h1>
