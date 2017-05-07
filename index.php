@@ -81,7 +81,13 @@
       </a>
     </div>
   </div>
+	
+  <h3>
+		<a id="showSpeakers" href="#" onclick="toggleSpeakers(event);event.preventDefault();"><i class="icon-right-open"></i>Visa fler talare</a>
+		<a id="hideSpeakers" href="#" onclick="toggleSpeakers(event);event.preventDefault();" class="hiddenByDefault"><i class="icon-down-open"></i>Visa färre talare</a>
+	</h3>
   
+	<div id="moreSpeakers" class="hiddenByDefault">
   <div class="row responsive">
     <div class="three columns feature item">
       <a href="#" onclick="openOverlay('demredoverlay', event)">
@@ -249,9 +255,13 @@
        <img width="256" alt="We Can Do It!" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/We_Can_Do_It%21.jpg/256px-We_Can_Do_It%21.jpg" alt="We Can Do It, via Wikimedia Commons"/>
     </div>
   </div>
+	
+	<h3>
+		<a href="#stipendiet" onclick="toggleSpeakers(event)"><i class="icon-up-open"></i></i>Visa färre talare</a>
+	</h3>
+	
+	</div>
 
-  <div class="row feature responsive">
-  </div>
   </section>
 	
 	<?php include 'includes/overlays.html';?>

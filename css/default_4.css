@@ -924,3 +924,11 @@ properly.
     text-decoration: none;
     cursor: pointer;
 }
+
+
+/* ------------------------------------------------------------------ */
+/* Expand/collapse
+/* ------------------------------------------------------------------ */
+.hiddenByDefault {
+	display:None;
+}
