@@ -435,6 +435,24 @@
       </div>
     </div>
   </section>
+	
+	<section id="festen" class="orange">
+		<div class="row responsive top-of-page">
+      <div class="seven columns left">
+        <h1>Festen</h1>
+        <p><i>Efter att sista talaren tystnat lägger vi ner anteckningsblocken för en magisk kväll där vi kan dansa och mingla, nätverka med varandra och uppfinna nya sätt att pusha utvecklingen, förutse framtiden och göra science fiction till vardag.</i></p>
+				<p>Nytt för i år är att festen är i samma lokaler, och vi håller det mer till ett mingel så våra geeks verkligen kan/hinner nätverka med varandra. Det innebär att vi inte släpper specifika festbiljetter, utan hela dagen och kvällen är enbart tillägnad våra geeks som <a href="https://www.picatic.com/geekevolution?utm_source=promotion&utm_medium=button&utm_campaign=105221" target="_blank">köper biljett</a> till eventet.</p>
+				<p>Under kvällen blir vi underhållna av komikergruppen <a href="#" onclick="openOverlay('standupyoursoverlay', event)">Stand Up Yours</a>!</p>
+      </div>
+      <div class="five columns right last-item item">
+				<a href="#" onclick="openOverlay('standupyoursoverlay', event)">
+					<div class="item-wrap">
+						<img src="images/standupyours.jpg" alt="Stand Up Yours">
+					</div>
+				</a>
+			</div>
+		</div>
+	</section>
    
    <!-- Lokal
    ================================================== -->

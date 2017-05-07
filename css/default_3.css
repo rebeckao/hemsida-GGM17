@@ -187,7 +187,7 @@ h1, h2, h3, h4, h5, h6 {
    text-transform: uppercase;
 }
 h1 a, h2 a, h3 a, h4 a, h5 a, h6 a { font-weight: inherit; }
-h1 { font-size: 38px; line-height: 42px; margin-bottom: 12px; letter-spacing: -1px; }
+h1 { font-size: 38px; line-height: 42px; margin-bottom: 12px; }
 h2 { font-size: 28px; line-height: 36px; margin-bottom: 6px; }
 h3 { font-size: 22px; line-height: 30px; margin-bottom: 12px; }
 h4 { font-size: 20px; line-height: 30px; margin-bottom: 6px; }
@@ -764,7 +764,7 @@ properly.
 }
 
 .top-of-page {
-   margin-top: 54px;
+   padding-top: 54px;
 }
 
 /* ------------------------------------------------------------------ */
@@ -838,6 +838,11 @@ properly.
    background: #f7931e;
    color: #fff;
 }
+.orange h1,
+.orange h2,
+.orange h3,
+.orange h4 { color: #fff; }
+.orange a { color: #333; }
 
 /* ------------------------------------------------------------------ */
 /* Turkos mönstrad bakgrund
@@ -851,8 +856,7 @@ properly.
 .escheresque h2,
 .escheresque h3,
 .escheresque h4{ color: #fff; }
-.escheresque a { color: #f7931e; }
-.escheresque a:hover { color: #333; }
+.escheresque a { color: #000; }
 
 /* ------------------------------------------------------------------ */
 /* Rosa bakgrund
@@ -860,13 +864,13 @@ properly.
 
 .pink {
    background: #e15ca1;
-   color: #dfe3e7;
+   color: #fff;
 }
 .pink h1,
 .pink h2,
-.pink h3 { color: #dfe3e7; }
-.pink a { color: #00c0f3; }
-.pink a:hover { color: #333; }
+.pink h3,
+.pink h4 { color: #fff; }
+.pink a { color: #000; }
 
 /* ------------------------------------------------------------------ */
 /* Ljusrosa bakgrund
