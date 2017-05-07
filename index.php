@@ -296,7 +296,7 @@
       <h1>Moderatorer</h1>
     </div>
 		<div class="row responsive">
-			<div class="three columns feature item">
+			<div class="two columns feature item">
 				<a href="#" onclick="openOverlay('schedvinoverlay', event)">
 					<div class="item-wrap">
 						<img src="images/geeks/schedvin.jpg" alt="Cecilia von Schedvin" />
@@ -304,7 +304,7 @@
 					<h3 class="image-headline">Cecilia von Schedvin</h3>
 				</a>
 			</div>
-			<div class="three columns feature item">
+			<div class="two columns feature item">
 				<a href="#" onclick="openOverlay('marianneolssonoverlay', event)">
 					<div class="item-wrap">
 						<img src="images/geeks/marianneolsson.jpg" alt="Marianne Olsson"/>
@@ -312,7 +312,7 @@
 					<h3 class="image-headline">Marianne Olsson</h3>
 				</a>
 			</div>
-			<div class="three columns feature item">
+			<div class="two columns feature item">
 				<a href="#" onclick="openOverlay('cronaoverlay', event)">
 					<div class="item-wrap">
 						<img src="images/geeks/crona.jpg" alt="Malin Crona"/>
@@ -320,13 +320,24 @@
 					<h3>Malin Crona</h3>
 				</a>
 			</div>
-			<div class="three columns feature item">
+			<div class="two columns feature item">
 				<a href="#" onclick="openOverlay('wilenoverlay', event)">
 					<div class="item-wrap">
 						<img src="images/geeks/Gitta.jpg" alt="Gitta Wilén"/>
 					</div>
 					<h3>Gitta Wilén</h3>
 				</a>
+			</div>
+			<div class="two columns feature item">
+				<a href="#" onclick="openOverlay('turessonoverlay', event)">
+					<div class="item-wrap">
+						<img src="images/geeks/petronella.jpg" alt="Petronella Turesson"/>
+					</div>
+					<h3>Petronella Turesson</h3>
+				</a>
+			</div>
+			<div class="two columns feature item">
+				<img src="images/11.jpg"/>
 			</div>
 		</div>
   </section>
