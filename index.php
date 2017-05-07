@@ -214,9 +214,13 @@
         <h4>Videoteknik bakom kulisserna - utvecklingen och möjligheterna</h4>
     </div>
     <div class="three columns feature item">
-      <img src="images/geeks/saralei.jpg" alt="Sara Lei"/>
-      <h3>Sara Lei</h3>
-      <h4>Framtidens arbetssätt i sjukvården</h4>
+      <a href="#" onclick="openOverlay('saraleioverlay', event)">
+        <div class="item-wrap">
+			<img src="images/geeks/saralei.jpg" alt="Sara Lei"/>
+		</div>
+		<h3>Sara Lei</h3>
+		<h4>Framtidens arbetssätt i sjukvården</h4>
+	  </a>
     </div>
     <div class="three columns feature item">
       <a href="#" onclick="openOverlay('claudiaoverlay', event)">
