@@ -8,9 +8,8 @@ deadlines = [
 	]},
 	{dateTime: new Date("May 13, 2017 11:00:00").getTime(), items: [{itemName: "Pitcha ditt företag till geek girls!", speaker: "Lisa Evertsson Norrevik", place: "Lobbyn"}]},
 	{dateTime: new Date("May 13, 2017 11:05:00").getTime(), items: [{itemName: "Videoteknik bakom kulisserna - utvecklingen och möjligheterna", speaker: "Isabelle Jouper & Marilia Bognandi", place: "Auditoriet"}]},
-	{dateTime: new Date("May 13, 2017 11:30:00").getTime(), items: [{itemName: "TBA", speaker: "Siren Hofvander", place: "Verkstaden"}]},
 	{dateTime: new Date("May 13, 2017 11:30:00").getTime(), items: [
-			{itemName: "TBA", speaker: "Siren Hofvander", place: "Verkstaden"},
+			{itemName: "Säkerhet för alla", speaker: "Siren Hofvander", place: "Verkstaden"},
 			{itemName: "Why you will never call your grandma from Mars and other news from computer science", speaker: "Nataliia Nuzhdina", place: "Auditoriet"}
 	]},
 	{dateTime: new Date("May 13, 2017 11:50:00").getTime(), items: [{itemName: "Genus i entreprenörsskap", speaker: "Olivia Whitehouse", place: "Auditoriet"}]},
