@@ -75,7 +75,7 @@
     <div class="three columns feature item">
       <a href="#" onclick="openOverlay('hofvanderoverlay', event)">
 		<div class="item-wrap">
-			<img src="images/geeks/Siren.jpg" alt="Siren Hofvander"/>
+			<img src="images/geeks/siren.jpg" alt="Siren Hofvander"/>
 		</div>
         <h3 class="image-headline">Siren Hofvander</h3>
         <h4>Säkerhet för alla</h4>
