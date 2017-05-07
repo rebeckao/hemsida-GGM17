@@ -110,7 +110,7 @@
 .programItem.common a {
     color: #fff!important
 }
-.programItem.common {
+.programItem.common h3 {
     text-transform: uppercase
 }
 @media screen and (max-width: 48rem) {
