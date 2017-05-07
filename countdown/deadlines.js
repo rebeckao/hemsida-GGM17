@@ -16,13 +16,13 @@ deadlines = [
 	{dateTime: new Date("May 13, 2017 11:50:00").getTime(), items: [{itemName: "Genus i entreprenörsskap", speaker: "Olivia Whitehouse", place: "Auditoriet"}]},
 	{dateTime: new Date("May 13, 2017 12:00:00").getTime(), items: [{itemName: "Lunch", place: "Verkstaden"}]},
 	{dateTime: new Date("May 13, 2017 13:00:00").getTime(), items: [
-			{itemName: "Framtiden för live-video", speaker: "Annelie Demred", place: "Verkstaden"}
+			{itemName: "Framtiden för live-video", speaker: "Annelie Demred", place: "Verkstaden"},
 			{itemName: "Hack yourself – biohacking & mänsklig evolution", speaker: "Maria Kareliusson", place: "Auditoriet"},
 	]},
 	{dateTime: new Date("May 13, 2017 13:15:00").getTime(), items: [{itemName: "Från utbränd till entreprenör", speaker: "Emma Hällström", place: "Lobbyn"}]},
 	{dateTime: new Date("May 13, 2017 13:35:00").getTime(), items: [{itemName: "TBA", place: "Lobbyn"}]},
 	{dateTime: new Date("May 13, 2017 13:45:00").getTime(), items: [
-			{itemName: "AI och framtiden", speaker: "Anne Håkansson", place: "Verkstaden"}
+			{itemName: "AI och framtiden", speaker: "Anne Håkansson", place: "Verkstaden"},
 			{itemName: "Framtidens arbetssätt i sjukvården", speaker: "Sara Lei", place: "Auditoriet"},
 	]},
 	{dateTime: new Date("May 13, 2017 14:05:00").getTime(), items: [{itemName: "Om världen varit jämställd hade jag hållit det här talet på Mars", speaker: "Maria Idebro", place: "Auditoriet"}]},
@@ -34,7 +34,7 @@ deadlines = [
 	]},
 	{dateTime: new Date("May 13, 2017 14:50:00").getTime(), items: [{itemName: "Teknologi för hjärta och hjärna", speaker: "Mimmi Torneus", place: "Auditoriet"}]},	
 	{dateTime: new Date("May 13, 2017 15:00:00").getTime(), items: [
-			{itemName: "Fika", place: "Lobbyn"}
+			{itemName: "Fika", place: "Lobbyn"},
 			{itemName: "Workshop: Skapa med kreativ teknik", speaker: "Nina Lindström", place: "Mötesrum nära lobbyn"},
 	]},
 	{dateTime: new Date("May 13, 2017 15:15:00").getTime(), items: [{itemName: "TBA", speaker: "Anita Sarkeesian", place: "Verkstaden"}]},	
@@ -45,7 +45,7 @@ deadlines = [
 	{dateTime: new Date("May 13, 2017 16:30:00").getTime(), items: [{itemName: "Sammanfattning", place: "Verkstaden"}]},
 	{dateTime: new Date("May 13, 2017 17:00:00").getTime(), items: [{itemName: "Middag", place: "Verkstaden"}]},
 	{dateTime: new Date("May 13, 2017 15:00:00").getTime(), items: [
-			{itemName: "Geek Evolution-Quiz!!!", speaker: "Copylinda & Kafkaspice", place: "Verkstaden"}
-			{itemName: "Fest/mingel"},
+			{itemName: "Geek Evolution-Quiz!!!", speaker: "Copylinda & Kafkaspice", place: "Verkstaden"},
+			{itemName: "Fest/mingel"}
 	]}
 ]
