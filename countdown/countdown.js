@@ -1,14 +1,24 @@
 var currentDeadlineNumber = 0;
-setNextDeadline(deadlines[currentDeadlineNumber]);
+var now = new Date().getTime();
+var currentDeadline = deadlines[currentDeadlineNumber];
+var distance = currentDeadline.dateTime - now;
+
+while ((distance <= 0) && (currentDeadlineNumber < deadlines.length-1)) {
+	currentDeadlineNumber++;
+	currentDeadline = deadlines[currentDeadlineNumber];
+	distance = currentDeadline.dateTime - now;
+}
+
+setNextDeadline(currentDeadline);
 
 // Update the count down every 1 second
 var x = setInterval(function() {
 
     // Get todays date and time
-    var now = new Date().getTime();
+    now = new Date().getTime();
     
     // Find the distance between now an the count down date
-    var distance = deadlines[currentDeadlineNumber].dateTime - now;
+    distance = currentDeadline.dateTime - now;
         	
     // Output the result in an element with id="timer"
     document.getElementById("timer").innerHTML = getTimeRemaining(distance);
@@ -18,12 +28,14 @@ var x = setInterval(function() {
 		document.getElementById("timer").innerHTML = "NU";
     }
     if (distance <= 0) {
-		currentDeadlineNumber = currentDeadlineNumber + 1;
+		currentDeadlineNumber++;
 		if (currentDeadlineNumber < deadlines.length) {
-			document.getElementById("timer").innerHTML = getTimeRemaining(deadlines[currentDeadlineNumber].dateTime - now);
-			setNextDeadline(deadlines[currentDeadlineNumber]);
+			currentDeadline = deadlines[currentDeadlineNumber];
+			document.getElementById("timer").innerHTML = getTimeRemaining(currentDeadline.dateTime - now);
+			setNextDeadline(currentDeadline);
 		} else {
 			clearInterval(x);
+			window.location.replace('http://www.nyan.cat/')
 		}
     }
 }, 1000);
@@ -78,3 +90,5 @@ function setProgramItem(nextDeadline, number) {
 function twoDigits(n){
     return n > 9 ? "" + n: "0" + n;
 }
+
+
