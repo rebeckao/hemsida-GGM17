@@ -245,7 +245,7 @@
     <div class="three columns feature item">
 			<a href="#" onclick="openOverlay('whitehouseoverlay', event)">
         <div class="item-wrap">
-					<img src="images/9.jpg"/>
+					<img src="images/geeks/whitehouse.jpg" alt="Olivia Whitehouse"/>
 				</div>
 				<h3>Olivia Whitehouse</h3>
 				<h4>Genus i entreprenörsskap</h4>
