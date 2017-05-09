@@ -512,7 +512,7 @@
     <div class="row responsive">
       <div class="six columns left">
         <h1>Plats</h1>
-        <p>I år kommer vi att hålla till i arkitektskolans gamla lokaler - <a href="http://www.ahousestockholm.com/" target="_blank">A house Stockholm</a>, Östermalmsgatan 26A. Enklaste sättet att ta sig hit är tunnelbanans röda linje till <b>Tekniska Högskolan</b>, södra uppgången.</p>
+        <p>I år kommer vi att hålla till i arkitektskolans gamla lokaler - <a href="http://www.ahousestockholm.com/" target="_blank">A house Stockholm</a>, Östermalmsgatan 26A. Enklaste sättet att ta sig hit är tunnelbanans röda linje till <b>Tekniska Högskolan</b>, uppgång Tekniska högskolan. Ta sedan höger mot utgången Danderydsgatan.</p>
       </div>
       <div class="six columns right last-item">
         <iframe
