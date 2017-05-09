@@ -209,9 +209,13 @@
   
   <div class="row responsive">
     <div class="three columns feature item">
-		<img src="images/geeks/Eyevinntalare.jpg" alt="Isebelle Jouper & Marilia Bognandi"/>
+      <a href="#" onclick="openOverlay('eyevinnoverlay', event)">
+        <div class="item-wrap">
+			<img src="images/geeks/Eyevinntalare.jpg" alt="Isebelle Jouper & Marilia Bognandi"/>
+        </div>
         <h3>Isabelle Jouper & Marilia Bognandi</h3>
         <h4>Videoteknik bakom kulisserna - utvecklingen och möjligheterna</h4>
+      </a>
     </div>
     <div class="three columns feature item">
       <a href="#" onclick="openOverlay('saraleioverlay', event)">
