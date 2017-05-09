@@ -373,7 +373,12 @@
 				</a>
 			</div>
 			<div class="two columns feature item">
-				<img src="images/11.jpg"/>
+				<a href="#" onclick="openOverlay('metsisoverlay', event)">
+					<div class="item-wrap">
+						<img src="images/geeks/metsis.jpg" alt="Hanna Metsis"/>
+					</div>
+					<h3>Hanna Metsis</h3>
+				</a>
 			</div>
 		</div>
   </section>
