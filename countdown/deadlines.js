@@ -19,7 +19,7 @@ deadlines = [
 			{itemName: "Hack yourself – biohacking & mänsklig evolution", speaker: "Maria Kareliusson", place: "Auditoriet"},
 	]},
 	{dateTime: new Date("May 13, 2017 13:15:00").getTime(), items: [{itemName: "Från utbränd till entreprenör", speaker: "Emma Hällström", place: "Lobbyn"}]},
-	{dateTime: new Date("May 13, 2017 13:35:00").getTime(), items: [{itemName: "TBA", place: "Lobbyn"}]},
+	{dateTime: new Date("May 13, 2017 13:35:00").getTime(), items: [{itemName: "Tre nycklar för att skapa sitt eget drömjobb genom sociala medier", speaker: "Elin Häggberg", place: "Lobbyn"}]},
 	{dateTime: new Date("May 13, 2017 13:45:00").getTime(), items: [
 			{itemName: "AI och framtiden", speaker: "Anne Håkansson", place: "Verkstaden"},
 			{itemName: "Tillsammans med patienten - In i framtidens hälso- och sjukvård", speaker: "Sara Lei", place: "Auditoriet"},
@@ -41,7 +41,7 @@ deadlines = [
 	{dateTime: new Date("May 13, 2017 15:50:00").getTime(), items: [{itemName: "How to kill legacy - and make a career out of it", speaker: "Tuva Palm", place: "Auditoriet"}]},
 	{dateTime: new Date("May 13, 2017 16:00:00").getTime(), items: [{itemName: "Prisutdelning Elisabeth Tegner-stipendiet", speaker: "Emelie Fågelstedt & Elisabeth Tegner", place: "Verkstaden"}]},		
 	{dateTime: new Date("May 13, 2017 16:10:00").getTime(), items: [{itemName: "TBA", place: "Auditoriet"}]},
-	{dateTime: new Date("May 13, 2017 16:30:00").getTime(), items: [{itemName: "Sammanfattning", place: "Verkstaden"}]},
+	{dateTime: new Date("May 13, 2017 16:30:00").getTime(), items: [{itemName: "Wrap-up av dagen", place: "Verkstaden"}]},
 	{dateTime: new Date("May 13, 2017 17:00:00").getTime(), items: [{itemName: "Middag", place: "Verkstaden"}]},
 	{dateTime: new Date("May 13, 2017 15:00:00").getTime(), items: [
 			{itemName: "Geek Evolution-Quiz!!!", speaker: "Copylinda & Kafkaspice", place: "Verkstaden"},
