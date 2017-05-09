@@ -219,7 +219,7 @@
 			<img src="images/geeks/saralei.jpg" alt="Sara Lei"/>
 		</div>
 		<h3>Sara Lei</h3>
-		<h4>Framtidens arbetssätt i sjukvården</h4>
+		<h4>Tillsammans med patienten - In i framtidens hälso- och sjukvård</h4>
 	  </a>
     </div>
     <div class="three columns feature item">

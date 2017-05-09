@@ -22,7 +22,7 @@ deadlines = [
 	{dateTime: new Date("May 13, 2017 13:35:00").getTime(), items: [{itemName: "TBA", place: "Lobbyn"}]},
 	{dateTime: new Date("May 13, 2017 13:45:00").getTime(), items: [
 			{itemName: "AI och framtiden", speaker: "Anne Håkansson", place: "Verkstaden"},
-			{itemName: "Framtidens arbetssätt i sjukvården", speaker: "Sara Lei", place: "Auditoriet"},
+			{itemName: "Tillsammans med patienten - In i framtidens hälso- och sjukvård", speaker: "Sara Lei", place: "Auditoriet"},
 	]},
 	{dateTime: new Date("May 13, 2017 14:05:00").getTime(), items: [{itemName: "Om världen varit jämställd hade jag hållit det här talet på Mars", speaker: "Maria Idebro", place: "Auditoriet"}]},
 	{dateTime: new Date("May 13, 2017 14:10:00").getTime(), items: [{itemName: "Robotik inom vård och omsorg", speaker: "Catharina Borgenstierna", place: "Lobbyn"}]},	
