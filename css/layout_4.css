@@ -600,6 +600,11 @@ footer h3.address:before { content: "\f041"; }
 footer h3.social:before { content: "\f0c0"; }
 footer h3.contact:before { content: "\f0e0"; }
 
+footer h4 {
+	text-transform: None;
+	letter-spacing: 1px;
+}
+
 footer ul {
    margin: 0;
    padding: 0;
@@ -608,16 +613,13 @@ footer ul li {
    margin: 0;
    line-height: 24px;
 }
-footer ul li a,
-footer ul li a:visited { color: #3c4753; }
-footer ul li a:hover,
-footer ul li a:focus { color: #fff; }
 
 /* copyright */
 footer .copyright {
    margin: 0;
    padding: 0 18px;
    clear: both;
+   text-align: right;
 }
 
 /* Go To Top Button */
