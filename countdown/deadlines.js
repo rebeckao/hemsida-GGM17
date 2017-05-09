@@ -12,7 +12,7 @@ deadlines = [
 			{itemName: "Säkerhet för alla", speaker: "Siren Hofvander", place: "Verkstaden"},
 			{itemName: "Why you will never call your grandma from Mars and other news from computer science", speaker: "Nataliia Nuzhdina", place: "Auditoriet"}
 	]},
-	{dateTime: new Date("May 13, 2017 11:50:00").getTime(), items: [{itemName: "Genus i entreprenörsskap", speaker: "Olivia Whitehouse", place: "Auditoriet"}]},
+	{dateTime: new Date("May 13, 2017 11:50:00").getTime(), items: [{itemName: "Genus i entreprenörskap", speaker: "Olivia Whitehouse", place: "Auditoriet"}]},
 	{dateTime: new Date("May 13, 2017 12:00:00").getTime(), items: [{itemName: "Lunch", place: "Verkstaden"}]},
 	{dateTime: new Date("May 13, 2017 13:00:00").getTime(), items: [
 			{itemName: "Framtiden för live-video", speaker: "Annelie Demred", place: "Verkstaden"},

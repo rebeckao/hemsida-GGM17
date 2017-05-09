@@ -252,7 +252,7 @@
 					<img src="images/geeks/whitehouse.jpg" alt="Olivia Whitehouse"/>
 				</div>
 				<h3>Olivia Whitehouse</h3>
-				<h4>Genus i entreprenörsskap</h4>
+				<h4>Genus i entreprenörskap</h4>
 			</a>
     </div>
     <div class="three columns feature item">
