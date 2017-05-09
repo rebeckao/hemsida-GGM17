@@ -38,7 +38,7 @@ deadlines = [
 	]},
 	{dateTime: new Date("May 13, 2017 15:15:00").getTime(), items: [{itemName: "TBA", speaker: "Anita Sarkeesian", place: "Verkstaden"}]},	
 	{dateTime: new Date("May 13, 2017 15:30:00").getTime(), items: [{itemName: "TBA", place: "Auditoriet"}]},	
-	{dateTime: new Date("May 13, 2017 15:50:00").getTime(), items: [{itemName: "TBA", place: "Auditoriet"}]},
+	{dateTime: new Date("May 13, 2017 15:50:00").getTime(), items: [{itemName: "How to kill legacy - and make a career out of it", speaker: "Tuva Palm", place: "Auditoriet"}]},
 	{dateTime: new Date("May 13, 2017 16:00:00").getTime(), items: [{itemName: "Prisutdelning Elisabeth Tegner-stipendiet", speaker: "Emelie Fågelstedt & Elisabeth Tegner", place: "Verkstaden"}]},		
 	{dateTime: new Date("May 13, 2017 16:10:00").getTime(), items: [{itemName: "TBA", place: "Auditoriet"}]},
 	{dateTime: new Date("May 13, 2017 16:30:00").getTime(), items: [{itemName: "Sammanfattning", place: "Verkstaden"}]},
