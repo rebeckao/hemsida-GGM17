@@ -256,13 +256,13 @@
 			</a>
     </div>
     <div class="three columns feature item">
-			<a href="#" onclick="openOverlay('palmoverlay', event)">
-        <div class="item-wrap">
-					<img src="images/7.jpg"/>
-				</div>
-				<h3>Tuva Palm</h3>
-				<h4>How to kill legacy - and make a career out of it</h4>
-			</a>
+		<a href="#" onclick="openOverlay('palmoverlay', event)">
+			<div class="item-wrap">
+				<img src="images/geeks/palm.jpg" alt="Tuva Palm"/>
+			</div>
+			<h3>Tuva Palm</h3>
+			<h4>How to kill legacy - and make a career out of it</h4>
+		</a>
     </div>
     <div class="three columns feature item">
 		<img src="images/10.jpg"/>
