@@ -550,7 +550,7 @@
 		</ul>
       </section>
       <section id="contact" class="six columns">
-        <p>Vill du nå oss? Skicka ett mail till <a href="mailto:info@ggmif.se">info@ggmif.se</a> eller använd kontaktformuläret.</p>
+        <p>Vill du nå oss? Skicka ett mail till <a href="mailto:info@ggmif.com">info@ggmif.com</a> eller använd kontaktformuläret.</p>
         <?php
         $action=$_REQUEST['action'];
         if ($action=="")    /* display the contact form */
