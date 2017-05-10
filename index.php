@@ -287,6 +287,17 @@
        <img width="256" alt="We Can Do It!" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/We_Can_Do_It%21.jpg/256px-We_Can_Do_It%21.jpg" alt="We Can Do It, via Wikimedia Commons"/>
     </div-->
   </div>
+	<div class="row responsive">
+    <div class="three columns feature item">
+		<a href="#" onclick="openOverlay('jarfoverlay', event)">
+			<div class="item-wrap">
+				<img src="images/geeks/Samare_Jarf.jpg" alt="Samare Jarf"/>
+			</div>
+			<h3>Samare Jarf</h3>
+			<h4>Machine Learning the Checkout</h4>
+		</a>
+    </div>
+	</div>
 	
 	<h3>
 		<a href="#stipendiet" onclick="toggleSpeakers(event)"><i class="icon-up-open"></i></i>Visa färre talare</a>
