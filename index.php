@@ -270,7 +270,13 @@
 		<h4>Tre nycklar för att skapa sitt eget drömjobb genom sociala medier</h4>
     </div>
     <div class="three columns feature item">
-		<img src="images/8.jpg"/>
+		<a href="#" onclick="openOverlay('marianneolssonoverlay', event)">
+			<div class="item-wrap">
+				<img src="images/geeks/marianneolsson.jpg" alt="Marianne Olsson"/>
+			</div>
+			<h3>Marianne Olsson</h3>
+			<h4>Bli en gig:are du också! – så tar du betalt som konsult</h4>
+		</a>
     </div>
     <!--div class="six columns left">
       <h3>Hålla en programpunkt</h3>

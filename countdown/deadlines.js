@@ -14,6 +14,7 @@ deadlines = [
 	]},
 	{dateTime: new Date("May 13, 2017 11:50:00").getTime(), items: [{itemName: "Genus i entreprenörskap", speaker: "Olivia Whitehouse", place: "Auditoriet"}]},
 	{dateTime: new Date("May 13, 2017 12:00:00").getTime(), items: [{itemName: "Lunch", place: "Verkstaden"}]},
+	{dateTime: new Date("May 13, 2017 12:40:00").getTime(), items: [{itemName: "Bli en gig:are du också!", speaker: "Marianne Olsson", place: "Auditoriet"}]},
 	{dateTime: new Date("May 13, 2017 13:00:00").getTime(), items: [
 			{itemName: "Framtiden för live-video", speaker: "Annelie Demred", place: "Verkstaden"},
 			{itemName: "Hack yourself – biohacking & mänsklig evolution", speaker: "Maria Kareliusson", place: "Auditoriet"},
