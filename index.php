@@ -265,9 +265,13 @@
 		</a>
     </div>
     <div class="three columns feature item">
-		<img src="images/10.jpg"/>
-		<h3>Elin Häggberg</h3>
-		<h4>Tre nycklar för att skapa sitt eget drömjobb genom sociala medier</h4>
+		<a href="#" onclick="openOverlay('haggbergoverlay', event)">
+			<div class="item-wrap">
+				<img src="images/geeks/ElinH.jpg" alt="Elin Häggberg"/>
+			</div>
+			<h3>Elin Häggberg</h3>
+			<h4>Tre nycklar till att skapa ditt eget drömjobb med sociala medier</h4>
+		</a>
     </div>
     <div class="three columns feature item">
 		<a href="#" onclick="openOverlay('marianneolssonoverlay', event)">

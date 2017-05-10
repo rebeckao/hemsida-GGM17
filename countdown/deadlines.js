@@ -20,7 +20,7 @@ deadlines = [
 			{itemName: "Hack yourself – biohacking & mänsklig evolution", speaker: "Maria Kareliusson", place: "Auditoriet"},
 	]},
 	{dateTime: new Date("May 13, 2017 13:15:00").getTime(), items: [{itemName: "Från utbränd till entreprenör", speaker: "Emma Hällström", place: "Lobbyn"}]},
-	{dateTime: new Date("May 13, 2017 13:35:00").getTime(), items: [{itemName: "Tre nycklar för att skapa sitt eget drömjobb genom sociala medier", speaker: "Elin Häggberg", place: "Lobbyn"}]},
+	{dateTime: new Date("May 13, 2017 13:35:00").getTime(), items: [{itemName: "Tre nycklar till att skapa ditt eget drömjobb med sociala medier", speaker: "Elin Häggberg", place: "Lobbyn"}]},
 	{dateTime: new Date("May 13, 2017 13:45:00").getTime(), items: [
 			{itemName: "AI och framtiden", speaker: "Anne Håkansson", place: "Verkstaden"},
 			{itemName: "Tillsammans med patienten - In i framtidens hälso- och sjukvård", speaker: "Sara Lei", place: "Auditoriet"},
