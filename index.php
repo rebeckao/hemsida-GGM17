@@ -568,6 +568,7 @@
 			<li>Anja Folkman - pr och copy</li>
 			<li><a href="https://www.linkedin.com/in/nadiamt/" target="_blank">Nadia Mohedano</a> - sponsorer</li>
 			<li><a href="http://www.linkedin.com/in/rebeckao" target="_blank">Rebecka Öfverholm</a> - hemsida, anmälningar, social media</li>
+			<li><a href="https://se.linkedin.com/in/anna-baecklund-79ab6368" target="_blank">Anna Baecklund</a></li>
 		</ul>
       </section>
       <section id="contact" class="six columns">
