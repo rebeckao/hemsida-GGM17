@@ -46,5 +46,6 @@ deadlines = [
 	{dateTime: new Date("May 13, 2017 17:30:00").getTime(), items: [
 			{itemName: "Geek Evolution-Quiz!!!", speaker: "Copylinda & Kafkaspice", place: "Verkstaden"},
 			{itemName: "Fest/mingel"}
-	]}
+	]},
+	{dateTime: new Date("May 13, 2017 19:00:00").getTime(), items: [{itemName: "Stand Up Yours", place: "Verkstaden"}]}
 ]

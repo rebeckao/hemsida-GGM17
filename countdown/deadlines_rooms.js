@@ -12,7 +12,8 @@ deadlines_rooms = [
 		{dateTime: new Date("May 13, 2017 16:00:00").getTime(), itemName: "Prisutdelning Elisabeth Tegner-stipendiet", speaker: "Emelie Fågelstedt & Elisabeth Tegner"},
 		{dateTime: new Date("May 13, 2017 16:30:00").getTime(), itemName: "Wrap-up av dagen"},
 		{dateTime: new Date("May 13, 2017 17:00:00").getTime(), itemName: "Middag"},
-		{dateTime: new Date("May 13, 2017 17:30:00").getTime(), itemName: "Geek Evolution-Quiz!!!", speaker: "Copylinda & Kafkaspice"}
+		{dateTime: new Date("May 13, 2017 17:30:00").getTime(), itemName: "Geek Evolution-Quiz!!!", speaker: "Copylinda & Kafkaspice"},
+		{dateTime: new Date("May 13, 2017 19:00:00").getTime(), itemName: "Stand Up Yours"}
 	],
 	[
 		{dateTime: new Date("May 13, 2017 10:45:00").getTime(), itemName: "Growth by making technology", speaker: "Nina Lindström"},
