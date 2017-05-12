@@ -25,7 +25,6 @@ deadlines_rooms = [
 		{dateTime: new Date("May 13, 2017 14:05:00").getTime(), itemName: "Om världen varit jämställd...", speaker: "Maria Idebro"},
 		{dateTime: new Date("May 13, 2017 14:30:00").getTime(), itemName: "Kina - världens hetaste VR-marknad", speaker: "Eva Kindlundh"},
 		{dateTime: new Date("May 13, 2017 14:50:00").getTime(), itemName: "Teknologi för hjärta och hjärna", speaker: "Mimmi Torneus"},
-		{dateTime: new Date("May 13, 2017 15:30:00").getTime(), itemName: "Gör det själv", speaker: "Makertjej"},
 		{dateTime: new Date("May 13, 2017 15:50:00").getTime(), itemName: "How to kill legacy - and make a career out of it", speaker: "Tuva Palm"},
 		{dateTime: new Date("May 13, 2017 16:10:00").getTime(), itemName: "Machine Learning the Checkout", speaker: "Samare Jarf"}
 	],
