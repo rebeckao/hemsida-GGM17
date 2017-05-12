@@ -1,0 +1,82 @@
+@import url("../css/fonts.css");
+body {
+	margin: 0;
+	font-size: 0;
+	background-color: #000;
+	color: #fff;
+	text-align: center;
+	vertical-align: text-top;
+	-webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
+	-moz-box-sizing: border-box;    /* Firefox, other Gecko */
+	box-sizing: border-box;         /* Opera/IE 8+ */
+}
+p {
+	font-family: 'opensans-regular', sans-serif;
+}
+h2 {
+	font-family: 'vag-rounded-bold';
+}
+h3 {
+	font-family: 'vag-rounded-bold';
+}
+.mainRoom {
+	width: 100%;
+	overflow: hidden;
+	clear: both;
+	display: inline-block;
+	padding: 5px;
+	font-size: 10px;
+	box-sizing: border-box;
+}
+.mainRoom  h1{
+	font-size: 60px;
+	margin: 20px;
+}
+.mainRoom  h2{
+	font-size: 60px;
+	margin: 20px;
+}
+.mainRoom  h3{
+	font-size: 40px;
+}
+.mainRoom  .timer {
+	font-size: 100px;
+	margin: 20px;
+}
+
+.minorRoom {
+	width: 50%;
+	display: inline-block;
+	padding: 0;
+	margin: 0;
+	font-size: 10px;
+	box-sizing: border-box;
+}
+.minorRoom  h1{
+	font-size: 30px;
+	margin: 10px;
+}
+.minorRoom  h2{
+	font-size: 30px;
+	margin: 10px;
+}
+.minorRoom  h3{
+	font-size: 20px;
+}
+.minorRoom  .timer {
+	font-size: 50px;
+	margin: 10px;
+}
+
+#verkstaden {
+	color: #fff;
+	background: #23292f
+}
+#auditoriet {
+	color: #000;
+	background: #707070
+}
+#lobbyn {
+	color: #444;
+	background: #ddd;
+}
