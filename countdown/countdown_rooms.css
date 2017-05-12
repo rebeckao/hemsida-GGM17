@@ -65,7 +65,8 @@ h3 {
 .minorRoom {
 	width: 50%;
 	display: inline-block;
-	padding: 20px 20px 200px 20px;
+	padding: 20px;
+	min-height: 500px;
 	margin: 0;
 	font-size: 10px;
 	box-sizing: border-box;
