@@ -26,16 +26,15 @@ deadlines_rooms = [
 		{dateTime: new Date("May 13, 2017 14:05:00").getTime(), itemName: "Om världen varit jämställd...", speaker: "Maria Idebro"},
 		{dateTime: new Date("May 13, 2017 14:30:00").getTime(), itemName: "Kina - världens hetaste VR-marknad", speaker: "Eva Kindlundh"},
 		{dateTime: new Date("May 13, 2017 14:50:00").getTime(), itemName: "Teknologi för hjärta och hjärna", speaker: "Mimmi Torneus"},
-		{dateTime: new Date("May 13, 2017 15:50:00").getTime(), itemName: "How to kill legacy - and make a career out of it", speaker: "Tuva Palm"},
-		{dateTime: new Date("May 13, 2017 16:10:00").getTime(), itemName: "Machine Learning the Checkout", speaker: "Samare Jarf"}
+		{dateTime: new Date("May 13, 2017 16:10:00").getTime(), itemName: "How to kill legacy - and make a career out of it", speaker: "Tuva Palm"}
 	],
 	[
 		{dateTime: new Date("May 13, 2017 09:00:00").getTime(), itemName: "Registrering & frukost"},
 		{dateTime: new Date("May 13, 2017 11:00:00").getTime(), itemName: "Pitcha ditt företag till geek girls!", speaker: "Lisa Evertsson Norrevik"},
 		{dateTime: new Date("May 13, 2017 13:15:00").getTime(), itemName: "Från utbränd till entreprenör", speaker: "Emma Hällström"},
 		{dateTime: new Date("May 13, 2017 13:35:00").getTime(), itemName: "Tre nycklar till att skapa ditt eget drömjobb...", speaker: "Elin Häggberg"},
+		{dateTime: new Date("May 13, 2017 14:00:00").getTime(), itemName: "Fika, Workshop: Skapa med kreativ teknik"},
 		{dateTime: new Date("May 13, 2017 14:10:00").getTime(), itemName: "Robotik inom vård och omsorg", speaker: "Catharina Borgenstierna"},
-		{dateTime: new Date("May 13, 2017 14:30:00").getTime(), itemName: "Kina - världens hetaste VR-marknad", speaker: "Eva Kindlundh"},
-		{dateTime: new Date("May 13, 2017 15:00:00").getTime(), itemName: "Fika, Workshop: Skapa med kreativ teknik"}
+		{dateTime: new Date("May 13, 2017 14:30:00").getTime(), itemName: "Kina - världens hetaste VR-marknad", speaker: "Eva Kindlundh"}
 	]
 ]

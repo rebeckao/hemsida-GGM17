@@ -25,6 +25,7 @@ deadlines = [
 			{itemName: "AI och framtiden", speaker: "Anne Håkansson", place: "Verkstaden"},
 			{itemName: "Tillsammans med patienten - In i framtidens hälso- och sjukvård", speaker: "Sara Lei", place: "Auditoriet"},
 	]},
+	{dateTime: new Date("May 13, 2017 14:00:00").getTime(), items: [{itemName: "Workshop: Skapa med kreativ teknik", speaker: "Nina Lindström", place: "Mötesrum nära lobbyn"}]},
 	{dateTime: new Date("May 13, 2017 14:05:00").getTime(), items: [{itemName: "Om världen varit jämställd hade jag hållit det här talet på Mars", speaker: "Maria Idebro", place: "Auditoriet"}]},
 	{dateTime: new Date("May 13, 2017 14:10:00").getTime(), items: [{itemName: "Robotik inom vård och omsorg", speaker: "Catharina Borgenstierna", place: "Lobbyn"}]},	
 	{dateTime: new Date("May 13, 2017 14:30:00").getTime(), items: [
@@ -34,13 +35,11 @@ deadlines = [
 	]},
 	{dateTime: new Date("May 13, 2017 14:50:00").getTime(), items: [{itemName: "Teknologi för hjärta och hjärna", speaker: "Mimmi Torneus", place: "Auditoriet"}]},	
 	{dateTime: new Date("May 13, 2017 15:00:00").getTime(), items: [
-			{itemName: "Fika", place: "Lobbyn"},
-			{itemName: "Workshop: Skapa med kreativ teknik", speaker: "Nina Lindström", place: "Mötesrum nära lobbyn"},
+			{itemName: "Fika", place: "Lobbyn"}
 	]},
 	{dateTime: new Date("May 13, 2017 15:15:00").getTime(), items: [{itemName: "Tech och populärkultur (eng)", speaker: "Anita Sarkeesian", place: "Verkstaden"}]},
-	{dateTime: new Date("May 13, 2017 15:50:00").getTime(), items: [{itemName: "How to kill legacy - and make a career out of it", speaker: "Tuva Palm", place: "Auditoriet"}]},
 	{dateTime: new Date("May 13, 2017 16:00:00").getTime(), items: [{itemName: "Prisutdelning Elisabeth Tegner-stipendiet", speaker: "Emelie Fågelstedt & Elisabeth Tegner", place: "Verkstaden"}]},		
-	{dateTime: new Date("May 13, 2017 16:10:00").getTime(), items: [{itemName: "Machine Learning the Checkout", speaker: "Samare Jarf", place: "Auditoriet"}]},
+	{dateTime: new Date("May 13, 2017 16:10:00").getTime(), items: [{itemName: "How to kill legacy - and make a career out of it", speaker: "Tuva Palm", place: "Auditoriet"}]},
 	{dateTime: new Date("May 13, 2017 16:30:00").getTime(), items: [{itemName: "Wrap-up av dagen", place: "Verkstaden"}]},
 	{dateTime: new Date("May 13, 2017 17:00:00").getTime(), items: [{itemName: "Middag", place: "Verkstaden"}]},
 	{dateTime: new Date("May 13, 2017 17:30:00").getTime(), items: [
